@@ -1,4 +1,7 @@
-
+<item>
+<title> [COLOR yellowgreen][B]**********[COLOR orangered]-------_____-¡¡¡¡Siéntate y Disfruta!!!!-_____------[/COLOR] **********[/B][/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
 
 
 
@@ -212,7 +215,7 @@
 
 
 <item>
-<title> [COLOR yellowgreen][B]***********[COLOR orangered]------DeporteS-----[/COLOR] *****************[/B][/COLOR] </title>	
+<title> [COLOR yellowgreen][B]**********[COLOR orangered]------DeporteS-----[/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
 
@@ -235,6 +238,19 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+ </item>
+ 
+ 
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Movistar Fútbol[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=futbolespm&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
