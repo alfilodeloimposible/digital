@@ -1,5 +1,5 @@
 <item>
-<title> [COLOR yellowgreen][B]******[COLOR orangered]-------_____-¡¡¡¡Siéntate y Disfruta!!!!-_____------[/COLOR] **********[/B][/COLOR] </title>	
+<title> [COLOR yellowgreen][B]******[COLOR orangered]¡¡¡¡Siéntate y Disfruta!!!!<thumbnail>https://thumbs.dreamstime.com/z/boletos-del-envase-y-del-cine-de-las-palomitas-22439353.jpg</thumbnail>  [/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
 
@@ -285,7 +285,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.fstream.me/hembedplayer/canalpartidazo/1/650/400</page>
+<page>http://www.fstream.me/hembedplayer/canalpartidazo&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://subefotos.com/ver/?7658eb3268d63f1890cc1e9142d4a0b3o.jpg</thumbnail>  
