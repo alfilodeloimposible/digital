@@ -43,11 +43,15 @@
 </item>
 
 <item>
-<title>                     [COLOR magenta]**********************Peliculas**************************[/COLOR] </title>	
+<title>                     [COLOR magenta]**[B]**********************************************************************[/B][/COLOR] </title>	
+<info> Enlaces a películas (oor Género) </info>			
+
+<link>$doregex[makelist]</link>
+
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Oeste[/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Oeste (Para Eli y Marce)[/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculas%20oeste.m3u</externallink>
 </item>
