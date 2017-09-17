@@ -30,8 +30,16 @@
 <title>                [COLOR royalblue]update: [COLOR lightblue][B]***[/B][/COLOR]  16 SEPTIEMBRE 2017[/COLOR]      </title>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Movistar +[/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>Ibai/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Oeste[/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>Ibai/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculas%20oeste.m3u</externallink>
+</item>
+
+
 
