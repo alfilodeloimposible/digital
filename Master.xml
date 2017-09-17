@@ -37,7 +37,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] Deportes (acestream)[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] Deportes (acestream)[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
 </item>
@@ -51,28 +51,27 @@
 </item>
 
 
-
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Oeste (Para Eli y Marce)[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Oeste (Para Eli y Marce)[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculas%20oeste.m3u</externallink>
 </item>
  
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] Peliculas Thriller (acestream)[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Peliculas Thriller (acestream)[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/Pelis%20Thriller.m3u</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Ciencia Ficción[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Ciencia Ficción[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/lista%20pelis%20ficci%C3%B3n.m3u</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Terror[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue]  Peliculas Terror[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/terror.m3u</externallink>
 </item>
@@ -94,7 +93,7 @@
 </item>
 
 <item>
-<title>-[COLOR  blue] ANIMACIÓN [/COLOR]</title>
+<title>-[COLOR lime]•[COLOR  blue] ANIMACIÓN [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</thumbnail>
 <fanart>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</fanart>
@@ -102,6 +101,33 @@
 </item>
 
 
+
+<item>
+<title>-[COLOR lime]•[COLOR  blue] DRAMA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://comps.canstockphoto.es/can-stock-photo_csp11392197.jpg</thumbnail>
+<fanart>http://comps.canstockphoto.es/can-stock-photo_csp11392197.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisdrama.m3u</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR  blue] AVENTURAS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg-</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisaventura.m3u</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  blue] BÉLICO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisbelico.m3u</externallink>	
+</item>
 
 
 
