@@ -387,8 +387,6 @@
  </item>
 
 
-
-
  
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being La Liga[/UPPERCASE][/COLOR] </title>
@@ -402,24 +400,21 @@
 </regex>
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   </item>
 
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] ##prueba##[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
+ 
+  <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]##prueba##[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>get-id</name>
+<name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://pxstream.tv/embed/x1eipprvitrk/</page>
-<referer>http://nowwatchtvlive.cc/bt-sport-1-full-hd-live-stream-720-1080p/</referer>
-<agent>iPad</agent>
+<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   </item>
-
- 
- 
+<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+ </item>
  
 <item>
-<title>[COLOR aqua]______________________________________[COLOR aqua][B]_________________[/B][/COLOR][/COLOR][COLOR aqua]_____________________________________[B][/B] [/COLOR]</title>
+<title>[COLOR aqua]______________________________________[COLOR aqua]_________________[/COLOR][/COLOR][COLOR aqua]_____________________________________[B][/B] [/COLOR]</title>
 <fanart>http://www.elminero.com.mx/assets/2015/03/PALOMITAS.jpg</fanart>
 <thumbnail>ignoreme.me</thumbnail>
 <link>ignoreme.me</link>
