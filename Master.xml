@@ -44,15 +44,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]IPTV[/B]   [/COLOR][COLOR lightslategray][B][Servidores diarios actualizados diariamente][/B][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/iptv.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv.m3u</externallink>
-<info>Adryanlist es GRATIS, y está hecho con el ánimo incansable de aprender ............gracias adelante</info></item>
-
-
-
-<item>
-<title>                     [COLOR magenta]**[B]**************************Enlaces a películas (por Género) ********************************************[/B][/COLOR] </title>	
+<title> [COLOR magenta]**[B]**************************Enlaces a películas (por Género) ********************************************[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 

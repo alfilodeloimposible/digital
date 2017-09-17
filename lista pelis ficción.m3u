@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR blue] DIABLO /COLOR] [COLOR white] CINE FICCION *[/COLOR]
+#EXTINF:0,[COLOR tomato]              * [COLOR white] CINE FICCION *[/COLOR]
 http://youtube.com
 
 #EXTINF:0, [COLOR lime]**[/COLOR]12 catástrofes (TV)
@@ -756,7 +756,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8573&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6saG6c&id=33051&tit=RWwgZMOtYSBkZWwganVpY2lvIGZpbmFs
 #EXTINF:0, [COLOR lime]**[/COLOR]El día después del juicio final
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gob22a&id=4773&tit=RWwgZMOtYSBkZXNwdcOpcyBkZWwganVpY2lvIGZpbmFs
-#EXTINF:0, [COLOR lime]**[/COLOR]El diablo que vino de Akasawa
+#EXTINF:0, [COLOR lime]**[/COLOR]El  que vino de Akasawa
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI2pcWyd&id=23239&tit=RWwgZGlhYmxvIHF1ZSB2aW5vIGRlIEFrYXNhd2E=
 #EXTINF:0, [COLOR lime]**[/COLOR]El doctor Frankenstein
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6102&peli=4sfkm6POo7_omJexk9HVpGzho7noqcPs3w==&id=19766&tit=RWwgZG9jdG9yIEZyYW5rZW5zdGVpbg==
