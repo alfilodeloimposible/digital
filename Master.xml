@@ -26,7 +26,7 @@
  
 
 <item>
-<title>                [COLOR royalblue]update: [COLOR lightblue][B]***[/B][/COLOR]  16 SEPTIEMBRE 2017[/COLOR]      </title>
+<title>                [COLOR lime]update: [COLOR darkorchid][B]***[/B][/COLOR]  16 SEPTIEMBRE 2017[/COLOR]      </title>
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Movistar +[/COLOR] [COLOR lightslategray] [/COLOR]</title>
@@ -44,7 +44,7 @@
 
 
 <item>
-<title> [COLOR magenta]**[B]**************************Enlaces a películas (por Género) ********************************************[/B][/COLOR] </title>	
+<title> [COLOR yellowgreen]**[B]****************[COLOR orangered]Enlaces a películas (por Género)[/COLOR] *****************[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
