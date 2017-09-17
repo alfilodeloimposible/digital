@@ -402,7 +402,7 @@
 
  
   <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]##prueba##[/UPPERCASE][/COLOR] </title>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]##prueba1##[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -412,6 +412,18 @@
 </regex>
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
  </item>
+ 
+  <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] ##prueba2##[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://saracatunga.bid/embeds/left.php</page>
+<referer>http://nowwatchtvlive.cc/movistar-partidazo-online-movistar-partidazo-en-directo-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   </item>
  
 <item>
 <title>[COLOR aqua]______________________________________[COLOR aqua]_________________[/COLOR][/COLOR][COLOR aqua]_____________________________________[B][/B] [/COLOR]</title>
