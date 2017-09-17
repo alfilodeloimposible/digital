@@ -44,7 +44,7 @@
 
 
 <item>
-<title> [COLOR yellowgreen]**[B]****************[COLOR orangered]Enlaces a películas (por Género)[/COLOR] *****************[/B][/COLOR] </title>	
+<title> [COLOR yellowgreen][B]***********[COLOR orangered]Enlaces a películas (por Género)[/COLOR] *****************[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
