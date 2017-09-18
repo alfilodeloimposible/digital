@@ -42,6 +42,12 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue]TV 24/7[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/tv24_7.xml</externallink>
+</item>
+
 
 <item>
 <title> [COLOR lime]•[/COLOR][COLOR yellowgreen][B]***********[COLOR lime]•[/COLOR][COLOR orangered]Enlaces a películas (por Género)[/COLOR] *****************[/B][/COLOR] </title>	
@@ -97,7 +103,7 @@
 <link>http://Ignoreme</link>
 <thumbnail>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</thumbnail>
 <fanart>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelianimacion.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisanmacion.m3u</externallink>	
 </item>
 
 
