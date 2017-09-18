@@ -50,7 +50,7 @@
 </item>
 
 <item>
-<title> [COLOR orangered]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
+<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
@@ -70,7 +70,7 @@
 
 
 <item>
-<title> [COLOR orangered]----------------Enlaces a películas (por Género)----------------[/COLOR] </title>	
+<title> [COLOR whitesmoke]----------------Enlaces a películas (por Género)----------------[/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
