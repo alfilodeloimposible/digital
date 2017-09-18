@@ -49,14 +49,14 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]--[COLOR lime]•[/COLOR][/COLOR] ***********[/B][/COLOR] </title>	
+<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]--[COLOR lime]•[/COLOR] ***********[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]Audiolibros --VOZ HUMANA--[COLOR lime]•[/COLOR][/COLOR] ***********[/B][/COLOR] </title>	
+<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]Audiolibros --VOZ HUMANA--[COLOR lime]•[/COLOR] ***********[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
@@ -76,7 +76,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR][COLOR yellowgreen][B]***********[/COLOR][COLOR orangered]Enlaces a películas (por Género)[COLOR lime]•[/COLOR][/COLOR] ***********[/B][/COLOR] </title>	
+<title> [COLOR lime]•[/COLOR][COLOR yellowgreen][B]***********[/COLOR][COLOR orangered]Enlaces a películas (por Género)[COLOR lime]•[/COLOR]***********[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
