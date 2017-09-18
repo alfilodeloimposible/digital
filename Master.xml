@@ -42,14 +42,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue]TV 24/7[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/tv24_7.xml</externallink>
-</item>
-
-
-<item>
-<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]---------------------------------------------------------------------------[/B][/COLOR] </title>	
+<title> [COLOR deeppink][B]--------------------------------------------------------------------------------[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
