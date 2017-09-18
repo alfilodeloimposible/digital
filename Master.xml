@@ -49,21 +49,21 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]--[COLOR lime]•[/COLOR] ***********[/B][/COLOR] </title>	
+<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]---------------------------------------------------------------------------[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]Audiolibros --VOZ HUMANA--[COLOR lime]•[/COLOR] ***********[/B][/COLOR] </title>	
+<title> [COLOR lime]•[/COLOR][COLOR orangered]Audiolibros --VOZ HUMANA--[COLOR lime]•[/COLOR] ***********[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] La Isla Misteriosa[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR deepskyblue] La Isla Misteriosa[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
