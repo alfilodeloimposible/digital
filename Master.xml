@@ -34,13 +34,6 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] Audiolibros [/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
-</item>
-
-
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] Deportes (acestream)[/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
@@ -56,7 +49,34 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR][COLOR yellowgreen][B]***********[COLOR lime]•[/COLOR][COLOR orangered]Enlaces a películas (por Género)[/COLOR] *****************[/B][/COLOR] </title>	
+<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]--[COLOR lime]•[/COLOR][/COLOR] ***********[/B][/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR][COLOR deeppink][B]***********[/COLOR][COLOR orangered]Audiolibros --VOZ HUMANA--[COLOR lime]•[/COLOR][/COLOR] ***********[/B][/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] Audiolibros [/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR lime]•[/COLOR][COLOR deepskyblue] Audiolibros [/COLOR] [COLOR lime]•[/COLOR][COLOR lightslategray] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/blade.mp3</externallink>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR][COLOR yellowgreen][B]***********[/COLOR][COLOR orangered]Enlaces a películas (por Género)[COLOR lime]•[/COLOR][/COLOR] ***********[/B][/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
