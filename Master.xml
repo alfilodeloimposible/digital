@@ -50,6 +50,13 @@
 </item>
 
 <item>
+<title>[COLOR deepskyblue] Being Sport1 (Barcelona-Eibar)(acestream)[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.xml</externallink>
+</item>
+
+
+<item>
 <title> [COLOR deeppink]--------------------------------------------------------------------------------------------------[/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
