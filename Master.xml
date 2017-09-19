@@ -17,7 +17,7 @@
 
 
 <item>
-<title>                     [COLOR magenta]RECOPILACIÓN DE ENLACES[/COLOR][COLOR ghostwhite][/COLOR][COLOR deepskyblue]  Ib@iDigit@l[/COLOR] </title>	
+<title>                     [COLOR magenta]RECOPILACIÓN DE ENLACES[/COLOR][COLOR ghostwhite][/COLOR][COLOR goldenrod]  Ib@iDigit@l[/COLOR] </title>	
 <title>                [COLOR lime]update: [COLOR darkorchid]***[/COLOR]  19 SEPTIEMBRE 2017[/COLOR]      </title>
 <info> Me gusta que los planes salgan bien </info>			
 
@@ -30,14 +30,14 @@
 <title>                [COLOR lime]update: [COLOR darkorchid]***[/COLOR]  19 SEPTIEMBRE 2017[/COLOR]      </title>
 
 <item>
-<title>[COLOR deepskyblue]  Movistar +[/COLOR] </title>
+<title>[COLOR goldenrod]  Movistar +[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR deepskyblue] Deportes (acestream)[/COLOR] </title>
+<title>[COLOR goldenrod] Deportes (acestream)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
 </item>
@@ -66,13 +66,13 @@
 </item>
 
 <item>
-<title>[COLOR deepskyblue] La Isla Misteriosa[/COLOR]</title>
+<title>[COLOR goldenrod] La Isla Misteriosa[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
 
 <item>
-<title>[COLOR deepskyblue] Blade Runner[/COLOR] </title>
+<title>[COLOR goldenrod] Blade Runner[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/blade.mp3</externallink>
 </item>
@@ -87,32 +87,32 @@
 
 
 <item>
-<title>[COLOR deepskyblue]  Peliculas Oeste[/COLOR] [COLOR lime]•(Para Eli y Marce)[/COLOR] </title>
+<title>[COLOR goldenrod]  Peliculas Oeste[/COLOR] [COLOR lime]•(Para Eli y Marce)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculas%20oeste.m3u</externallink>
 </item>
  
 
 <item>
-<title>[COLOR deepskyblue]  Peliculas de thriller[/COLOR] </title>
+<title>[COLOR goldenrod]  Peliculas de thriller[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/Pelis%20Thriller.m3u</externallink>
 </item>
 
 <item>
-<title>[COLOR deepskyblue]  Peliculas de Ciencia Ficción[/COLOR] </title>
+<title>[COLOR goldenrod]  Peliculas de Ciencia Ficción[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/lista%20pelis%20ficci%C3%B3n.m3u</externallink>
 </item>
 
 <item>
-<title>[COLOR deepskyblue]  Peliculas de Terror[/COLOR] </title>
+<title>[COLOR goldenrod]  Peliculas de Terror[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/terror.m3u</externallink>
 </item>
 
 <item>
-<title>-[COLOR deepskyblue]  Peliculas de Acción[/COLOR] </title>
+<title>-[COLOR goldenrod]  Peliculas de Acción[/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</thumbnail>
 <fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
@@ -120,7 +120,7 @@
 </item>
 
 <item>
-<title>-[COLOR deepskyblue]  Comedias [/COLOR] </title>
+<title>-[COLOR goldenrod]  Comedias [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>http://rebecaochoa.com/wp-content/uploads/2012/10/Cine-Y-Comedia-logotipo-rectangular.jpg</thumbnail>
 <fanart>http://rebecaochoa.com/wp-content/uploads/2012/10/Cine-Y-Comedia-logotipo-rectangular.jpg</fanart>
@@ -128,7 +128,7 @@
 </item>
 
 <item>
-<title>-[COLOR deepskyblue]  Peliculas de Animación [/COLOR] </title>
+<title>-[COLOR goldenrod]  Peliculas de Animación [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</thumbnail>
 <fanart>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</fanart>
@@ -138,7 +138,7 @@
 
 
 <item>
-<title>-[COLOR deepskyblue]  Drama [/COLOR] </title>
+<title>-[COLOR goldenrod]  Drama [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>http://comps.canstockphoto.es/can-stock-photo_csp11392197.jpg</thumbnail>
 <fanart>http://comps.canstockphoto.es/can-stock-photo_csp11392197.jpg</fanart>
@@ -148,7 +148,7 @@
 
 
 <item>
-<title>-[COLOR deepskyblue]  Aventuras [/COLOR] </title>
+<title>-[COLOR goldenrod]  Aventuras [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg-</fanart>
@@ -157,7 +157,7 @@
 
 
 <item>
-<title>-[COLOR deepskyblue]  Cine Bélico [/COLOR] </title>
+<title>-[COLOR goldenrod]  Cine Bélico [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
