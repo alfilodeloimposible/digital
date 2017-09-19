@@ -380,7 +380,32 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.247bay.tv/hembedplayer/beinsports1/2/610/380 </page>
+<page>http://www.playerhd1.pw/embed.php?c=122&width=650&height=400 </page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+ </item>
+
+ 
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BEING SPORT 2 HD[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.playerhd1.pw/embed.php?c=123&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+ </item>
+ 
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BEING SPORT 3 HD[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.playerhd1.pw/embed.php?c=124&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
