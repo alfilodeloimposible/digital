@@ -27,7 +27,7 @@
  
 
 <item>
-<title>                [COLOR lime]update: [COLOR darkorchid]***[/COLOR]  19 SEPTIEMBRE 2017[/COLOR]      </title>
+<title>                [COLOR lime]update: [COLOR darkorchid]***[/COLOR]  20 SEPTIEMBRE 2017[/COLOR]      </title>
 
 <item>
 <title>[COLOR goldenrod]  Movistar +[/COLOR] </title>
@@ -85,7 +85,22 @@
 
 
 <item>
-<title> [COLOR whitesmoke]----------------Enlaces a películas (por Género)----------------[/COLOR] </title>	
+<title> [COLOR deeppink]--------------------------------------------------------------------------------------------------[/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+
+<item>
+<title> [COLOR whitesmoke]--------------------------Enlaces a películas (por Género)--------------------------[/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+<item>
+<title> [COLOR deeppink]----------------------------                                 -----------------------------------[/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
