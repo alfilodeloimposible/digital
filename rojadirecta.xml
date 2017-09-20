@@ -14,14 +14,14 @@
 <item>
 <title>[B][COLOR gold]*******[/COLOR][COLOR white]  "EVENTOS Y DEPORTES" [/B][/COLOR]  [COLOR gold]*******  [/COLOR] </title>
 <link>$doregex[makelist2]</link>
-<thumbnail>https://www.dropbox.com/s/9eh7hu3w5jse5qs/mexflix24.png?dl=1</thumbnail>
+<thumbnail></thumbnail>
  
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
 <title>[makelist2.param2]</title>
 <link>$doregex[get-m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</link>
-<thumbnail>https://www.dropbox.com/s/9eh7hu3w5jse5qs/mexflix24.png?dl=1</thumbnail>
+<thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>nombre.*href="(.*?)" title="(.*?)"</expres>
 <page>http://www.vipgoal.net/</page>
@@ -92,7 +92,7 @@
    
    
  
-<thumbnail>https://www.dropbox.com/s/9eh7hu3w5jse5qs/mexflix24.png?dl=1</thumbnail></item>
+<thumbnail></thumbnail></item>
  
  
  
