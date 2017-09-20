@@ -35,11 +35,17 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR goldenrod]  Roja directa [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
+</item>
+
 
 <item>
 <title>[COLOR goldenrod] Deportes (acestream)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/rojadirecta.xml</externallink>
 </item>
 
 
@@ -49,10 +55,6 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/rojadirecta.xml</externallink>
 </item>
 <item>
-<title>[COLOR goldenrod] BSHD1(acestream)[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
-<externallink>http://80.82.78.33:8088/stream/beinsports1/playlist.m3u8</externallink>
-</item>
 
 
 <item>
