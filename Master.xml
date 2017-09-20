@@ -18,7 +18,7 @@
 
 <item>
 <title>                     [COLOR palegoldenrod]RECOPILACIÓN DE ENLACES[/COLOR][COLOR ghostwhite][/COLOR][COLOR goldenrod]  Ib@iDigit@l[/COLOR] </title>	
-<title>                [COLOR lime]update: [COLOR darkorchid]***[/COLOR]  19 SEPTIEMBRE 2017[/COLOR]      </title>
+<title>                [COLOR lime]update: [COLOR darkorchid]***[/COLOR]  20 SEPTIEMBRE 2017[/COLOR]      </title>
 <info> Me gusta que los planes salgan bien </info>			
 
 <link>$doregex[makelist]</link>
@@ -27,7 +27,7 @@
  
 
 <item>
-<title>                [COLOR lime]update: [COLOR darkorchid]***[/COLOR]  20 SEPTIEMBRE 2017[/COLOR]      </title>
+<title>            [COLOR darkorchid] update:  20 SEPTIEMBRE 2017[/COLOR]      </title>
 
 <item>
 <title>[COLOR goldenrod]  Movistar +[/COLOR] </title>
@@ -35,11 +35,7 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR goldenrod]  Roja directa [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/rojadirecta.xml</externallink>
-</item>
+
 
 
 <item>
@@ -50,7 +46,7 @@
 
 
 <item>
-<title>[COLOR goldenrod] Arenavisión FÚTBOL(acestream)[/COLOR] </title>
+<title>[COLOR goldenrod] Arenavisión FÚTBOL(dentro de éste enlace pinchar en "SOCCER")[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/rojadirecta.xml</externallink>
 </item>
