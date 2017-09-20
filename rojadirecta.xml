@@ -12,7 +12,7 @@
  
  
 <item>
-<title>[B][COLOR gold]*******[/COLOR][COLOR white]  "EVENTOS Y DEPORTES" [/B][/COLOR]  [COLOR gold]*******  [/COLOR] </title>
+<title>[COLOR gold]*******[/COLOR]"EVENTOS Y DEPORTES" *******  [/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <thumbnail></thumbnail>
  
