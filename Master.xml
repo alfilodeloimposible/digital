@@ -170,7 +170,14 @@
 </item>
 
 <item>
-<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
+<title> [COLOR lime]••••••[/COLOR] [COLOR goldenrod]Audiolibros---VOZ HUMANA---[/COLOR] [COLOR lime]••••••[/COLOR]</title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+<item>
+<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
