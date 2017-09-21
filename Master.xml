@@ -49,12 +49,6 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
 </item>
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
 
 
 <item>
@@ -124,12 +118,7 @@
 <thumbnail>http://s03.s3c.es/imag/_v0/770x420/3/a/3/Balon-Laliga-2016-2017.jpg</thumbnail>
 </item>
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
 
-<link>$doregex[makelist]</link>
-
-</item>
 
 
 <item>
@@ -154,12 +143,7 @@
 
 </item>
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
 
-<link>$doregex[makelist]</link>
-
-</item>
 
 <item>
 <title>[COLOR goldenrod] La Isla Misteriosa[/COLOR]</title>
