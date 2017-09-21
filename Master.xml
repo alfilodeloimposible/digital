@@ -41,7 +41,12 @@
 <link>$doregex[makelist]</link>
 
 </item>
+<item>
+<title> [COLOR lime]••••••[/COLOR] [COLOR goldenrod]DEPORTES[/COLOR] [COLOR lime]••••••[/COLOR]</title>	
 
+<link>$doregex[makelist]</link>
+
+</item>
 
 <item>
 <title>[COLOR goldenrod]MAS ENLACES A DEPORTES[/COLOR] </title>
