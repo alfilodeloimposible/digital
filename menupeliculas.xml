@@ -55,3 +55,81 @@
 <link>ignoreme</link>
 <externallink>http://srregio.net/Addon1.1/Peliculas/PqtDePeliculas.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR goldenrod]  Peliculas Oeste[/COLOR] [COLOR lime]•(Para Eli y Marce)[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculas%20oeste.m3u</externallink>
+</item>
+ 
+
+<item>
+<title>[COLOR goldenrod]  Peliculas de thriller[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/Pelis%20Thriller.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR goldenrod]  Peliculas de Ciencia Ficción[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/lista%20pelis%20ficci%C3%B3n.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR goldenrod]  Peliculas de Terror[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/terror.m3u</externallink>
+</item>
+
+<item>
+<title>-[COLOR goldenrod]  Peliculas de Acción[/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</thumbnail>
+<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisaccion.m3u</externallink>	
+</item>
+
+<item>
+<title>-[COLOR goldenrod]  Comedias [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://rebecaochoa.com/wp-content/uploads/2012/10/Cine-Y-Comedia-logotipo-rectangular.jpg</thumbnail>
+<fanart>http://rebecaochoa.com/wp-content/uploads/2012/10/Cine-Y-Comedia-logotipo-rectangular.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliscomedia.m3u</externallink>	
+</item>
+
+<item>
+<title>-[COLOR goldenrod]  Peliculas de Animación [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</thumbnail>
+<fanart>https://i.blogs.es/5ac398/cine-animacion-mejor-peor-encuesta-blogdecine/original.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisanmacion.m3u</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR goldenrod]  Drama [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://comps.canstockphoto.es/can-stock-photo_csp11392197.jpg</thumbnail>
+<fanart>http://comps.canstockphoto.es/can-stock-photo_csp11392197.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisdrama.m3u</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR goldenrod]  Aventuras [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg-</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisaventura.m3u</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR goldenrod]  Cine Bélico [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisbelico.m3u</externallink>	
+</item>
