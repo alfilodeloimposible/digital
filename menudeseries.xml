@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR blue][COLOR lime]~ [/COLOR] Juego de Tronos 7</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/series-television/juego-de-tronos-temporada-7-poster-fans/7/127792301-1-esl-ES/7_ampliacion.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cesarike_MA/game-of-thrones-temporada-7-latino-76534</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cesarike_MA/game-of-thrones-temporada-7-latino-76534</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/series-television/juego-de-tronos-temporada-7-poster-fans/7/127792301-1-esl-ES/7_ampliacion.jpg</thumbnail>
+<fanart>http://www.fotogramas.es/var/ezflow_site/storage/images/series-television/juego-de-tronos-temporada-7-poster-fans/7/127792301-1-esl-ES/7_ampliacion.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Dragon Ball[/COLOR]</title>
+<thumbnail>http://mm3.vistoenpantalla.com/imagenes-productos/poster-dragon-ball-laminado1-large2.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/DragonBallZ.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Ed, Edd y Eddy[/COLOR]</title>
+<thumbnail>http://imgc.allpostersimages.com/images/P-473-488-90/71/7117/FQQV100Z/posters/ed-edd-n-eddy-group-hug.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/Ed,eddyeddy.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]El chavo animado[/COLOR]</title>
+<thumbnail>http://vignette2.wikia.nocookie.net/animaestudios/images/8/80/936full-el-chavo-animado-poster.jpg/revision/latest?cb=20120608044440&path-prefix=es</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/El%20chavo%20animado.txt</externallink>
+</item>
+ 
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]El Chema[/COLOR]</title>
+<thumbnail>https://3.bp.blogspot.com/-KyHhxLHgndI/WC1moQhZpbI/AAAAAAAABrg/5gTvBTIKAwE6Zt8G65m6CUNFNzpomgytwCLcB/s990/poster%2Bsuper%2Bserie%2Bel%2Bchema.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/ElChema.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]ՠ [/COLOR][COLOR blue]El exsorscista[/COLOR</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://img.aullidos.com/imagenes/caratulas-series/exorcista-tv.jpg</thumbnail>
+        <fanart>http://img.aullidos.com/imagenes/caratulas-series/exorcista-tv.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/hector-jaime-lopez/el-exorcista-serie-45714</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/hector-jaime-lopez/el-exorcista-serie-45714</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.aullidos.com/imagenes/caratulas-series/exorcista-tv.jpg</thumbnail>
+        <fanart>http://img.aullidos.com/imagenes/caratulas-series/exorcista-tv.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]El maravilloso mundo de Gumball[/COLOR]</title>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/8e/22/ab/8e22ab20aa75b16c9709e6fef972186b.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/El%20maravilloso%20mundo%20de%20gumball.txt</externallink>
+</item>
+
+<item>
+<title>El se񯲠de lo cielos</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://goo.gl/L8cMfl</thumbnail>
+        <fanart>https://goo.gl/L8cMfl</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/joshito/el-senor-dl-cielos-t-04-1080p-latino-full-hd-mp4-24795/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/joshito/el-senor-dl-cielos-t-04-1080p-latino-full-hd-mp4-24795/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://goo.gl/L8cMfl</thumbnail>
+        <fanart>https://goo.gl/L8cMfl</fanart>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Futurama[/COLOR]</title>
+<thumbnail>http://img03.deviantart.net/ada6/i/2004/335/9/a/futurama_poster_by_solvaydrake.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/futurama.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Hora de Aventura[/COLOR]</title>
+<thumbnail>http://3.bp.blogspot.com/-sQbApNupgkA/VjgNToezIXI/AAAAAAAAAnM/pTCCxZcX1VM/s1600/poster-mayoreo-850-video-juegos-artistas-55cm-x-85cm_MLM-F-3841455308_022013.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/Hora%20de%20Aventura.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white]� [/COLOR]Jimmy Neutron</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/jimmy-neutron-boy-genius-2001/large_uzX8yzFfYRJdW0G35Mfzi6IQWZM.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/anime1/jimmy-neutron-25396/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/anime1/jimmy-neutron-25396/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/jimmy-neutron-boy-genius-2001/large_uzX8yzFfYRJdW0G35Mfzi6IQWZM.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR lime]~ [/COLOR] Juego de Tronos (Latino)</title>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/los-nuevos-posters-de-juego-de-tronos-y-sus-jugosas-frases/poster1/98000037-1-esl-ES/poster1_reference.jpg</thumbnail>
+<fanart>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/los-nuevos-posters-de-juego-de-tronos-y-sus-jugosas-frases/poster1/98000037-1-esl-ES/poster1_reference.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/GamesOfThrones.txt</externallink>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR lime]~ [/COLOR] Juego de Tronos (Castellano)</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/los-nuevos-posters-de-juego-de-tronos-y-sus-jugosas-frases/poster1/98000037-1-esl-ES/poster1_reference.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/los-nuevos-posters-de-juego-de-tronos-y-sus-jugosas-frases/poster1/98000037-1-esl-ES/poster1_reference.jpg</thumbnail>
+<fanart>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/los-nuevos-posters-de-juego-de-tronos-y-sus-jugosas-frases/poster1/98000037-1-esl-ES/poster1_reference.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR lime]~ [/COLOR] La ingobernable</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://noescinetodoloquereluce.com/wp-content/uploads/2017/03/INGOBERNABLE_SPA.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/ingobernable-t1-63916</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/ingobernable-t1-63916</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://noescinetodoloquereluce.com/wp-content/uploads/2017/03/INGOBERNABLE_SPA.jpg</thumbnail>
+<fanart>https://noescinetodoloquereluce.com/wp-content/uploads/2017/03/INGOBERNABLE_SPA.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]La oveja Shaun[/COLOR]</title>
+<thumbnail>http://es.web.img2.acsta.net/newsv7/15/03/12/12/25/573684.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/OvejaShaun.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Lo mejor del chavo del 8[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/el_chavo_del_ocho_el_chavo_del_8_tv_series-387429057-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/ElChavoDel8.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]* [/COLOR][COLOR blue]Lost[/COLOR]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://pics.filmaffinity.com/lost_tv_series-399964179-large.jpg</thumbnail>
+        <fanart>http://pics.filmaffinity.com/lost_tv_series-399964179-large.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/serie-lost-perdidos-latino-temp-123456-21438/list,1,6</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/serie-lost-perdidos-latino-temp-123456-21438/list,1,6</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/lost_tv_series-399964179-large.jpg</thumbnail>
+        <fanart>http://pics.filmaffinity.com/lost_tv_series-399964179-large.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white]� [/COLOR] Lonney Toons</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.posterparty.com/images/cartoon-looney-tunes-target-cast-poster-GBfp2745.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/anime1/lonney-tunes-27078/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/anime1/lonney-tunes-27078/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.posterparty.com/images/cartoon-looney-tunes-target-cast-poster-GBfp2745.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Los picapiedra[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/the_flintstones_tv_series-784651815-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/lospicapiedra.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white]� [/COLOR] Los Simpsons Especial noche de brujas</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2013/10-octubre/simpsons-treehouse-of-horrors-xxiv-600-long.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/degge/000001-42898</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/degge/000001-42898</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2013/10-octubre/simpsons-treehouse-of-horrors-xxiv-600-long.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+</item>
+
+<item><title>[COLOR blue][COLOR lime]~ [/COLOR] Mad</title>
+<fanart>http://www.dccomics.com/sites/default/files/files/2010/04/mad-poster.jpg</fanart>
+<thumbnail>http://www.dccomics.com/sites/default/files/files/2010/04/mad-poster.jpg</thumbnail>
+<info></info>
+<link>http://srregio.net/</link>
+<externallink>http://srregio.net/Addon1.1/Series/Mad.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Malcom el de enmedio[/COLOR]</title>
+<thumbnail>http://1.bp.blogspot.com/_gPfXA7JgTxg/TDiKMNOSnFI/AAAAAAAAYR0/95xABGMYxYU/s1600/malcolm2.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/MalcomintheMiddle.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Manual de supervivencia de Ned[/COLOR]</title>
+<thumbnail>http://3.bp.blogspot.com/-g6yDj2A2nxQ/VaGOEHqJU-I/AAAAAAAAANg/KmJhn79N8yU/s1600/ned-es.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/manualdened.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Mickey Mouse[/COLOR]</title>
+<thumbnail>https://static.justwatch.com/poster/489800/s592/la-casa-de-mickey-mouse</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/MickeyMouse.txt</externallink>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR white]� [/COLOR] My little pony</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://assets.flicks.co.nz/images/movies/poster/49/49856ed476ad01fcff881d57e161d73f_500x735.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/anime1/my-little-pony-24463</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/anime1/my-little-pony-24463</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://assets.flicks.co.nz/images/movies/poster/49/49856ed476ad01fcff881d57e161d73f_500x735.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Naruto[/COLOR]</title>
+<thumbnail>http://stuffpoint.com/naruto/image/310098-naruto-naruto-poster.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/Naruto.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Pantera rosa[/COLOR]</title>
+<thumbnail>http://www.posterspoint.com/laminas/erik/g/GPE4141.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/pantera%20rosa.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Peppa Pig[/COLOR]</title>
+<thumbnail>https://static.posters.cz/image/750/poster/peppa-pig-familia-i7253.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/Peppapig%20Tempo%201%20y%202.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Pinky y Cerebro[/COLOR]</title>
+<thumbnail>http://pics.filmaffinity.com/Pinky_y_Cerebro_Serie_de_TV-999473811-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/PinkyYCerebro.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Pokemon[/COLOR]</title>
+<thumbnail>http://cdn.cineworm.com/posters/76703-9.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/Pokemon.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Sin senos si hay paraiso[/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/-EN6Re43KSg0/WAKRr-CshjI/AAAAAAABIno/eW6SfwF5JME66YoRmoH2uipZMifqZAx5gCLcB/s1600/poster%2Bsin%2Bsenos%2Bsi%2Bhay%2Bparaiso.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/SinSenosParaiso.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Supercampeones[/COLOR]</title>
+<thumbnail>http://izozog.com/soyviejo/media/blogs/CAM/supercampeonesJ.jpg?mtime=1321578447</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/SuperCampeones.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Teen Titans GO[/COLOR]</title>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3c/0e/40/3c0e4044e03215b28adaf6029498ad26.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/TeentitansGo.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Un show mas[/COLOR]</title>
+<thumbnail>http://image.tmdb.org/t/p/w342/vp4Jk2fg45tRcX53w4AeYsTS75u.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/unshowmas.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white]� [/COLOR]Yu-Gi-Oh</title>
+<link>$doregex[makelist]</link>
+<info></info>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://images.allposters.com/images/152/2727.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/anime1/yu-gi-oh-5ds-25032/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/anime1/yu-gi-oh-5ds-25032/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images.allposters.com/images/152/2727.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]� [/COLOR][COLOR blue]Zoe 101[/COLOR]</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzMyMDM3MTY1M15BMl5BanBnXkFtZTgwMjQxNDIzMTE@._V1_.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<link>ignoreme</link>
+<externallink>http://srregio.net/Addon1.1/Series/zoe101.txt</externallink>
+</item>
