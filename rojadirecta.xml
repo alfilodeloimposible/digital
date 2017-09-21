@@ -262,14 +262,36 @@ http://127.0.0.1:6878/ace/m/1a2db0f64293ea39e85329fc2beebfd01dc7ec22/a94d7f28588
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
  
  
-_zona sport____________________________________________________________________________________________________________________________________________________________
+
+ 
+
+
 <item>
-<title>[COLOR aqua] ******* [COLOR red][B]{{{{ EVENTOS PPV. }}}}[/B][/COLOR][/COLOR][COLOR aqua]   ******* [B][/B] [/COLOR]</title>
-<fanart>ignoreme.me</fanart>
-<thumbnail>ignoreme.me</thumbnail>
-<link>ignoreme.me</link>
-<externallink>ignoreme.me</externallink>
+<title>[COLOR white]• [/COLOR][COLOR blue]Programacion Arenavision[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR orange][makelist.param1]  [/COLOR]  [COLOR blue][makelist.param2] [/COLOR]  [COLOR green][makelist.param3] [/COLOR]  [COLOR cyan][makelist.param4] [/COLOR] [COLOR blue][B][makelist.param5] [/B] [/COLOR]   [COLOR yellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=SRREGIO.NET+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail></thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.ru/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail></thumbnail>
 </item>
+
  
  
  
