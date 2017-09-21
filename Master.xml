@@ -89,24 +89,9 @@
 
 
 <item>
-<title> [COLOR whitesmoke]--------------------------Enlaces a películas (por Género)--------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
-
-<item>
-<title> [COLOR deeppink]----------------------------                                 -----------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
-
-
-<item>
-<title>[COLOR goldenrod] Menú De Películas[/COLOR] [COLOR lime]•[/COLOR] </title>
+<title>[COLOR lime]••••••[/COLOR] [COLOR goldenrod] Menú De Películas[/COLOR] [COLOR lime]••••••[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/menudepeliculas.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/menudepeliculas.xml</externallink>
 </item>
 
 
