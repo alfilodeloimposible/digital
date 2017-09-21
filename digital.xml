@@ -45,6 +45,46 @@
 
 
 <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #MEGA[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vercanalestv.com/tv/nacionales/canal-mega.html</page>
+<referer>http://www.vercanalestv.com/ver-canal-mega-online-y-directo-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>digital/logos/mega.png </thumbnail>   
+</item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #AXN[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>digital/logos/axn.png </thumbnail>   
+</item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #AXN WHITE[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://www.vercanalestv.com/ver-axn-white-en-directo-gratis-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>digital/logos/axn2.png </thumbnail>   
+</item>
+
+
+<item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Estrenos [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -315,7 +355,19 @@
 </regex>
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
  </item>
- 
+
+  <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being La Liga[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinsport.php</page>
+<referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   </item>
+
  
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Movistar Fútbol[/UPPERCASE][/COLOR] </title>
@@ -389,43 +441,7 @@
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
  </item>
  
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BEING SPORT 1 HD[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.playerhd1.pw/embed.php?c=122&width=650&height=400 </page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
-
  
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BEING SPORT 2 HD[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.playerhd1.pw/embed.php?c=123&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
- 
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BEING SPORT 3 HD[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.playerhd1.pw/embed.php?c=124&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
-
  
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BT SPOTS 1 HD[/UPPERCASE][/COLOR] </title>
@@ -441,17 +457,7 @@
 
 
  
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being La Liga[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinsport.php</page>
-<referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   </item>
+
 
  
 
