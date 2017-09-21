@@ -42,14 +42,6 @@
 
 </item>
 
-<item>
-<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
-
-
 
 <item>
 <title>[COLOR goldenrod]MAS ENLACES A DEPORTES[/COLOR] </title>
@@ -59,13 +51,6 @@
 
 <item>
 <title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
-
-<item>
-<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
@@ -141,13 +126,6 @@
 
 <item>
 <title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
-
-<item>
-<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
 
 <link>$doregex[makelist]</link>
 
