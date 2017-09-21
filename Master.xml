@@ -35,6 +35,19 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
+<item>
+<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+<item>
+<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
 
 
 
@@ -43,6 +56,21 @@
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
 </item>
+
+<item>
+<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+<item>
+<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
 
 <item>
 <title>[COLOR goldenrod] LA LIGA [/COLOR]</title>
@@ -109,6 +137,20 @@
 </regex>
 
 <thumbnail>http://s03.s3c.es/imag/_v0/770x420/3/a/3/Balon-Laliga-2016-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
+</item>
+
+<item>
+<title> [COLOR whitesmoke]Audiolibros --VOZ HUMANA-- [/COLOR] </title>	
+
+<link>$doregex[makelist]</link>
+
 </item>
 
 
