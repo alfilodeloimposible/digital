@@ -29,7 +29,18 @@
 <thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
 </item>
 
-
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar Dcine[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/dcine.php</page>
+<referer>http://tvenganchado.com/canalplus/dcine.php</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
+</item>
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #COSMOPOLITAN [/UPPERCASE][/COLOR] </title>
@@ -455,29 +466,7 @@
  
  
  
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BT SPOTS 1 HD[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page> http://www.playerhd1.pw/embed.php?c=124&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BT SPOTS 1 HD(tarjeta Roja)[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page> http://www.dinozap.info/redirect/embedredi.php?c=113&width=620&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
  
 
 
