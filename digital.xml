@@ -30,6 +30,7 @@
 </item>
 
 
+
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #COSMOPOLITAN [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -304,6 +305,20 @@
 <title> [COLOR yellowgreen][B]**********[COLOR orangered]------DeporteS-----[/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BeingSports 1 FR[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://shadow.go.ro/sdwnet/channels/fr/player/bein-sports1.php</page>
+<referer>http://www.sdw-net.me/channels/Bein-Sport-1-FR.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
+</item>
+
 
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Partidazo[/UPPERCASE][/COLOR] </title>
