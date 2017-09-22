@@ -323,7 +323,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.fstream.me/hembedplayer/canalpartidazo&width=650&height=397</page>
+<page>http://www.dinostream.pw/embed.php?c=111&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://subefotos.com/ver/?7658eb3268d63f1890cc1e9142d4a0b3o.jpg</thumbnail>  
