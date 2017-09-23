@@ -368,7 +368,17 @@
 <thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
 </item>
 
-
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]##La Liga HD##[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.sunhd.info/embedsa.php?c=112&width=620&height</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>  
+ </item>
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]BeingSports 1 FR[/UPPERCASE][/COLOR] </title>
