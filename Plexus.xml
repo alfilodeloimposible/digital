@@ -1,6 +1,55 @@
 <SetViewMode>55</SetViewMode>
 
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]FUTBOL[/B][/COLOR] [COLOR lightyellow](Elige tu Liga) [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue][makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[COLOR skyblue][makelist.param4][/COLOR]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+			<name>canal</name> 			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<info>Adryanlist es GRATIS, pero funciona gracias a  tus donaciones, para mantener las listas y el addon funcionando, es por ello que  te pido tu apoyo realizando una pequeña donacion "VOLUNTARIA" mediante PAYPAL  ya sea al correo adrian.bu@gmail.com o  entrando directamente a la pagina http://paypal.me/adryanlist, Gracias a tus donaciones este proyecto seguira adelante</info>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}$doregex[select][\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+
+ <regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige un Liga ', ['LA LIGA', 'LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'COPA DE ESPAÑA', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA'])
+   lists = ['SPANISH LA LIGA', 'SPANISH LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+ 
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -21,12 +70,13 @@
 			</regex>
 			<regex>
 			<name>canal</name> 
-			<expres>$pyFunction:'[makelist.param5]'.replace('1','01').replace('2','02').replace('3','03').replace('4','04').replace('5','05').replace('6','06').replace('7','07').replace('8','08').replace('9','09')</expres>
+			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
 			<page></page>
 			</regex>
 			
-			<thumbnail>http://s03.s3c.es/imag/_v0/770x420/3/a/3/Balon-Laliga-2016-2017.jpg</thumbnail>
-<fanart>http://files.laliga.es/seccion_logos/laliga-h-600x600.png</fanart>
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<info>Adryanlist es GRATIS, pero funciona gracias a  tus donaciones, para mantener las listas y el addon funcionando, es por ello que  te pido tu apoyo realizando una pequeña donacion "VOLUNTARIA" mediante PAYPAL  ya sea al correo adrian.bu@gmail.com o  entrando directamente a la pagina http://paypal.me/adryanlist, Gracias a tus donaciones este proyecto seguira adelante</info>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH LA LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
@@ -36,40 +86,927 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 
-<thumbnail>http://u.goal.com/245300/245344_news.jpg</thumbnail>
+<thumbnail>http://adryanlist.org/adryan/img/laliga.png</thumbnail>
+</item>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Deporte[/COLOR][/B][/COLOR]</title>
+<SetViewMode>55</SetViewMode>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR deepskyblue][B][makelist3.param1] [/B] [COLOR skyblue][[makelist3.param2]]  [/COLOR][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>categoria":"(.*?)","items":"(.*?)"</expres>
+<page>http://arenavision.esy.es/json.php</page>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR lightslategray][makelist2.param2] [COLOR skyblue][makelist2.param3] [COLOR deepskyblue] [B][makelist2.param5][/B] [/COLOR][/COLOR][/COLOR]</title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
+<page>http://arenavision.esy.es/json.php?action=listado_eventos&amp;cat=[makelist3.param1]</page>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title> [COLOR deepskyblue] [B][makelist2.param5][/B] [/COLOR] [I] Canal  [makelist.param1]  idioma:[makelist.param3] [/I]</title>
+<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist</link>
+</item>	
+]]></listrepeat>
+<expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
+<page>http://arenavision.esy.es/json.php?action=listado_canales&amp;evento=[makelist2.param1]</page>
+
+
+ 
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+			
+			
+			
+			
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][ru][/COLOR] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/$doregex[canal]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			
+			
+				<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
+<page>http://www.arenavision.ru/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]UEFA CHAMPIONS LEAGUE[/B][/COLOR] [COLOR lightslategray](acestreams) [/COLOR]</title>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][ga][/COLOR] [/COLOR][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+<title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>https://arenavision.us/[makelist.param5]</page>
-			<referer>https://arenavision.us/</referer>
+			<page>http://arenavision2017.ga/$doregex[canal]</page>
+			<referer>http://arenavision2017.ga</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
+				<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
 			
-			<thumbnail>http://s03.s3c.es/imag/_v0/770x420/3/a/3/Balon-Laliga-2016-2017.jpg</thumbnail>
-<fanart>http://files.laliga.es/seccion_logos/laliga-h-600x600.png</fanart>
-</item>	
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+ 
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}UEFA CHAMPIONS LEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision2017.ga/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision2017.ga</referer>
 <setcookie>beget=begetok</setcookie>
-</regex>
-
-<thumbnail>http://s03.s3c.es/imag/_v0/770x420/3/a/3/Balon-Laliga-2016-2017.jpg</thumbnail>
+ </regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
 </item>
 
 
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][tk][/COLOR] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][top][/COLOR] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.top/$doregex[canal]</page>
+			<referer>http://arenavision.top</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.top/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.top</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][us][/COLOR] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.us/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.us</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][aceoplisting][/COLOR] [/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Adryanlist</link>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+
+
+
+
+			<iem>
+<title>Canales Deportivos España & Mexico </title>
+			<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][I][makelist.param2] [/I][/COLOR][COLOR lightslategray]                            [/COLOR]</title>
+			
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param2]</link>
+			
+			<regex>
+			<name>hash</name>
+			<expres>\/embed\/(.*?)"</expres>
+			<page>http://freelive365.com/[makelist.param1]</page>
+			<referer>http://freelive365.com/</referer>
+			</regex>
+			<regex>
+			<name>code</name>
+			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+			<page></page>
+			</regex>
+
+			
+			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=6</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+		
+		<iem>
+<title>Acestream Television por Paises</title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+			<title>[COLOR  skyblue] [makelist2.param2][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres>acestream:"(.*?)" pais:"(.*?)";</expres>
+<page>http://adryanlist.org/adryan/kozm.txt</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue] [makelist.param2][/COLOR]</title>
+			
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist( [makelist.param2] )</link>
+			
+			<regex>
+			<name>hash</name>
+			<expres>torrentstream.org\/embed\/(.*?)"</expres
+			<page>$doregex[URL]</page>
+			</regex>
+			<regex>
+			<name>URL</name>
+			<expres>allowfullscreen src="(.*?)"</expres>
+			<page>http://freelive365.com/[makelist.param1]</page>
+			</regex>
+			
+			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)'[\w\W\s]{0,65}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/[makelist2.param1]</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR deepskyblue][B] Canales Arenavision  [COLOR aquamarine] Server [ru] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.ru/[makelist.param1]</page>
+			<referer>http://arenavision.ru</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page>http://arenavision.ru/</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR deepskyblue][B] Canales Arenavision  [COLOR aquamarine] Server [tk] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/[makelist.param1]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page>http://arenavision2017.tk</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][in][/COLOR] [Horarios] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR lightblue][makelist.param4] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR]   [COLOR lightyellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.ru/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+	
+	<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][avezy][/COLOR]  [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightgreen][makelist.param1][/COLOR] [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3][/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]    [COLOR lightyellow][makelist.param6] [makelist.param7] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR][COLOR lightyellow][makelist.param12] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+	
+
+
+<item>
+<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][avezy][/COLOR]  [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightslategray][makelist.param1][/COLOR] [COLOR blue][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3][/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+ 	
+	
+	
+
+	
+
+
+
+<item>
+<title>[COLOR skyblue][B] LIVE FOOTBALL [/B][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>$pyFunction:('[makelist2.param2]').replace('-',' ')</title>
+<link>$doregex[makelist]</link>
+ ]]></listrepeat>
+<expres><![CDATA[link[\w\W\s]{0,15}www.lfootball.ws\/(.*?)-(.*?).html]]></expres>
+<page>http://www.lfootball.ws/</page>
+<agent>Mozilla</agent>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>$pyFunction:('[makelist2.param2]').replace('-',' ')</title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Adryanlist+[makelist2.param2]  </link>
+]]></listrepeat>
+<expres><![CDATA[acestream://(.*?)"]]></expres>
+<page>http://www.lfootball.ws/[makelist2.param1]-[makelist2.param2].html</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+
+
+
+
+
+
+
+<item>
+<title>[COLOR skyblue][B] LIVE FOOTBALL  [COLOR yellow]OL[/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+	<title>[COLOR coral] [I][makelist2.param2][/I]  [/COLOR][COLOR skyblue][B] [makelist2.param4][/B] [/COLOR]  [makelist2.param1] </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres><![CDATA[flag\/16x11\/(.*?)..*?\"\/>(.*?)<.*?href="(.*?)">(.*?)<]]></expres>
+<page>http://www.livefootballol.me/live-football-streaming-2016.html</page>
+<agent>Mozilla</agent>
+</regex>
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title> [B][makelist.param3][/B]      [I] [makelist.param1][/I] </title>
+<link>plugin://program.plexus/?url=$doregex[canal]&amp;mode=1&amp;name=Adryanlist</link>
+<regex>
+<name>canal</name>
+<expres>acestream://(.*)"</expres>
+<page>[makelist.param2]</page>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[td>(.*?)<[\w\W\s]{0,15}href="(.*?html)">(.*?)AceStream]]></expres>
+<page>http://www.livefootballol.me[makelist2.param3]</page>
+<agent>Mozilla</agent>
+</regex>
+
+
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+
+ 
+
+
+<item>
+<title>ESGOLES  Canales</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>ESGOLES - Canal  [makelist.param1]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+ESGOLES[makelist.param1]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://elgoles.ru/canal-[makelist.param1]/</page>
+			<referer>http://elgoles.ru/</referer>
+			<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>elgoles.ru/canal-(.*?)\/"</expres>
+<page>http://elgoles.ru/</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+	
+ 
+	
+
+
+
+
+
+
+
+<item>
+<title>Sports Channels [AceStreams]     </title>
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR skyblue][B][makelist.param2][/B][/COLOR]   [COLOR lightblue]Language:[makelist.param4]  [/COLOR][COLOR deepskyblue]Kbps:[makelist.param5][/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param3]&amp;mode=1&amp;name=Adryanlist+[makelist.param2]</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[a\shref="(.*?)".*?trong>(.*?)Ace[\w\W\s]{0,35}acestream:\/\/(.*?)<\/t[\w\W\s]{0,7}td>(.*?)<\/t[\w\W\s]{0,7}td>(.*?)<]]></expres>
+<page>http://www.livefootballol.me/acestream-channel-list-2017.html</page>
+</regex>
+
+
+
+<item>
+<title>Sports Channels [SopCast]    </title>
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR skyblue][B][makelist.param2][/B][/COLOR]   [COLOR lightblue]Language:[makelist.param5]  [/COLOR][COLOR deepskyblue]Kbps:[makelist.param4][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://[makelist.param3]&amp;mode=2&amp;name=Adryanlist+[makelist.param2]</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[a\shref="(.*?)".*?trong>(.*?)Sop[\w\W\s]{0,35}sop:\/\/(.*?)<\/t[\w\W\s]{0,7}td>(.*?)<\/t[\w\W\s]{0,7}td>(.*?)<]]></expres>
+<page>http://www.livefootballol.me/sopcast-channel-list.html</page>
+</regex>
+ </item>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  <iem>
+<title>Torrent TV World</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Adryanlist+[makelist.param2]</link>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[location>(.*?acelive)<[\w\W\s]{0,30}title>(.*?)<]]></expres>
+<page>https://www.trambroid.com/playlist.xspf</page>
+<referer></referer>
+ 
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+  <item>
+<title>Torrent-TV.RU </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]   </title>
+<link>plugin://program.plexus/?url=http://content.asplaylist.net/[makelist.param1].acelive&amp;mode=1&amp;name=Adryanlist+[makelist.param2]</link>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres>translation=(.*?)">(.*?)<</expres>
+<page>http://torrent-tv.ru/</page>
+<referer></referer>
+ 
+</regex><thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+	<item>
+<title>    </title>
+<link>na</link>
+<externallink>http://allfon-tv.pro/autogenplaylist/allfontv.m3u</externallink>
+
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>		
+		
+		
+<item>
+<title>ALL ACESTREAMS (a)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres>acestream:\/\/(.*?)<[\w\W\s]{0,19}title(\>.*?)<</expres>
+<page>http://allfon-tv.pro/autogenplaylist/allfontv.xspf</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>		
+		
+		
+		
+		
+
+		
+<item>
+<title>SPORTS ACESTREAMS (b)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF.*?,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>		
+		
+		
+		
+		
+<item>
+<title>SPORTS ACESTREAMS (c)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param2]</title>
+	<link>plugin://program.plexus/?url=$doregex[estrem]&amp;mode=1&amp;name=Adryanlist+Acestream</link>
+
+<regex>
+<name>estrem</name>
+<expres>this.loadPlayer\(\"(.*?)\"</expres>
+<page>[makelist.param1]</page>
+</regex>
+
+	
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres>entry-title[\w\W\s]{0,24}href='(.*?)'>Acestream(.*?)<</expres>
+<page>http://sopsports.blogspot.mx/search/?q=acestream</page>
+ 
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>		
+
+
+ 		
+
+		
+		
+<item>
+  <title>v/1  [COLOR turquoise]Me-Buscan  [COLOR cyan]Acestream[/COLOR]  ESP + intl </title>
+<thumbnail>http://website.informer.com/thumbnails/280x202/m/mebuscan.net.png</thumbnail>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR bisque] [makelist.param3] [/COLOR]</title>
+    <link>plugin://program.plexus/?url=$doregex[get-link]&amp;mode=1&amp;name=[makelist.param3]</link>
+    <thumbnail>http://mebuscan.net/[makelist.param1]|Referer=http://mebuscan.net/</thumbnail>
+]]></listrepeat>            thumb              link                title
+<expres><![CDATA[Logo" src="(.*?)".*?ventana1\((\d*)\)><strong><br>(.*?)<\/strong>]]></expres>
+<page>http://mebuscan.net</page> 
+</regex>
+
+<regex>
+<name>get-link</name>
+<expres>"acestream://(.*?)"</expres>
+<page>http://mebuscan.net/kosm/contenedor.php?canal=[makelist.param2]&amp;nav=ANDR</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
+		
+<item>
+  <title>va/2  [COLOR turquoise]Me-Buscan  [COLOR cyan]Acestream[/COLOR]  ESP + intl </title>
+<thumbnail>http://website.informer.com/thumbnails/280x202/m/mebuscan.net.png</thumbnail>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR bisque] [makelist.param3] [/COLOR]</title>
+	<link>na</link>
+    <externallink>$doregex[get-link]$$TSDOWNLOADER$$</externallink>
+    <thumbnail>http://mebuscan.net/[makelist.param1]|Referer=http://mebuscan.net/</thumbnail>
+]]></listrepeat>            thumb              link                title
+<expres><![CDATA[Logo" src="(.*?)".*?ventana1\((\d*)\)><strong><br>(.*?)<\/strong>]]></expres>
+<page>http://mebuscan.net/Variedades.html</page> 
+</regex>
+
+<regex>
+<name>get-link</name>
+<expres>open\(\"(.*?)"</expres>
+<page>http://mebuscan.net/kosm/contenedor.php?canal=[makelist.param2]&amp;nav=ANDR</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+ 
+
+ <item>
+<title>[COLOR bisque] LIGA TV [/COLOR]</title>
+    <link>plugin://program.plexus/?url=b6041d93d129acd512e87a603655753adf8546db&amp;mode=1&amp;name=Adryanlist</link></item> 
+
+ <item>
+<title>[COLOR bisque] BEIN [/COLOR]</title>
+    <link>plugin://program.plexus/?url=73e8ab22bd91a719d07e511624fe0fe682ee9dcc&amp;mode=1&amp;name=Adryanlist</link></item> 
+
+
+ <item>
+<title>[COLOR bisque] DEP2 [/COLOR]</title>
+    <link>plugin://program.plexus/?url=e0a4af2618d1dc9991a4ee286341a534194c8401&amp;mode=1&amp;name=Adryanlist</link></item> 
+
+
+ <item>
+<title>[COLOR bisque] CDF [/COLOR]</title>
+    <link>plugin://program.plexus/?url=7620c3b34add0772d9b7fe9011aa86bde201c0ba&amp;mode=1&amp;name=Adryanlist</link></item> 
+
+
+ <item>
+<title>[COLOR bisque] FOX Premium [/COLOR]</title>
+    <link>plugin://program.plexus/?url=a6a7ad56b4ef0c6e3847a0e823ab518b550ade11&amp;mode=1&amp;name=Adryanlist</link></item> 
+
+
+ <item>
+<title>[COLOR bisque] UNIVI DEPORT [/COLOR]</title>
+    <link>plugin://program.plexus/?url=e7968fe55b27a9b308aa2273271f73c8fe3e5593&amp;mode=1&amp;name=Adryanlist</link></item> 
+
+
+ <item>
+<title>[COLOR bisque] ANTENA 3 [/COLOR]</title>
+    <link>http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git</link></item> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
