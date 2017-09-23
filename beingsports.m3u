@@ -1,43 +1,145 @@
 #EXTM3U
-
-#EXTM3U
-
-#EXTINF:-1,BEIN SPORTS HD 1
-
-http://ultra.widestream.io:8081/wideedge/mroxl2p/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 2
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_2_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 3
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_3_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 4
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_4_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 5
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_5_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 6
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_6_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 7
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_7_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 8
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_8_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 9
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_9_FP_HD/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD 10
-
-http://wowza2.mysoltv.com:1992/Bein_Sports_10_FP_HD/index.m3u8
+#EXTINF:0,BEIN SPORTS 1 FR
+http://62.210.245.19:8000/live/testapp/testapp/81.ts
+#EXTINF:0,BEIN SPORTS 2 FR
+http://62.210.245.19:8000/live/testapp/testapp/82.ts
+#EXTINF:0,BEIN SPORTS 3 FR
+http://62.210.245.19:8000/live/testapp/testapp/83.ts
+#EXTINF:0,BEIN SPORTS 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
+#EXTINF:0,BEIN SPORTS News (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8300.ts
+#EXTINF:0,BEIN SPORTS 1 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6959.ts
+#EXTINF:0,BEIN SPORTS 2 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6960.ts
+#EXTINF:0,BEIN SPORTS 3 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6961.ts
+#EXTINF:0,BEIN SPORTS 4 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6962.ts
+#EXTINF:0,BEIN SPORTS 5 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6963.ts
+#EXTINF:0,BEIN SPORTS 6 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6964.ts
+#EXTINF:0,BEIN SPORTS 7 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6965.ts
+#EXTINF:0,BEIN SPORTS 8 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6966.ts
+#EXTINF:0,BEIN SPORTS 9 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6967.ts
+#EXTINF:0,BEIN SPORTS 10 HD (Arabic)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/6968.ts
+#EXTINF:0,BEIN SPORTS 11 (English)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8299.ts
+#EXTINF:0,BEIN SPORTS 12 (English)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8298.ts
+#EXTINF:0,BEIN SPORTS 13 (English)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8297.ts
+#EXTINF:0,BEIN SPORTS 14 (France)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8296.ts
+#EXTINF:0,BEIN SPORTS 15 (France)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8295.ts
+#EXTINF:0,BEIN SPORTS 16 (France)
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8294.ts
+#EXTINF:0,BEIN SPORTS 1 FR
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8301.ts
+#EXTINF:0,BEIN SPORTS 2 FR
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8302.ts
+#EXTINF:0,BEIN SPORTS 3 FR
+http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8303.ts
+#EXTINF:0,BEIN SPORTS News (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8300.ts
+#EXTINF:0,BEIN SPORTS 1 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6959.ts
+#EXTINF:0,BEIN SPORTS 2 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6960.ts
+#EXTINF:0,BEIN SPORTS 3 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6961.ts
+#EXTINF:0,BEIN SPORTS 4 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6962.ts
+#EXTINF:0,BEIN SPORTS 5 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6963.ts
+#EXTINF:0,BEIN SPORTS 6 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6964.ts
+#EXTINF:0,BEIN SPORTS 7 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6965.ts
+#EXTINF:0,BEIN SPORTS 8 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6966.ts
+#EXTINF:0,BEIN SPORTS 9 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6967.ts
+#EXTINF:0,BEIN SPORTS 10 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/6968.ts
+#EXTINF:0,BEIN SPORTS 11 (English)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8299.ts
+#EXTINF:0,BEIN SPORTS 12 (English)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8298.ts
+#EXTINF:0,BEIN SPORTS 13 (English)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8297.ts
+#EXTINF:0,BEIN SPORTS 14 (France)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8296.ts
+#EXTINF:0,BEIN SPORTS 15 (France)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8295.ts
+#EXTINF:0,BEIN SPORTS 16 (France)
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8294.ts
+#EXTINF:0,BEIN SPORTS 1 FR
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8301.ts
+#EXTINF:0,BEIN SPORTS 2 FR
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8302.ts
+#EXTINF:0,BEIN SPORTS 3 FR
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/8303.ts
+#EXTINF:0,BEIN SPORTS Max 1
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15383.ts
+#EXTINF:0,BEIN SPORTS Max 2
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15384.ts
+#EXTINF:0,BEIN SPORTS Max 3
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15385.ts
+#EXTINF:0,BEIN SPORTS La Liga
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/12497.ts
+#EXTINF:0,BEIN SPORTS La Liga HD
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/16981.ts
+#EXTINF:0,BEIN SPORTS LaLiga HD
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/13709.ts
+#EXTINF:0,BEIN SPORTS MAX 1
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15453.ts
+#EXTINF:0,BEIN SPORTS MAX 1 HD
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15450.ts
+#EXTINF:0,BEIN SPORTS MAX 2
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15454.ts
+#EXTINF:0,BEIN SPORTS MAX 2 HD
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15451.ts
+#EXTINF:0,BEIN SPORTS MAX 3
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15455.ts
+#EXTINF:0,BEIN SPORTS MAX 3 HD
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15452.ts
+#EXTINF:0,BEIN SPORTS MAX 4
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15456.ts
+#EXTINF:0,BEIN SPORTS MAX 5
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15457.ts
+#EXTINF:0,BEIN SPORTS MAX 6
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15458.ts
+#EXTINF:0,BEIN SPORTS MAX 7
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15459.ts
+#EXTINF:0,BEIN SPORTS MAX 8
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15460.ts
+#EXTINF:0,BEIN SPORTS FHD
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/13279.ts
+#EXTINF:0,BEIN SPORTS HD
+http://xtream.swiftiptv.com:6500/live/36HzfHlJse/QWVCdutSZL/15440.ts
