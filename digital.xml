@@ -42,9 +42,22 @@
 <thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
 </item>
 
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Gol Tv Opción 1[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.dinostream.pw/embed.php?c=119&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   
+</item>
+
+
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] GOL TV[/UPPERCASE][/COLOR] </title>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Gol Tv Opción 2[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
