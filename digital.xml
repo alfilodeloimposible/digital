@@ -48,7 +48,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.dinostream.pw/embed.php?c=119&width=650&height=400</page>
+<page>http://www.dinostream.pw/embed.php?file=119&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   
