@@ -35,12 +35,7 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
 
-<link>$doregex[makelist]</link>
-
-</item>
 <item>
 <title> [COLOR lime]••••••[/COLOR] [COLOR goldenrod]DEPORTES[/COLOR] [COLOR lime]••••••[/COLOR]</title>	
 
@@ -133,12 +128,7 @@
 </item>
 <item>
 
-<item>
-<title>[COLOR goldenrod] BeingSports[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
-</item>
-<item>
+
 
 <item>
 <title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
@@ -147,14 +137,6 @@
 
 </item>
 
-
-
-<item>
-<title> [COLOR deeppink]TAQUILLAS[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
 
 <item>
 <title> [COLOR lime]••••••[/COLOR]    [COLOR lightgreen][B]TAQUILLAS [/COLOR][COLOR lime]••••••[/COLOR] [/B]</title>
