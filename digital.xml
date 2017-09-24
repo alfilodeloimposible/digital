@@ -248,7 +248,8 @@
 <page>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png</thumbnail>  
+<fanart>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</fanart>
  </item>
  
 
@@ -261,7 +262,8 @@
 <page>http://livesports.pw/embedn.php?file=foxespana&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+<thumbnail>http://www.movistar.com.pe/documents/10182/1673295/img-fox-D.png</thumbnail> 
+<fanart>http://www.itver.cc/wp-content/uploads/2015/07/FOX-HD.jpg</fanart> 
  </item>
  
  <item>
@@ -273,7 +275,8 @@
 <page>http://livesports.pw/embed.php?file=boing&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/boing_circular_500_nuevo.png</thumbnail>  
+<fanart>https://www.adslzone.tv/app/uploads/2013/10/Boing-Halloween.jpg</fanart>
  </item>
 
 <item>
@@ -286,19 +289,9 @@
 <referer>http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   </item>
-
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]# Historia[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
+<thumbnail>http://is3.mzstatic.com/image/thumb/Purple6/v4/fc/c3/bd/fcc3bd04-3e38-c1d6-5de2-14cc3c15918e/source/960x540bb.png</thumbnail> 
+<fanart>https://adrinalina31.files.wordpress.com/2017/03/canal-cocina.jpg</fanart>  </item>
+ 
  
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]TCM[/UPPERCASE][/COLOR] </title>
@@ -309,21 +302,11 @@
 <page>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1280px-TCM_logo_2009.svg.png</thumbnail>  
+<fanart>https://i.pinimg.com/736x/86/c7/bd/86c7bdc3bd10e962e9a31bea3e575d72--vintage-cartoons-classic-cartoons.jpg</fanart>
  </item>
  
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Series[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=mseries&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
- 
+  
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Series Xtra[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
@@ -333,7 +316,8 @@
 <page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+<thumbnail>https://miguia.tv/channels/big_273@2x.png</thumbnail>  
+<fanart>https://i2.wp.com/diariomnipresente.com/wp-content/uploads/2015/04/Fortitude.jpg</fanart>
  </item>
 
 
