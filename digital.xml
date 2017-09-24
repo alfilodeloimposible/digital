@@ -84,7 +84,8 @@
 <referer>http://www.vercanalestv.com/ver-canal-mega-online-y-directo-gratis/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>digital/logos/mega.png </thumbnail>   
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/04/logo-oficial-mega-de-Megaupload-7.png</thumbnail>   
+<fanart>http://1.bp.blogspot.com/-4EkwfMcookI/VYxmBe5wHiI/AAAAAAAAH5s/TMSsCxcc1NQ/s1600/mega-logo-atresmedia.jpg</fanart>
 </item>
 
 <item>
@@ -97,7 +98,8 @@
 <referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>https://github.com/alfilodeloimposible/digital/master/logos/axn.png</thumbnail>   
+<thumbnail>http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/AXN.png</thumbnail>   
+<fanart>http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg</fanart>
 </item>
 
 <item>
@@ -110,7 +112,8 @@
 <referer>http://www.vercanalestv.com/ver-axn-white-en-directo-gratis-por-internet/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>digital/logos/axn2.png </thumbnail>   
+<thumbnail>http://verplusonline.com/wp-content/uploads/2015/09/axnwahit.png</thumbnail>   
+<fanart>http://i60.tinypic.com/2qlbcwg.jpg</fanart>
 </item>
 
 
