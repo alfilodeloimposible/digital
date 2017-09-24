@@ -189,7 +189,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
+<thumbnail>https://boletopolis.com/imagenes/servicios/taquilla.png</thumbnail>
+<fanart>https://revistaincinema.files.wordpress.com/2011/05/taquillas.jpg</fanart>
 </item>
 
 
@@ -212,7 +213,7 @@
 
 <item>
 <title>[COLOR goldenrod] La Isla Misteriosa[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
 
