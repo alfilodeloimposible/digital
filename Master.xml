@@ -132,12 +132,7 @@
 
 
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
+ 
 
 
 <item>
@@ -195,63 +190,33 @@
 
 
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
 
 <item>
-<title> [COLOR lime]••••••[/COLOR] [COLOR goldenrod]Audiolibros---VOZ HUMANA---[/COLOR] [COLOR lime]••••••[/COLOR]</title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
-
-
-
-<item>
-<title>[COLOR goldenrod] La Isla Misteriosa[/COLOR]</title>
+<title>[COLOR goldenrod]Audiolibros---VOZ HUMANA---[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
 
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
+ 
 
 <item>
 <title>[COLOR lime]••••••[/COLOR] [COLOR goldenrod] Menú De Películas[/COLOR] [COLOR lime]••••••[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/menupeliculas.xml</externallink>
 </item>
 
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
+ 
 
 <item>
 <title>[COLOR lime]••••••[/COLOR] [COLOR goldenrod] Menú De Series[/COLOR] [COLOR lime]••••••[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>digital/master/fanart.png </fanart>
+<link>http://ignorame</link><thumbnail>https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png</thumbnail><fanart>https://www.ecured.cu/images/a/ad/SeriesTV.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/menudeseries.xml</externallink>
 </item>
 
 
-<item>
-<title> [COLOR deeppink]-------------------------------------------------------------------[/COLOR] </title>	
-
-<link>$doregex[makelist]</link>
-
-</item>
+ 
 
 
 
