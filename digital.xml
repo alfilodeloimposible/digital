@@ -27,7 +27,8 @@
 <referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
+<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail> 
+<fanart>https://www.comparaiso.es/images/cero-logo3-300.jpg</fanart>  
 </item>
 
 <item>
@@ -40,11 +41,12 @@
 <referer>http://www.vercanalestv.com/ver-canal-historia-en-directo-y-gratis-en-vivo/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png</thumbnail>  
+<fanart>http://verdirectotv.me/logos/Historia.jpg</fanart> 
 </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Gol Tv Opción 1[/UPPERCASE][/COLOR] </title>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Gol Tv [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
 <regex>
 <name>GetPageUrl</name>
@@ -55,20 +57,6 @@
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   
 </item>
 
-
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Gol Tv Opción 2[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/goltv.php</page>
-<referer>http://www.vercanalestv.com/ver-gol-tv-en-directo-y-online-las-24h-gratis/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
-</item>
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #COSMOPOLITAN [/UPPERCASE][/COLOR] </title>
