@@ -84,7 +84,8 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 
-<thumbnail>http://u.goal.com/245300/245344_news.jpg</thumbnail>
+<thumbnail>http://files.laliga.es/seccion_logos/laliga-h-600x600.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/770x420/8/0/4/balon.jpg</fanart>
 </item>
 
 <item>
@@ -115,7 +116,8 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 
-<thumbnail>http://s03.s3c.es/imag/_v0/770x420/3/a/3/Balon-Laliga-2016-2017.jpg</thumbnail>
+<thumbnail>https://articulosdeopinion.net/wp-content/uploads/2017/02/arenavision-696x408.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU_400x400.jpg</fanart>
 </item>
 
 
