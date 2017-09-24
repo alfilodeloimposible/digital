@@ -169,6 +169,18 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>
 <fanart> http://vertele.eldiario.es/files/2014/12/Movistar-Series.jpg</fanart>  </item>
 
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Series Xtra[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://miguia.tv/channels/big_273@2x.png</thumbnail>  
+<fanart>https://i2.wp.com/diariomnipresente.com/wp-content/uploads/2015/04/Fortitude.jpg</fanart>
+ </item>
 
 
 <item><title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Acción [/UPPERCASE][/COLOR] </title>
@@ -307,18 +319,6 @@
  </item>
  
   
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Series Xtra[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://miguia.tv/channels/big_273@2x.png</thumbnail>  
-<fanart>https://i2.wp.com/diariomnipresente.com/wp-content/uploads/2015/04/Fortitude.jpg</fanart>
- </item>
 
 
 
