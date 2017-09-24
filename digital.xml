@@ -328,30 +328,6 @@
 </item>
 
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Being la liga[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes1.php</page>
-<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail>   
-</item>
-
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]##La Liga HD##[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.sunhd.info/embedsa.php?c=112&width=620&height</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>  
- </item>
 
    <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being La Liga[/UPPERCASE][/COLOR] </title>
@@ -392,17 +368,7 @@
 <thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
  </item>
  
- <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Being Sports[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.dinostream.pw/embed.php?c=104884&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
- </item>
+ 
 
 
 <item>
@@ -487,13 +453,6 @@
 
  
 
-<item>
-<title>[COLOR aqua]______________________________________[COLOR aqua]_________________[/COLOR][/COLOR][COLOR aqua]_____________________________________[B][/B] [/COLOR]</title>
-<fanart>http://www.elminero.com.mx/assets/2015/03/PALOMITAS.jpg</fanart>
-<thumbnail>ignoreme.me</thumbnail>
-<link>ignoreme.me</link>
-<externallink>ignoreme.me</externallink>
-</item>
- 
+
  
 
