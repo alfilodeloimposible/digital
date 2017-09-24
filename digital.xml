@@ -54,7 +54,8 @@
 <page>http://www.dinostream.pw/embed.php?file=119&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   
+<thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
 </item>
 
 
@@ -68,7 +69,8 @@
 <referer>http://www.vercanalestv.com/canal-cosmopolitan-en-vivo-y-directo-series-cosmo/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>digital/logos/cosmo.png </thumbnail>   
+<thumbnail>http://www.bestdigitalgroup.com/web/wp-content/uploads/2014/02/cosmopolitan_tv_es_hd.png</thumbnail>   
+<fanart>https://upload.wikimedia.org/wikipedia/commons/1/14/Cosmopolitan_logo.jpg</fanart>
 </item>
 
 
