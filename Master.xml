@@ -16,11 +16,6 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR goldenrod]MAS ENLACES A DEPORTES[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
-</item>
 
 
 
@@ -103,13 +98,18 @@
 </item>
 <item>
 
+<item>
+<title>[COLOR goldenrod]MAS ENLACES A DEPORTES[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/listamaestra.xml</externallink>
+</item>
 
 
  
 
 
 <item>
-<title> [COLOR lime]••••••[/COLOR]    [COLOR lightgreen][B]TAQUILLAS [/COLOR][COLOR lime]••••••[/COLOR] [/B]</title>
+<title> [COLOR goldenrod]TAQUILLAS [/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
