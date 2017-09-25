@@ -372,6 +372,19 @@
 <thumbnail>http://is3.mzstatic.com/image/thumb/Purple6/v4/fc/c3/bd/fcc3bd04-3e38-c1d6-5de2-14cc3c15918e/source/960x540bb.png</thumbnail> 
 <fanart>https://adrinalina31.files.wordpress.com/2017/03/canal-cocina.jpg</fanart>  </item>
  
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Animal Planet [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://embed.latino-webtv.com/animalplanet.html</page>
+<referer>http://www.vertelevisor.com/ver-animal-planet-en-vivo-gratis-por-internet/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png</thumbnail> 
+<fanart>https://assets.metrolatam.com/co/2017/02/01/heroes-rescate-animal-1200x600.jpg</fanart>  </item>
+ 
  
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]TCM[/UPPERCASE][/COLOR] </title>
