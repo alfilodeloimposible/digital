@@ -330,7 +330,7 @@
 
 
    <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being La Liga[/UPPERCASE][/COLOR] </title>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being Sports[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -339,7 +339,8 @@
 <referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>   </item>
+<thumbnail>https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg</fanart>   </item>
 
  
 
@@ -353,7 +354,8 @@
 <page>http://livesports.pw/embed.php?file=partidazo&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://subefotos.com/ver/?7658eb3268d63f1890cc1e9142d4a0b3o.jpg</thumbnail>  
+<thumbnail>https://2.bp.blogspot.com/-26VfA_OYdu4/WPyctpgpJEI/AAAAAAAAAlo/1R2ADHO8QHIAQSpGkV6nkRsUQspWJSa_gCLcB/s1600/Movistar_Partidazo.svg.png</thumbnail>  
+<fanart>https://c2.staticflickr.com/8/7353/27418466094_637f0a682d_b.jpg</fanart>
  </item>
 
  <item>
@@ -365,7 +367,8 @@
 <page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+<thumbnail>https://img12.androidappsapk.co/300/9/4/d/es.lfp.laligatv.png</thumbnail>  
+<fanart>http://www.golesespana.com/wp-content/uploads/2016/07/la-liga-tv-rights1-e1468848767492.jpg</fanart>
  </item>
  
  
@@ -380,7 +383,8 @@
 <page>http://livesports.pw/embed.php?file=futbolespm&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://subefotos.com/ver/?3e7a0372e0a7d37bf550c30f8a434157o.jpg</thumbnail>  
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png</thumbnail>  
+<fanart>https://www.adslzone.net/app/uploads/2015/12/movistar-.jpg</fanart>
  </item>
  
  <item>
@@ -392,7 +396,8 @@
 <page>http://livesports.pw/embed.php?file=deporteone&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://subefotos.com/ver/?f96c2f0c16fed0d29db61bf950bc94c7o.jpg</thumbnail>  
+<thumbnail>http://todotele.com/wp-content/uploads/2017/05/MovistarDeportes1-Euroliga.png</thumbnail>  
+<fanart>https://pbs.twimg.com/media/DJb14MZXgAEf514.jpg</fanart>
  </item>
  
  <item>
@@ -404,7 +409,8 @@
 <page>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://subefotos.com/ver/?5479bbfcff8cc9f5cf8ad47a8ccef778o.jpg</thumbnail>  
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png</thumbnail>  
+<fanart>http://vercanalestv.com/imagenes/movistar-depores-2.jpg</fanart>
  </item>
  
 <item>
@@ -416,7 +422,8 @@
 <page>http://livesports.pw/embed.php?file=funoesp&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://subefotos.com/ver/?584f7f9d7baf74c056632171e192a977o.jpg</thumbnail>  
+<thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>  
+<fanart>http://s03.s3c.es/imag/_v0/770x420/8/5/8/movistar-empieza-formula1-.jpg</fanart>
  </item>
  
  <item>
@@ -428,7 +435,8 @@
 <page>http://livesports.pw/embed.php?file=motogpm&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://subefotos.com/ver/?faeb55da20589e3808ac1f5858b33013o.jpg</thumbnail>  
+<thumbnail>https://1.bp.blogspot.com/-iBydqF__JDQ/V6b5RrXFSiI/AAAAAAAAASw/gYVCtWPv8lcPhxbtK7Qj49p4qCR9kBswQCLcB/s1600/movistar-moto-gp.png</thumbnail>  
+<fanart>http://imagenes-cdn.formulamoto.es/multimedia/fotos/2017/01/19/80551/movistar-yamaha-motogp-2017-2_g.jpg</fanart>
  </item>
 
  <item>
@@ -440,7 +448,8 @@
 <page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>  
+<thumbnail>https://www.ono.es/resources/images/logo_laliga123_fut.png</thumbnail>  
+<fanart>http://files.laliga.es/seccion_logos/laliga-123-v-16-9.jpg</fanart>
  </item>
  
  
