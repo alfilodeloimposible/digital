@@ -120,6 +120,19 @@
 <fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>   </item>
 
 <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Estrenos (Opción 2)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://verliga.net/ver-canal-plus-estrenos-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-estrenos.jpg</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>   </item>
+
+<item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + DCine [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -133,6 +146,19 @@
 <fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
 
 <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + DCine (Opción 2) [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/dcine.php</page>
+<referer>http://www.verliga.net/ver-canal-plus-dcine-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail> 
+<fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
+
+<item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Comedia [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -140,6 +166,19 @@
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/comedia.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://verlatelegratis.com/wp-content/uploads/2015/07/movistar-comedia.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>   </item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Comedia (Opción 2)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/comedia.php</page>
+<referer>http://www.verliga.net/ver-canal-plus-comedia-online-gratis-en-directo.html</referer>
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://verlatelegratis.com/wp-content/uploads/2015/07/movistar-comedia.png</thumbnail>
@@ -179,6 +218,19 @@
 <expres>[",\'](h.*m3u8.*?)'</expres>
 <page>http://vergol.com/live/plusaccion.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail>   
+<fanart>http://vercanalestv.com/imagenes/movistar-accion.jpg</fanart>
+</item>
+
+<item><title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Acción (Opción 2) [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/plusaccion.php</page>
+<referer>http://www.verliga.net/ver-canal-plus-accion-online-gratis-en-directo.html</referer>
 <agent>iPad</agent>
 </regex>
 <thumbnail>https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail>   
@@ -267,6 +319,33 @@
 <fanart>http://www.movistar.com.pe/documents/10182/1673295/img-fox-D.png</fanart> 
  </item>
  
+ 
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Fox Life[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/foxlife.php</page>
+<referer>http://www.verliga.net/ver-fox-crime-online-gratis-en-directo.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png</thumbnail> 
+<fanart>http://dhnn.com/es/img/case-studies/foxlife/slide1.jpg</fanart>  </item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Divinity[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/divinity.php</page>
+<referer>http://www.verliga.net/ver-divinity-online-gratis-en-directo.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail> 
+<fanart>https://upload.wikimedia.org/wikipedia/commons/0/07/Divinity.png</fanart>  </item>
+ 
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Boing [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
@@ -318,6 +397,7 @@
 </regex>
 
 <thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>  
+
 
 
 
