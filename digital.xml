@@ -318,7 +318,17 @@
 <fanart>https://i.pinimg.com/736x/86/c7/bd/86c7bdc3bd10e962e9a31bea3e575d72--vintage-cartoons-classic-cartoons.jpg</fanart>
  </item>
  
-  
+<item>
+<title>[UPPERCASE][COLOR skyblue]Discovery Max[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://wwww.dinostream.pw/embed.php?c=105966&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>  
 
 
 
