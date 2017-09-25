@@ -448,7 +448,18 @@
 <link>$doregex[makelist]</link>
 </item>
 
-
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Real Madrid Tv[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vertelevision.online/tv/deportes/madridtv.php</page>
+<referer>http://www.vertelevisor.com/ver-real-madrid-tv-online-en-directo-gratis-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png</thumbnail>   
+<fanart>http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg</fanart>  </item>
 
    <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being Sports[/UPPERCASE][/COLOR] </title>
