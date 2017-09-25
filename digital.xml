@@ -105,6 +105,20 @@
 <fanart>http://i60.tinypic.com/2qlbcwg.jpg</fanart>
 </item>
 
+   <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]TNT[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tnt.php</page>
+<referer>http://www.vertelevisor.com/ver-tnt-gratis-en-directo-online-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette2.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png</thumbnail>   
+<fanart>http://tecavicas.es/wp-content/uploads/2013/03/tnt.jpg</fanart>  </item>
+ 
+
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Estrenos [/UPPERCASE][/COLOR] </title>
@@ -573,7 +587,18 @@
 <fanart>http://www.nationalgeographicexpeditions.com/assets/images/6798/hero-interior.jpg</fanart>  </item>
 
 
-
+   <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic WILD[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/nationalwild.php</page>
+<referer>http://www.vertelevisor.com/national-geographic-wild-online-y-gratis-por-interent-las-24h-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.bomba.md/media/dune/logo/natgeowild.png</thumbnail>   
+<fanart>http://cdn.natgeotv.com.au/subjects/headers/wild.jpg</fanart>  </item>
  
 
 
