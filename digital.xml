@@ -462,7 +462,18 @@
 <fanart>http://files.laliga.es/seccion_logos/laliga-123-v-16-9.jpg</fanart>
  </item>
  
- 
+    <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]ver liga[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg</fanart>   </item>
  
 
  
