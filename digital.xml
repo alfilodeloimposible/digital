@@ -558,7 +558,7 @@
 <fanart>http://files.laliga.es/seccion_logos/laliga-123-v-16-9.jpg</fanart>
  </item>
  
-    <item>
+<item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Gol Tv[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -571,7 +571,19 @@
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
 <fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
  
-
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://www.vertelevisor.com/ver-goltv-en-directo-gratis-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
+ 
  
    <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic[/UPPERCASE][/COLOR] </title>
