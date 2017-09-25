@@ -45,18 +45,7 @@
 <fanart>http://verdirectotv.me/logos/Historia.jpg</fanart> 
 </item>
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Gol Tv [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.dinostream.pw/embed.php?file=119&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
-<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
-</item>
+
 
 
 <item>
@@ -463,7 +452,7 @@
  </item>
  
     <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]ver liga[/UPPERCASE][/COLOR] </title>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Gol Tv[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -472,12 +461,23 @@
 <referer>http://www.verliga.net/verliga.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png</thumbnail>
-<fanart>https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg</fanart>   </item>
+<thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
  
 
  
-
+   <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/nationalgeo.php</page>
+<referer>http://www.verliga.net/ver-national-geographic-en-vivo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://www.nationalgeographic.org/static/ngs/home/img/logo.e6616dca.png</thumbnail>   
+<fanart>http://www.nationalgeographicexpeditions.com/assets/images/6798/hero-interior.jpg</fanart>  </item>
 
 
 
