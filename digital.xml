@@ -1,5 +1,5 @@
 <item>
-<title> [COLOR yellowgreen][B]******[COLOR orangered]Actualizado el 24 de septiembre de 2017[/COLOR] **********[/B][/COLOR] </title>	
+<title> [COLOR yellowgreen][B]******[COLOR orangered]^___^  Actualizado el 25 de Septiembre de 2017  ^___^[/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
 
@@ -334,7 +334,7 @@
  </item>
  
  
- <item>
+<item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Fox Life[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
@@ -360,7 +360,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail> 
 <fanart>https://upload.wikimedia.org/wikipedia/commons/0/07/Divinity.png</fanart>  </item>
  
- <item>
+<item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Boing [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -386,7 +386,7 @@
 <thumbnail>http://is3.mzstatic.com/image/thumb/Purple6/v4/fc/c3/bd/fcc3bd04-3e38-c1d6-5de2-14cc3c15918e/source/960x540bb.png</thumbnail> 
 <fanart>https://adrinalina31.files.wordpress.com/2017/03/canal-cocina.jpg</fanart>  </item>
  
- <item>
+<item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Animal Planet [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
@@ -412,20 +412,35 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1280px-TCM_logo_2009.svg.png</thumbnail>  
 <fanart>https://i.pinimg.com/736x/86/c7/bd/86c7bdc3bd10e962e9a31bea3e575d72--vintage-cartoons-classic-cartoons.jpg</fanart>
  </item>
+
  
+  
 <item>
-<title>[UPPERCASE][COLOR skyblue]Discovery Max[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://wwww.dinostream.pw/embed.php?c=105966&width=650&height=400</page>
-<cookieJar></cookieJar>
+<page>http://vergol.com/live/nationalgeo.php</page>
+<referer>http://www.verliga.net/ver-national-geographic-en-vivo.html</referer>
+<agent>iPad</agent>
 </regex>
+<thumbnail>https://www.nationalgeographic.org/static/ngs/home/img/logo.e6616dca.png</thumbnail>   
+<fanart>http://www.nationalgeographicexpeditions.com/assets/images/6798/hero-interior.jpg</fanart>  </item>
 
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>  
 
-
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic WILD[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/nationalwild.php</page>
+<referer>http://www.vertelevisor.com/national-geographic-wild-online-y-gratis-por-interent-las-24h-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.bomba.md/media/dune/logo/natgeowild.png</thumbnail>   
+<fanart>http://cdn.natgeotv.com.au/subjects/headers/wild.jpg</fanart>  </item>
 
 
 <item>
@@ -573,44 +588,18 @@
  
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/goltv.php</page>
 <referer>http://www.vertelevisor.com/ver-goltv-en-directo-gratis-por-internet/</referer>
-<agent>iPad</agent>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</agent>
 </regex>
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
 <fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
  
- 
-   <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/nationalgeo.php</page>
-<referer>http://www.verliga.net/ver-national-geographic-en-vivo.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.nationalgeographic.org/static/ngs/home/img/logo.e6616dca.png</thumbnail>   
-<fanart>http://www.nationalgeographicexpeditions.com/assets/images/6798/hero-interior.jpg</fanart>  </item>
 
-
-   <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic WILD[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/nationalwild.php</page>
-<referer>http://www.vertelevisor.com/national-geographic-wild-online-y-gratis-por-interent-las-24h-en-vivo/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://www.bomba.md/media/dune/logo/natgeowild.png</thumbnail>   
-<fanart>http://cdn.natgeotv.com.au/subjects/headers/wild.jpg</fanart>  </item>
  
 
 
