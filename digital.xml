@@ -444,6 +444,33 @@
 
 
 <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]FDF[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fdf.php</page>
+<referer>http://www.verliga.net/ver-fdf-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette.wikia.nocookie.net/lasmacabrasaventurasdebillyymandy/images/b/bf/FDF_logo.png</thumbnail>   
+<fanart>http://es-pic1.ciao.com/es/60482.jpg</fanart>  </item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Energy[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/energy.php</page>
+<referer>http://www.verliga.net/ver-energy-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/energy_circular_500.png</thumbnail>   
+<fanart>http://ec.europa.eu/energy/sites/ener/files/1consumer_rights.jpg</fanart>  </item>
+
+
+<item>
 <title> [COLOR yellowgreen][B]**********[COLOR orangered]------DeporteS-----[/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
