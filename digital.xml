@@ -413,19 +413,20 @@
 <fanart>https://i.pinimg.com/736x/86/c7/bd/86c7bdc3bd10e962e9a31bea3e575d72--vintage-cartoons-classic-cartoons.jpg</fanart>
  </item>
  
+
+
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Be Mad[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Be Mad[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>get-id</name>
+<name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://wwww.dinostream.pw/embed.php</page>
-<referer>http://latelete.tv/discovery-max-en-directo-por-internet/</referer>
-<agent>iPad</agent>
+<page>http://wwww.dinostream.pw/embed.php?c=105966&width=650&height=400</page>
+<cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/be_mad_logo_500.png</thumbnail>   
-<fanart>http://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg</fanart>  </item>
-
+<fanart>http://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg</fanart>
+ </item>
  
   
 <item>
