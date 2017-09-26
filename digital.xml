@@ -61,6 +61,33 @@
 <fanart>http://1.bp.blogspot.com/__q5vYNQrMKs/TIf616E4HNI/AAAAAAAABW8/lrSKanXIwxA/s400/cuatro_logo%5B1%5D.png</fanart>   </item>
 
 <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Tele 5[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/telecinco.php</page>
+<referer>http://www.vercanalestv.com/ver-telecinco-online-y-directo-gratis-fuera-de-espana/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette1.wikia.nocookie.net/lasmacabrasaventurasdebillyymandy/images/8/8c/Telecinco_logo.png</thumbnail>
+<fanart>https://vignette1.wikia.nocookie.net/lasmacabrasaventurasdebillyymandy/images/8/8c/Telecinco_logo.png</fanart>   </item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] La Sexta[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://verdirectotv.com/tv/nacionales/lasexta.html</page>
+<referer>http://www.vercanalestv.com/ver-la-sexta-en-directo-y-online-las-24h-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png</thumbnail>
+<fanart>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png</fanart>   </item>
+
+
+<item>
 <title> [COLOR yellowgreen][B]**********[COLOR orangered][/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
