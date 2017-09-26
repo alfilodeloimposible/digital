@@ -1,5 +1,5 @@
 <item>
-<title> [COLOR yellowgreen][B]******[COLOR orangered]^___^  Actualizado el 25 de Septiembre de 2017  ^___^[/COLOR] **********[/B][/COLOR] </title>	
+<title> [COLOR yellowgreen][B]******[COLOR orangered]^___^  Actualizado el [B]26[/B] de Septiembre de 2017  ^___^[/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
 
@@ -7,6 +7,18 @@
 <title> [COLOR yellowgreen][B]**********[COLOR orangered]------TDT-----[/COLOR] **********[/B][/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
+
+ <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Teledeporte[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] La 1 [/UPPERCASE][/COLOR] </title>
@@ -36,18 +48,6 @@
  </item>
 
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Canal 24H[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.rtve.es/directo/canal-24h/</page>
-<referer>http://www.vercanalestv.com/ver-tve-24h-noticias-online-en-directo-gratis/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://vignette1.wikia.nocookie.net/tvcable/images/6/66/Canal24htvelep.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/227Vn9VE5KM/maxresdefault.jpg</fanart>   </item>
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Antena 3[/UPPERCASE][/COLOR] </title>
@@ -100,6 +100,30 @@
 </regex>
 <thumbnail>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png</thumbnail>
 <fanart>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png</fanart>   </item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] DARK [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=darkes&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</fanart>
+<thumbnail>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</thumbnail>   </item>
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] A"&"E [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://logonoid.com/images/a-and-e-logo.png</fanart>
+<thumbnail>http://logonoid.com/images/a-and-e-logo.png</thumbnail>   </item>
 
 
 <item>
@@ -474,6 +498,9 @@
 <thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/boing_circular_500_nuevo.png</thumbnail>  
 <fanart>https://www.adslzone.tv/app/uploads/2013/10/Boing-Halloween.jpg</fanart>
  </item>
+
+ 
+
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Canal Cocina [/UPPERCASE][/COLOR] </title>
