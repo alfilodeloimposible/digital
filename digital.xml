@@ -60,7 +60,10 @@
 <thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/__q5vYNQrMKs/TIf616E4HNI/AAAAAAAABW8/lrSKanXIwxA/s400/cuatro_logo%5B1%5D.png</fanart>   </item>
 
-
+<item>
+<title> [COLOR yellowgreen][B]**********[COLOR orangered][/COLOR] **********[/B][/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
 
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Calle 13[/UPPERCASE][/COLOR] </title>
