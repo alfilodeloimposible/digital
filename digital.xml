@@ -47,6 +47,19 @@
 <thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>
 <fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
 
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Cuatro[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cuatro.php</page>
+<referer>http://www.vercanalestv.com/ver-cuatro-en-directo-y-online-gratis-fuera-de-espana-la-cuatro-hd-online/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/__q5vYNQrMKs/TIf616E4HNI/AAAAAAAABW8/lrSKanXIwxA/s400/cuatro_logo%5B1%5D.png</fanart>   </item>
+
 
 
 <item>
