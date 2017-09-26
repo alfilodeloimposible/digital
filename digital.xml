@@ -21,6 +21,21 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
 <fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
 
+
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#La 2[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=tvdostelefive&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
+<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
+ </item>
+
+
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Canal 24H[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
