@@ -34,6 +34,19 @@
 <thumbnail>http://vignette1.wikia.nocookie.net/tvcable/images/6/66/Canal24htvelep.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/227Vn9VE5KM/maxresdefault.jpg</fanart>   </item>
 
+<item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Antena 3[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/antena3.php</page>
+<referer>http://www.vercanalestv.com/ver-antena-3-online-y-en-directo-24h-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
+
 
 
 <item>
