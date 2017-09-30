@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,BEIN SPORTS 1 FR
-http://94.102.51.76:8081/live/stream1.m3u8
+#EXTINF:0,20:45	Leganes - Atletico Madrid Live Stream
+http://94.102.51.76:8081/live/stream1.m3u8?e=1506791247&st=O3wkIC1l1e_Fca6PvmFEMA
 #EXTINF:0,BEIN SPORTS 1 FR
 http://94.102.51.76:8081/live/stream1.m3u8?e=1506790663&st=h4UFYdoMbzWvnh1LxCfzig
