@@ -9,6 +9,18 @@
 </item>
 
  <item>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] leganés Vs atl. madrid[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.jazztv.co/embedhds.php?live=fr3&vw=640&vh=460</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
+
+ <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Teledeporte[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
