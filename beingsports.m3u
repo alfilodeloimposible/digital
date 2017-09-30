@@ -3,19 +3,21 @@
 http://94.102.51.76:8081/live/stream1.m3u8?e=1506791247&st=O3wkIC1l1e_Fca6PvmFEMA
 #EXTINF:0,Real Sociedad-Betis
 http://94.102.51.76:8081/live/stream1.m3u8?e=1506790663&st=h4UFYdoMbzWvnh1LxCfzig
-#EXTINF:0,Real Sociedad-Betis (opción 2)***futbolarg***
+#EXTINF:0,Real Sociedad-Betis (opción 2)
 http://94.102.49.135:8081/live/skymixlsh.m3u8?e=1506796071&st=9PkJjdCSLlLaNmOyGWMGiw
-#EXTINF:0,BarÇa - Las Palmas)***futbolarg***
+#EXTINF:0,BarÇa - Las Palmas
 http://80.82.77.81:8081/live/bein3new.m3u8?e=1506828774&st=Z1S5juKUtk-Pp-ku1ATORw
-#EXTINF:0,BarÇa - Las Palmas (opción 2)***futbolarg***
+#EXTINF:0,BarÇa - Las Palmas (opción 2)
 http://80.82.77.79:8081/live/bein3new.m3u8?e=1506828741&st=PwX_rWwvRgPZMFZ1f4copg
-#EXTINF:0,Real Madrid-Espanyol***futbolarg***
+#EXTINF:0,Real Madrid-Espanyol
 http://80.82.77.74:8081/live/bein1new.m3u8?e=1506828686&st=E9HU-t39talJhyNDCfJMzA
-#EXTINF:0,Real Madrid-Espanyol(opción 2)***futbolarg***
+#EXTINF:0,Real Madrid-Espanyol(opción 2)
 http://80.82.77.79:8081/live/skyfootballlsh.m3u8?e=1506828900&st=c8yxYW2u91x7skHsZ9_uBg
-#EXTINF:0,Real Madrid-Espanyol (opción 3)***futbolarg***
-http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/foot18_6yw5gbn/chunklist.m3u8?st=G4sfZ_IwoN977EasYcTecA&e=1506884278
-#EXTINF:0,Real Madrid-Espanyol(opción 4)***futbolarg***
-http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/tvbBLIga/chunklist.m3u8?st=_63g6t3l2uKYnZWGek9l2g&e=1506884637
-#EXTINF:0,Real Madrid-Espanyol (opción 5)***futbolarg***
-http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/foot18_6yw5gbn/chunklist.m3u8?st=IPZnhSw05LcQ5fTIWW9ppw&e=1506884693
+#EXTINF:0,Real Madrid-Espanyol (opción 3)
+http://94.102.51.76:8081/live/bein1new.m3u8?e=1506803725&st=bfQ_RSDGOAVtHtB7Itk5NA
+#EXTINF:0,Real Madrid-Espanyol(opción 4)
+http://89.248.168.213:8081/live/bein1new.m3u8?e=1506807407&st=IkHg36ORkRiAyE2jvjVoHg
+#EXTINF:0,Real Madrid-Espanyol (opción 5)
+http://80.82.77.79:8081/live/skyfootballlsh.m3u8?e=1506832773&st=-NIM1HfHEgGUVqGogJgelQ
+#EXTINF:0,Valencia Ath.Cl. Bilbao
+http://80.82.77.141:8081/live/skyfootballlsh.m3u8?e=1506832769&st=XJ2gcEuoQbAz7R-NdtjdJA
