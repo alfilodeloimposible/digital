@@ -9,16 +9,17 @@
 </item>
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] leganés Vs atl. madrid[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] SEVILLA [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.jazztv.co/embedhds.php?live=fr3&vw=640&vh=460</page>
-<cookieJar></cookieJar>
+<page>http://80.82.77.74:8081/secure/latest.php</page>
+<referer>http://live.shwidget.com/static/freeplayer/5067701475370950.html</referer>
+<agent>iPad</agent>
 </regex>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
 
  <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Teledeporte[/UPPERCASE][/COLOR] </title>
@@ -188,18 +189,7 @@
 </item>
 
 
-<item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Zenit Saint Petersburg v Real Sociedad[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.jazztv.co/embedhd.php?live=jtvb3&vw=620&vh=460</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>  
-<fanart>http://series-tv-news.fr/wp-content/uploads/2017/02/amc-pilotes-saison-2017-2018.jpg</fanart>
- </item>
+
 <item>
 <title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Discovey Channel[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
