@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:0,Leganes - Atletico Madrid (Live Stream)
-http://94.102.51.76:8081/live/stream1.m3u8?e=1506791247&st=O3wkIC1l1e_Fca6PvmFEMA
-#EXTINF:0,Real Sociedad-Betis
-http://94.102.51.76:8081/live/stream1.m3u8?e=1506790663&st=h4UFYdoMbzWvnh1LxCfzig
+#EXTINF:0,Leganes - Atletico Madrid 
+http://tier1.musicalliance.us/o8/59a6f6d92a24c-1337107050.swf
+#EXTINF:0,Leganes - Atletico Madrid  (opción 2)
+http://89.248.168.213:8081/live/vch5lsh.m3u8?e=1506808777&st=8dm2CQ4bNGfFcZUdxzFV8A
+#EXTINF:0,Real Sociedad - Betis
+http://80.82.64.233:8081/live/skymixlsh.m3u8?e=1506815046&st=FpQWr7fY1tCKqEfk0wvodA
 #EXTINF:0,Real Sociedad-Betis (opción 2)
+http://94.102.51.76:8081/live/stream1.m3u8?e=1506790663&st=h4UFYdoMbzWvnh1LxCfzig
+#EXTINF:0,Real Sociedad-Betis (opción 3)
 http://94.102.49.135:8081/live/skymixlsh.m3u8?e=1506796071&st=9PkJjdCSLlLaNmOyGWMGiw
 #EXTINF:0,BarÇa - Las Palmas
 http://80.82.77.81:8081/live/bein3new.m3u8?e=1506828774&st=Z1S5juKUtk-Pp-ku1ATORw
