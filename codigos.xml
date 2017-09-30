@@ -8,28 +8,28 @@
 <referer>http://cinestrenostv.tv</referer></item>
 
 
-<item><title>[COLOR lightblue]Being Sports FR1/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance1.php</sportsdevil>
+<item><title>[COLOR lightblue]Being Sports FR1[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance1.php</sportsdevil>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
 <info>B1  </info>
 <referer>http://cinestrenostv.tv</referer></item>
 
 
 
-<item><title>[COLOR lightblue]Being Sports FR2/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance2.php</sportsdevil>
+<item><title>[COLOR lightblue]Being Sports FR2[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance2.php</sportsdevil>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
 <info>B2  </info>
 <referer>http://cinestrenostv.tv</referer></item>
 
-<item><title>[COLOR lightblue]Being Sports FR3/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance3.php</sportsdevil>
+<item><title>[COLOR lightblue]Being Sports FR3[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance3.php</sportsdevil>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
 <info>B3  </info>
 <referer>http://cinestrenostv.tv</referer></item>
 
 
-<item><title>[COLOR lightblue]being2[/COLOR]  [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance2.php</sportsdevil>
-<referer>http://verdirectotv.com</referer>
-<thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
+<item>
+<title>Being Sportsa1 Arab</title>
+<sportsdevil>http://aflam4you.tv/beinsports-1-hd_68.html</sportsdevil>
+<referer>http://aflam4you.tv</referer>
 </item>
 
 </items>
