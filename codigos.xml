@@ -2,78 +2,96 @@
 
 
 <items>
-<item><title>[COLOR lightblue]C+ Partidazo [/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+<item><title>[COLOR chocolate]C+ Partidazo [/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
 <info>canal plus partidazo  </info>
 <referer>http://cinestrenostv.tv</referer></item>
 
 
-<item><title>[COLOR lightblue]Being Sports FR1[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance1.php</sportsdevil>
+<item><title>[COLOR darkturquoise]Being Sports FR1[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance1.php</sportsdevil>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
 <info>B1  </info>
 <referer>http://cinestrenostv.tv</referer></item>
 
 
 
-<item><title>[COLOR lightblue]Being Sports FR2[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance2.php</sportsdevil>
+<item><title>[COLOR orangeredBeing Sports FR2[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance2.php</sportsdevil>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
 <info>B2  </info>
 <referer>http://cinestrenostv.tv</referer></item>
 
-<item><title>[COLOR lightblue]Being Sports FR3[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance3.php</sportsdevil>
+<item><title>[COLOR lightyellow]Being Sports FR3[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance3.php</sportsdevil>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
 <info>B3  </info>
 <referer>http://cinestrenostv.tv</referer></item>
 
 
 <item>
-<title>Being Sportsa1 Arab</title>
+<title>Being Sports Arabia 1 Arab</title>
 <sportsdevil>http://aflam4you.tv/beinsports-1-hd_68.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 
 <item>
-<title>Being Sportsa2 Arab</title>
+<title>Being Sports Arabia 2 Arab</title>
 <sportsdevil>http://aflam4you.tv/beinsports-2-hd_2.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 
 <item>
-<title>Being Sportsa3 Arab</title>
+<title>Being Sports Arabia 3 Arab</title>
 <sportsdevil>http://aflam4you.tv/beinsports-3-hd_1.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 
 <item>
-<title>Being Sportsa4 Arab</title>
+<title>Being Sports Arabia 4 Arab</title>
 <sportsdevil>http://aflam4you.tv/bein-sports-4-hd_3.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 
 <item>
-<title>Being Sportsa5 Arab</title>
+<title>Being Sports Arabia 5 Arab</title>
 <sportsdevil>http://aflam4you.tv/bein-sports-5-hd_73.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 <item>
-<title>Being Sportsa6 Arab</title>
-<sportsdevil>http://aflam4you.tv/bein-sports-4-hd_3.html</sportsdevil>
+<title>Being Sports Arabia 6 Arab</title>
+<sportsdevil>http://aflam4you.tv/bein-sports-6-hd_74.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 <item>
-<title>Being Sportsa7 Arab</title>
-<sportsdevil>http://aflam4you.tv/bein-sports-4-hd_3.html</sportsdevil>
+<title>Being Sports Arabia 7 Arab</title>
+<sportsdevil>http://aflam4you.tv/bein-sports-7-hd_75.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 <item>
-<title>Being Sportsa8 Arab</title>
-<sportsdevil>http://aflam4you.tv/bein-sports-4-hd_3.html</sportsdevil>
+<title>Being Sports Arabia 8 Arab</title>
+<sportsdevil>http://aflam4you.tv/beinsports-8-hd_76.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
 <item>
-<title>Being Sportsa9 Arab</title>
-<sportsdevil>http://aflam4you.tv/bein-sports-4-hd_3.html</sportsdevil>
+<title>Being Sports Arabia 9 Arab</title>
+<sportsdevil>http://aflam4you.tv/bein-sport-9-hd_69.html</sportsdevil>
 <referer>http://www.247bay.tv</referer>
 </item>
+<item>
+<title>Being Sports Arabia 10 Arab</title>
+<sportsdevil>http://aflam4you.tv/beinsports-10-hd_30.html</sportsdevil>
+<referer>http://www.247bay.tv</referer>
+</item>
+
+<item>
+<title>Being Sports Arabia 11 Arab</title>
+<sportsdevil>http://aflam4you.tv/beinsports-11-hd_28.html</sportsdevil>
+<referer>http://www.247bay.tv</referer>
+</item>
+
+<item>
+<title>Being Sports Arabia 12 Arab</title>
+<sportsdevil>http://aflam4you.tv/beinsports-12-hd_29.html</sportsdevil>
+<referer>http://www.247bay.tv</referer>
+</item>
+
 
 </items>
