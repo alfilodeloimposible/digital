@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<items>
 <item>
 		<title>[COLOR red]Barcelona Vs Baskonia[/COLOR]</title>
 		<sportsdevil>http://www.jazztv.co/embedhds.php?live=fr10&vw=640&vh=460</sportsdevil>
 		<referer>http://sstream.net/ch10.html</referer>
 <thumbnail>https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail>
 	</item>
+	
+	<item>
+		<title>[COLOR red]leganés Vs atl. madrid[/COLOR]</title>
+		<sportsdevil>http://www.jazztv.co/embedhds.php?live=fr3&vw=640&vh=460</sportsdevil>
+		<referer>http://sstream.net/ch3.html</referer>
+<thumbnail>https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail>
+	</item>
+	</items>
