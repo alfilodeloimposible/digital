@@ -9,7 +9,7 @@
 </item>
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] SEVILLA [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] SEVILLA [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -22,7 +22,7 @@
 <fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Teledeporte[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Teledeporte[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -34,7 +34,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] La 1 [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] La 1 [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -48,7 +48,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#La 2[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#La 2[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -63,7 +63,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Antena 3[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Antena 3[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -76,7 +76,7 @@
 <fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Cuatro[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Cuatro[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -89,7 +89,7 @@
 <fanart>http://1.bp.blogspot.com/__q5vYNQrMKs/TIf616E4HNI/AAAAAAAABW8/lrSKanXIwxA/s400/cuatro_logo%5B1%5D.png</fanart>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Tele 5[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Tele 5[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -106,7 +106,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] La Sexta[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] La Sexta[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -119,7 +119,7 @@
 <fanart>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png</fanart>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] DARK [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] DARK [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -131,7 +131,7 @@
 <thumbnail>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</thumbnail>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] A"&"E [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] A"&"E [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -142,7 +142,7 @@
 <fanart>http://logonoid.com/images/a-and-e-logo.png</fanart>
 <thumbnail>http://logonoid.com/images/a-and-e-logo.png</thumbnail>   </item>
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]FDF[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]FDF[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -155,7 +155,7 @@
 <fanart>http://es-pic1.ciao.com/es/60482.jpg</fanart>  </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Energy[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Energy[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -169,7 +169,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Neox[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Neox[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -191,7 +191,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Discovey Channel[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Discovey Channel[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -204,7 +204,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Calle 13[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Calle 13[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -216,7 +216,7 @@
 <thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #0 [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #0 [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -230,7 +230,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] CANAL HISTORIA [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] CANAL HISTORIA [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -247,7 +247,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #COSMOPOLITAN [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #COSMOPOLITAN [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -262,7 +262,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #MEGA[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #MEGA[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -276,7 +276,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #AXN[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #AXN[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -290,7 +290,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #AXN WHITE[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #AXN WHITE[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -304,7 +304,7 @@
 </item>
 
    <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]TNT[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]TNT[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -319,7 +319,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Estrenos [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Estrenos [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -332,7 +332,7 @@
 <fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Estrenos (Opción 2)[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Estrenos (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -345,7 +345,7 @@
 <fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + DCine [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + DCine [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -358,7 +358,7 @@
 <fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + DCine (Opción 2) [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + DCine (Opción 2) [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -371,7 +371,7 @@
 <fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Comedia [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Comedia [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -384,7 +384,7 @@
 <fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Comedia (Opción 2)[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Comedia (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -397,7 +397,7 @@
 <fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>   </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Series[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Series[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -410,7 +410,7 @@
 <fanart> http://vertele.eldiario.es/files/2014/12/Movistar-Series.jpg</fanart>  </item>
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Series Xtra[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Series Xtra[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -423,7 +423,7 @@
  </item>
 
 
-<item><title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Acción [/UPPERCASE][/COLOR] </title>
+<item><title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Acción [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -436,7 +436,7 @@
 <fanart>http://vercanalestv.com/imagenes/movistar-accion.jpg</fanart>
 </item>
 
-<item><title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Movistar + Acción (Opción 2) [/UPPERCASE][/COLOR] </title>
+<item><title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Acción (Opción 2) [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -451,7 +451,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Caza Y Pesca[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Caza Y Pesca[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -464,7 +464,7 @@
 </item>
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] ODISEA [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] ODISEA [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -477,7 +477,7 @@
  </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] SYFY [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] SYFY [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -491,7 +491,7 @@
  
  
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] AMC [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] AMC [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -505,7 +505,7 @@
 
  
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -519,7 +519,7 @@
  
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Fox [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Fox [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -533,7 +533,7 @@
  
  
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Fox Life[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Fox Life[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>get-id</name>
@@ -546,7 +546,7 @@
 <fanart>http://dhnn.com/es/img/case-studies/foxlife/slide1.jpg</fanart>  </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Divinity[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Divinity[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>get-id</name>
@@ -559,7 +559,7 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/0/07/Divinity.png</fanart>  </item>
  
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Boing [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Boing [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -575,7 +575,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Canal Cocina [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Canal Cocina [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>get-id</name>
@@ -588,7 +588,7 @@
 <fanart>https://adrinalina31.files.wordpress.com/2017/03/canal-cocina.jpg</fanart>  </item>
  
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Animal Planet [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Animal Planet [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -602,7 +602,7 @@
  
  
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]TCM[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]TCM[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -615,7 +615,7 @@
  </item>
  
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Be Mad[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Be Mad[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -629,7 +629,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Nova[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Nova[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -644,7 +644,7 @@
  
   
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]National Geographic[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -658,7 +658,7 @@
 
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]National Geographic WILD[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]National Geographic WILD[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -679,7 +679,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Real Madrid Tv[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Real Madrid Tv[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -692,7 +692,7 @@
 <fanart>http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg</fanart>  </item>
 
    <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] #Being Sports[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Being Sports[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -708,7 +708,7 @@
 
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue] Partidazo[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Partidazo[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -721,7 +721,7 @@
  </item>
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#LaLigaTV[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#LaLigaTV[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -737,7 +737,7 @@
 
 
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Movistar Fútbol[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#Movistar Fútbol[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -750,7 +750,7 @@
  </item>
  
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Movistar Deportes 1[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#Movistar Deportes 1[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -763,7 +763,7 @@
  </item>
  
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Movistar Deportes 2[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#Movistar Deportes 2[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -776,7 +776,7 @@
  </item>
  
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Movistar Formula 1[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#Movistar Formula 1[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -789,7 +789,7 @@
  </item>
  
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Movistar Moto GP[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#Movistar Moto GP[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -802,7 +802,7 @@
  </item>
 
  <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]#Liga 123[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#Liga 123[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -815,7 +815,7 @@
  </item>
  
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Gol Tv[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -828,7 +828,7 @@
 <fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
  
 <item>
-<title>[COLOR lime]**[/COLOR] [UPPERCASE][COLOR skyblue]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
 <regex>
 <name>get-id</name>
