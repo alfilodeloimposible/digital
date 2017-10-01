@@ -4,7 +4,7 @@
 http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=91464139&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
 #EXTINF:0,Real Madrid-Espanyol(dazs)
-http://g3.securestream.streamsport.online/stream/NTcyZjk3MmU1ZDE1YTRmYjQ0NjgyMTIyZTlkZmI5NjM=/UAFutbol1.m3u8
+acestream://40c79c36ad05a3ffe5b02cf6ac41df090ac74db0
 #EXTINF:0,Real Madrid-Espanyol(sst)
 http://ultra.widestream.io:8081/wideedge/cuh4atj/chunks.m3u8?nimblesessionid=1551947&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDk6MTc6NTEgQU0maGFzaF92YWx1ZT0ranNCRklSRWVwM1l6clBDWjNRM2R3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Real Madrid-Espanyol(sst)
@@ -16,19 +16,12 @@ http://www.boxstreaming.me/stream.php?t=Flash&link=http://streamsport.online/liv
 
 
 #EXTINF: 0,INGLÉS
- acestream: // 9eba690be925a98e8aecfc758070b874e19260c6
- 
-#EXTINF: 0,INGLÉS
- 
- acestream: // 5291a22aaee8cb2e2d28f655d95b14ab3aa999cb
-
+acestream://40c79c36ad05a3ffe5b02cf6ac41df090ac74db 
+#EXTINF: 0,INGLÉS 
+ acestream://5291a22aaee8cb2e2d28f655d95b14ab3aa999cb
 #EXTINF: 0,NGLÉS
-
-acestream : // bbda24210d7937932965369c248f7ccdfc2a023f
-
+acestream://bbda24210d7937932965369c248f7ccdfc2a023f
 #EXTINF: 0,INGLÉS
-
-acestream : // d6409da7a77f7c7baee5038d73d828a5695e3bde
-
+acestream://d6409da7a77f7c7baee5038d73d828a5695e3bde
 #EXTINF: 0,  
-acestream: // 8086a59387119bb5c00cf3116266c33eb477dafb
+acestream://8086a59387119bb5c00cf3116266c33eb477dafb
