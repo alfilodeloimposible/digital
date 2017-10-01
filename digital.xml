@@ -9,13 +9,13 @@
 </item>
 
  <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #COSMOPOLITAN [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #B10 [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://88live.me/hd/hd13.html</page>
-<referer>http://88live.me/hd13.html</referer>
+<page>http://yalla-shoot.mybacklink.website/bein/bein10.php</page>
+<referer>http://www.jokerstream.com/p/bein-sport-10-hd.html</referer>
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://www.bestdigitalgroup.com/web/wp-content/uploads/2014/02/cosmopolitan_tv_es_hd.png</thumbnail>   
