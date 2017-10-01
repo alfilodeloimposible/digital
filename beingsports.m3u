@@ -6,5 +6,11 @@ http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasession
 #EXTINF:0,Real Madrid-Espanyol(hnowwatchtvlive)
 http://127.0.0.1:6878/ace/m/35713e53243d185b88ce24f4c36e8212d5ccd971/f528764d624db129b32c21fbca0cb8d6.m3u8
 
+#EXTINF:0, BT Sports 1 (livetv)
+http://94.102.51.122:8088/cast4u/btsp1/playlist.m3u8?id=29&wowzasessionid=32706886&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
+
 #EXTINF:0, BT Sports 2 (livetv)
 http://93.174.93.68:8088/cast4u/btsp2/playlist.m3u8?id=30&wowzasessionid=619982175&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
+
+#EXTINF:0, Sky Sports Fútbol(livetv)
+http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=732009021&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
