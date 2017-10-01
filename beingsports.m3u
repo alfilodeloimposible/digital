@@ -27,5 +27,8 @@ http://85.132.71.6/turk/idman/index.m3u8
 #EXTINF:0, Sky Sports 2 HD (nowwatch)
 http://e2.liveonlinetv.biz/live/skysports5-hq/chunks.m3u8?nimblesessionid=12863508&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDk6NTE6NTcgUE0maGFzaF92YWx1ZT1NRVBkOXRTUmROdWlCaEtWaVU4ZlJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTQyLjExNCZzdHJtX2xlbj0xOA==
 
+#EXTINF:0,http://www.sports-stream.net#####(nowwatch)
+http://31.220.0.86:8081/live/spstreamdolce3/chunks.m3u8?nimblesessionid=5027450&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDg6MTg6MTggUE0maGFzaF92YWx1ZT1CeE93MzJQZkRNV1ZjYVR3Y3lMQ3Z3PT0mdmFsaWRtaW51dGVzPTEyMA==
+
 #EXTINF:0, Being LaLiga (nowwatch)
 http://193.124.189.249/cavscampeon/252184.m3u8?wmsAuthSign2=d2l6MTA=&token=c2VydmVyX3RpbWU9MTUwNjg5NTA0OCZoYXNoX3ZhbHVlPXNMNVlTcHBRZ3dIRXdOTUtBdFA2QXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
