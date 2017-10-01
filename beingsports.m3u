@@ -17,5 +17,7 @@ http://ultra.widestream.io:8081/wideedge/cuh4atj/chunks.m3u8?nimblesessionid=155
 https://live81.vkuserlive.com/613503/live/0/d8f3tVSmtuT0NhSTY/playlist.m3u8?extra=lRnbRWiB6Kbpf4JxQ_6mMmGJVq9cFPJYT_JlGgDEIODASqJ9LtGVh4ftcIxr30MliqbB_DphYyj4pQ4vG0oa6kH4xWCgcpIEZv5UgS_Nw3bKSROvw89ev8xTD7suSw
 #EXTINF:0,Real Madrid-Espanyol(sst)
 http://ultra.widestream.io:8081/wideedge/cuh4atj/chunks.m3u8?nimblesessionid=1551947&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDk6MTc6NTEgQU0maGFzaF92YWx1ZT0ranNCRklSRWVwM1l6clBDWjNRM2R3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Real Madrid-Espanyol(sst)
+http://31.220.0.134:8081/live/jtvs5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDk6MDc6MzIgQU0maGFzaF92YWx1ZT03SWRISEttbU1heERMbTBBVFVWV0xnPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,Valencia Ath.Cl. Bilbao
 http://80.82.77.141:8081/live/skyfootballlsh.m3u8?e=1506832769&st=XJ2gcEuoQbAz7R-NdtjdJA
