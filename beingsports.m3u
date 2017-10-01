@@ -3,6 +3,9 @@
 #EXTINF:0,La Liga(livetv)
 http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=91464139&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
+#EXTINF:0,La Liga(http://laliga-live.to)
+http://193.124.177.115/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwNjg5ODg5NCZoYXNoX3ZhbHVlPWYyVTRBSEthUUltbDlHeG5vbGRnNlE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+
 #EXTINF:0,http://live.robinwidget.org
 http://89.248.168.21:8088/cast4u/hdch10/playlist.m3u8?id=48&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace&wowzasessionid=342050572
 
