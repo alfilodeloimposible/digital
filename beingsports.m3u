@@ -4,24 +4,4 @@
 http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=91464139&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
 #EXTINF:0,Real Madrid-Espanyol(dazs)
-acestream://40c79c36ad05a3ffe5b02cf6ac41df090ac74db0
-#EXTINF:0,Real Madrid-Espanyol(sst)
-http://ultra.widestream.io:8081/wideedge/cuh4atj/chunks.m3u8?nimblesessionid=1551947&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDk6MTc6NTEgQU0maGFzaF92YWx1ZT0ranNCRklSRWVwM1l6clBDWjNRM2R3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:0,Real Madrid-Espanyol(sst)
-http://31.220.0.134:8081/live/jtvs5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDk6MDc6MzIgQU0maGFzaF92YWx1ZT03SWRISEttbU1heERMbTBBVFVWV0xnPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Valencia Ath.Cl. Bilbao
-http://www.boxstreaming.me/stream.php?t=Flash&link=http://streamsport.online/live-soccer-valencia-atletik-sp2port-01-10-17.html&id=115473
-
-
-
-
-#EXTINF: 0,INGLÉS
-acestream://40c79c36ad05a3ffe5b02cf6ac41df090ac74db 
-#EXTINF: 0,INGLÉS 
- acestream://5291a22aaee8cb2e2d28f655d95b14ab3aa999cb
-#EXTINF: 0,NGLÉS
-acestream://bbda24210d7937932965369c248f7ccdfc2a023f
-#EXTINF: 0,INGLÉS
-acestream://d6409da7a77f7c7baee5038d73d828a5695e3bde
-#EXTINF: 0,  
-acestream://8086a59387119bb5c00cf3116266c33eb477dafb
+http://127.0.0.1:6878/ace/m/35713e53243d185b88ce24f4c36e8212d5ccd971/f528764d624db129b32c21fbca0cb8d6.m3u8
