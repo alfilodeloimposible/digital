@@ -12,5 +12,11 @@ http://94.102.51.122:8088/cast4u/btsp1/playlist.m3u8?id=29&wowzasessionid=327068
 #EXTINF:0, BT Sports 2 (livetv)
 http://93.174.93.68:8088/cast4u/btsp2/playlist.m3u8?id=30&wowzasessionid=619982175&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
+#EXTINF:0, BT Sports 3 (livetv)
+http://89.248.172.239:8088/cast4u/btsp3/playlist.m3u8?id=31&wowzasessionid=3176125169&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
+
 #EXTINF:0, Sky Sports Fútbol(livetv)
 http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=732009021&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
+
+#EXTINF:0, Being Sport HD(livetv)
+http://89.248.168.217:8088/cast4u/hdch2/media_897.ts?id=39&wowzasessionid=3549302147&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
