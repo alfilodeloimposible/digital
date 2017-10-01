@@ -39,3 +39,9 @@ http://94.102.63.18:8088/cast4u/564ygecgff/playlist.m3u8?id=3549&pk=165caf392b9a
 
 #EXTINF:0, Being LaLiga (nowwatch)
 http://193.124.189.249/cavscampeon/252184.m3u8?wmsAuthSign2=d2l6MTA=&token=c2VydmVyX3RpbWU9MTUwNjg5NTA0OCZoYXNoX3ZhbHVlPXNMNVlTcHBRZ3dIRXdOTUtBdFA2QXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+
+#EXTINF:0, http://livetv.sx
+http://tier3.musicalliance.us/o5/53.m3u8?sf=NTcwYTYzNjc3NzE3Ng==&token=uc3gEr9HSzt9DphUYTcE3g&expires=1506901753
+
+#EXTINF:0, extremotv
+http://tier4.musicalliance.us/o6/17733.m3u8?sf=NTk5NGE3YzRhMzljNQ==&token=jf34hPQe4inogRo3thDGsA&expires=1506902111
