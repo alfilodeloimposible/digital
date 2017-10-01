@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:0,Real Sociedad - Betis
 http://80.82.77.81:8081/live/stream1.m3u8?e=1506880740&st=sERKsLr7wukXCKJS30aCIQ
-#EXTINF:0,Real Sociedad - Betis (opción 2far)
+#EXTINF:0,Real Sociedad - Betis (opción 2)
+http://80.82.77.81:8081/live/channel1new.m3u8?e=1506887016&st=fCajWMGZm4Pw8uPx
+#EXTINF:0,Real Sociedad - Betis (opción 3far)
 https://live81.vkuserlive.com/613503/live/0/d8f3tVSmtuT0NhSTY/playlist.m3u8?extra=lRnbRWiB6Kbpf4JxQ_6mMmGJVq9cFPJYT_JlGgDEIODASqJ9LtGVh4ftcIxr30MliqbB_DphYyj4pQ4vG0oa6kH4xWCgcpIEZv5UgS_Nw3bKSROvw89ev8xTD7suSw
-#EXTINF:0,Real Sociedad-Betis (opción 3)
+#EXTINF:0,Real Sociedad-Betis (opción 4)
 http://80.82.64.233:8081/live/skymixlsh.m3u8?e=1506862139&st=yMRHsUKtf6ha95WrJdtx9g
-#EXTINF:0,BarÇa - Las Palmas
-http://80.82.77.81:8081/live/bein3new.m3u8?e=1506828774&st=Z1S5juKUtk-Pp-ku1ATORw
+#EXTINF:0,BarÇa - Las Palmas (fa)
+http://80.82.77.79:8081/live/skyfootballlsh.m3u8?e=1506886540&st=VK1VlZ7P74va2-nvFF71WQ
 #EXTINF:0,BarÇa - Las Palmas (opción 2sst)
 http://ultra.widestream.io:8081/wideedge/cuh4atj/chunks.m3u8?nimblesessionid=1553641&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDk6MzA6MzEgQU0maGFzaF92YWx1ZT16M0xyR2U3OU16TlM2Zm9aOVUxdWVRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Real Madrid-Espanyol
