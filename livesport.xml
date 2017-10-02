@@ -3,17 +3,17 @@
 
 <item><title>[COLOR red][B]Sky Sports Fútbol(livetv)[/B][/COLOR]</title> <sportsdevil>http://livetv.sc/sky-sports-football-live-streaming</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
-<item><title>[COLOR red][B]Sky Sports Fútbol(livetv)[/B][/COLOR]</title> <sportsdevil>http://play.extremotv.info/canal-1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+<item><title>[COLOR red][B]Sky Sports Fútbol(livetv)[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
 
  <item> 
             <title> ---- ATP China ----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://a3.aliez.me:8080/hls/streama55468/3516.ts</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://31.220.0.103:8081/live/jtvs1/chunks.m3u8?nimblesessionid=4823901&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE3IDg6MDk6MTAgQU0maGFzaF92YWx1ZT03dDZ6SnZVNjFMVCtmejVWZjFqMHN3PT0mdmFsaWRtaW51dGVzPTEyMA==</link> 
         </item> 
 
  <item> 
             <title> ----  ----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://e2.liveonlinetv.biz/live/skysports5-hq/chunks.m3u8</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://31.220.0.103:8081/live/jtvs1/chunks.m3u8</link> 
         </item> 		
 
 
