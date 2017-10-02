@@ -43,5 +43,5 @@ http://193.124.189.249/cavscampeon/252184.m3u8?wmsAuthSign2=d2l6MTA=&token=c2Vyd
 #EXTINF:0, http://livetv.sx
 http://tier3.musicalliance.us/o5/53.m3u8?sf=NTcwYTYzNjc3NzE3Ng==&token=uc3gEr9HSzt9DphUYTcE3g&expires=1506901753
 
-#EXTINF:0, extremotv canal1
-http://tier4.musicalliance.us/o6/17733.m3u8?sf=NTk5NGE3YzRhMzljNQ==&token=jf34hPQe4inogRo3thDGsA&expires=1506902111
+#EXTINF:0, live tokio
+http://89.248.169.106:8081/live/tokyo1.m3u8?e=1506929266&st=vCAB5GMPmuNJw3GenKCUOw
