@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
+<item><title>[COLOR red][B]Sky Sports 1[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
-<item><title>[COLOR red][B]Sky Sports Fútbol(livetv)[/B][/COLOR]</title> <sportsdevil>http://livetv.sc/sky-sports-football-live-streaming</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+<item><title>[COLOR red][B]Sky Sports 2[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky2.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
-<item><title>[COLOR red][B]Sky Sports Fútbol(livetv)[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+<item><title>[COLOR red][B]Sky Sports 3[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky3.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR red][B]Sky Sports 4[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky4.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
- <item> 
-            <title> ---- ATP China ----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://31.220.0.103:8081/live/jtvs1/chunks.m3u8?nimblesessionid=4823901&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE3IDg6MDk6MTAgQU0maGFzaF92YWx1ZT03dDZ6SnZVNjFMVCtmejVWZjFqMHN3PT0mdmFsaWRtaW51dGVzPTEyMA==</link> 
-        </item> 
+<item><title>[COLOR red][B]Sky Sports 5[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky5.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
- <item> 
-            <title> ----  ----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://31.220.0.103:8081/live/jtvs1/chunks.m3u8</link> 
-        </item> 		
+<item><title>[COLOR red][B]Sky Sports F1 HD[/B][/COLOR]</title> <sportsdevil>http://sstream.net/skyf1.htm</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR red][B]BT Sports 1[/B][/COLOR]</title> <sportsdevil>http://sstream.net/bt1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR red][B]BT Sports 2[/B][/COLOR]</title> <sportsdevil>http://sstream.net/bt2.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR red][B]BT Sports 3[/B][/COLOR]</title> <sportsdevil>http://sstream.net/bt3.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR red][B]BT Sports Espn[/B][/COLOR]</title> <sportsdevil>http://sstream.net/btespn.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR red][B] Sport * TV 1[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sptv1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR red][B] Sport * TV 2[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sptv2.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR red][B] Sport * TV 3[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sptv3.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR red][B] Sport * TV 4[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sptv4.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR red][B] Sport * TV 5[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sptv5.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR red][B] FOX 1 HD[/B][/COLOR]</title> <sportsdevil>http://sstream.net/foxsportsbr1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR red][B]FOX 2 HD[/B][/COLOR]</title> <sportsdevil>http://sstream.net/foxsportsbr2.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
