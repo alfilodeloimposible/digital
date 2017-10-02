@@ -12,9 +12,6 @@ http://a3.aliez.me:8080/hls/streama55689/index.m3u8
 #EXTINF:0,odt SPORT1+HD
 http://a3.aliez.me:8080/hls/streama54145/index.m3u8
 
-#EXTINF:0,odt acestream
-acestream://4fc18e8ce4403273ca3770b9b5bffe2b83ddd31c
-
 #EXTINF:0,La Liga(http://laliga-live.to)
 http://193.124.177.115/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwNjg5ODg5NCZoYXNoX3ZhbHVlPWYyVTRBSEthUUltbDlHeG5vbGRnNlE9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
@@ -52,8 +49,3 @@ http://94.102.63.18:8088/cast4u/564ygecgff/playlist.m3u8?id=3549&pk=165caf392b9a
 #EXTINF:0, Being LaLiga (nowwatch)
 http://193.124.189.249/cavscampeon/252184.m3u8?wmsAuthSign2=d2l6MTA=&token=c2VydmVyX3RpbWU9MTUwNjg5NTA0OCZoYXNoX3ZhbHVlPXNMNVlTcHBRZ3dIRXdOTUtBdFA2QXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
-#EXTINF:0, http://livetv.sx
-http://tier3.musicalliance.us/o5/53.m3u8?sf=NTcwYTYzNjc3NzE3Ng==&token=uc3gEr9HSzt9DphUYTcE3g&expires=1506901753
-
-#EXTINF:0, live tokio
-http://89.248.169.106:8081/live/tokyo1.m3u8?e=1506929266&st=vCAB5GMPmuNJw3GenKCUOw
