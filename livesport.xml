@@ -6,7 +6,10 @@
 <item><title>[COLOR red][B]Sky Sports Fútbol(livetv)[/B][/COLOR]</title> <sportsdevil>http://play.extremotv.info/canal-1.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
 
-
+ <item> 
+            <title> ---- ATP China ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://a3.aliez.me:8080/hls/streama55468/3516.ts&amp;streamtype=TSDOWNLOADER&amp;name= ---- PALLOK TELEGRAM ----</link> 
+        </item> 
 
 
 

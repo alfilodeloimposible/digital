@@ -6,6 +6,9 @@ http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasession
 #EXTINF:0,odt
 http://a3.aliez.me:8080/hls/streama55689/index.m3u8
 
+#EXTINF:0,odt SPORT1+HD
+http://a3.aliez.me:8080/hls/streama54145/index.m3u8
+
 #EXTINF:0,odt acestream
 acestream://4fc18e8ce4403273ca3770b9b5bffe2b83ddd31c
 
