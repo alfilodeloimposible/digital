@@ -5,23 +5,28 @@
 <link>$doregex[makelist]</link>
 </item>
  
+<item>
+<title>
+DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.</title>
+<link>http://ignorame</link>
+<externallink>http://adryanlist.org/adryan/tapout.xml</externallink>
 
-
+</item>
 
 <item>
-<title>[COLOR goldenrod]  Movistar +[/COLOR] </title>
+<title>[COLOR goldenrod]Movistar +[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR goldenrod]  Movistar + (opción 2)[/COLOR] </title>
+<title>[COLOR goldenrod]Movistar + (opción 2)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://pastebin.com/raw/cr03nNdJ</externallink>
 </item>
 
 <item>
-<title>[COLOR tomato]Being Sports Arabia (esperar 1 minuto a que abra el canal)[/COLOR] </title>
+<title>[COLOR goldenrod]Being Sports Arabia (esperar 1 minuto a que abra el canal)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/codigos.xml</externallink>
 </item>
@@ -34,14 +39,14 @@
 </item>
 
 <item>
-<title>[COLOR lime]••••••+++[/COLOR] [COLOR red]Fútbol en DIRECTO[/COLOR] [COLOR lime]+++••••••[/COLOR] </title>
+<title>[COLOR red]Fútbol en DIRECTO[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png</thumbnail><fanart>https://www.ecured.cu/images/a/ad/SeriesTV.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR darkviolet]  [B]La Liga[/B][/COLOR] [COLOR lightslategray](acestreams) [/COLOR]</title>
+<title>[COLOR goldenrod]  [B]La Liga[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -193,7 +198,7 @@
  
 
 <item>
-<title>[COLOR lime]••••••[/COLOR] [COLOR goldenrod] Menú De Películas[/COLOR] [COLOR lime]••••••[/COLOR] </title>
+<title>[COLOR goldenrod] Menú De Películas[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/menupeliculas.xml</externallink>
 </item>
@@ -202,19 +207,12 @@
  
 
 <item>
-<title>[COLOR lime]••••••[/COLOR] [COLOR goldenrod] Menú De Series[/COLOR] [COLOR lime]••••••[/COLOR] </title>
+<title>[COLOR goldenrod] Menú De Series[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png</thumbnail><fanart>https://www.ecured.cu/images/a/ad/SeriesTV.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/menudeseries.xml</externallink>
 </item>
 
 
-<item>
-<title>
-DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.</title>
-<link>http://ignorame</link>
-<externallink>http://adryanlist.org/adryan/tapout.xml</externallink>
-
-</item>
 
  
 
