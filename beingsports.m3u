@@ -4,7 +4,10 @@
 http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=91464139&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
 #EXTINF:0,#Movistar Acción
-http://xxedge160.livesports.pw/live/veraccion177662786c60c28d/index.m3u8?token=ONVYrgiOBoxLESgm_OsWUQ&expires=1507110672
+http://vergol.com/live/plusestrenos.php
+
+#EXTINF:0,#Movistar Acción2
+http://tepo2.telesport.pw/live/plusestrenos/index.m3u8?token=iZn5kEtV1FJGn_kfGiC5BQ&expires=1507194427
 
 #EXTINF:0,odt
 http://a3.aliez.me:8080/hls/streama55689/index.m3u8
