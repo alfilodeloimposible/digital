@@ -10,7 +10,7 @@ http://vergol.com/live/plusestrenos.php
 http://tepo2.telesport.pw/live/plusestrenos/index.m3u8?token=iZn5kEtV1FJGn_kfGiC5BQ&expires=1507194427
 
 #EXTINF:0,odt
-http://a3.aliez.me:8080/hls/streama55689/index.m3u8
+http://185.102.218.80:8080/hls/streama55689/index.m3u8
 
 #EXTINF:0,odt SPORT1+HD
 http://a3.aliez.me:8080/hls/streama54145/index.m3u8
