@@ -12,8 +12,10 @@
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4447&peli=pszasKfMrYrdlpjrk7_cr7HPu7baoI_pow==&id=15023&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
 #EXTINF:0,[COLOR tomato]...y si no, nos enfadamos [/COLOR][COLOR cyan](HD)[/COLOR]
+http://vergol.com/live3/beinliga.php
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
 #EXTINF:0,007 al servicio secreto de su Majestad
+http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6545&peli=587Wpqveeofioo_nk8rjpaDPdL_daMnp7Hntpq3cc73Vnczc5dE=&id=14831&tit=MDA3IGFsIHNlcnZpY2lvIHNlY3JldG8gZGUgc3UgTWFqZXN0YWQ=
 #EXTINF:0,[COLOR tomato]007 al servicio secreto de su Majestad [/COLOR][COLOR cyan](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pY2raGmb&id=13428&tit=MDA3IGFsIHNlcnZpY2lvIHNlY3JldG8gZGUgc3UgTWFqZXN0YWQ=
