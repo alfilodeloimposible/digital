@@ -1,3 +1,5 @@
+#EXTM3U
+
 <item>
 <title>[UPPERCASE][COLOR red]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
