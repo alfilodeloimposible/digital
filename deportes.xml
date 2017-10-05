@@ -740,6 +740,36 @@ item>
 <fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
 <thumbnail>http://s3-eu-west-1.amazonaws.com/nuk-tnl-gobble-prod-static/images/tv-guide/channel/p1201308011804.png</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR red][COLOR  lime]?  [/COLOR]sky sporrrrrrrrrt action[COLOR red][COLOR  lime]?  [/COLOR][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsaction.php?width=650&height=480</page> 
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsaction.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>https://s5.postimg.org/dnjxpc0cn/bt-sport-11.png</thumbnail>
+<fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+</item>
+
+
 <item>
 <title>[COLOR red][COLOR  lime]�  [/COLOR]BT SPORT 1 (OPCI�N 2)[COLOR red][COLOR  lime]�  [/COLOR][/COLOR]</title>
 <link>$doregex[select_Url]</link>
