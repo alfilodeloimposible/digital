@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title> [COLOR yellowgreen][B]******[COLOR orangered]^___^  Actualizado el [B]05[/B] de Octubre de 2017  ^___^[/COLOR] **********[/COLOR] </title>	
+<title> [COLOR yellowgreen][B]******[COLOR orangered]^___^   Actualizado el [B]05[/B] de Octubre de 2017  ^___^[/COLOR] **********[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
  
@@ -9,8 +9,7 @@
 <title>
 DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>http://ignorame</link>
-<externallink>http://adryanlist.org/adryan/tapout.xml</externallink>
-
+<externallink></externallink>
 </item>
 
 <item>
@@ -46,7 +45,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR goldenrod] Peliculas[/COLOR] </title>
+<title>[COLOR golden] Peliculas[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://articulosdeopinion.net/wp-content/uploads/2017/02/arenavision-696x408.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU_400x400.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/taquilla.xml</externallink>
 </item>
@@ -55,7 +54,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR goldenrod]Audiolibros---VOZ HUMANA---[/COLOR]</title>
+<title>[COLOR red]Audiolibros---VOZ HUMANA---[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
