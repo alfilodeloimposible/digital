@@ -947,7 +947,7 @@ item>
 
 
 <item>
-<title>[COLOR red][COLOR  lime]�  [/COLOR]Sky Sports 1[/COLOR]</title>
+<title>[COLOR red][COLOR  lime]�  [/COLOR]Sky Sports 1  [COLOR  lime]�  [/COLOR][/COLOR]</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
