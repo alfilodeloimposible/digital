@@ -2,7 +2,7 @@
 
 
 <item>
-            <title>[COLOR white]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR red] todos los partidos del día[/COLOR]</title>
+            <title>[COLOR red]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR red] todos los partidos del día[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
             <regex>
             <name>hash</name>
@@ -28,37 +28,37 @@
             <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
             </item>
 <item>
-<title>[COLOR goldenrod]Partidos en DIRECTO (sportsdevil)[/COLOR] </title>
+<title>[COLOR chartreuse]Partidos en DIRECTO (sportsdevil)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR goldenrod]Deportes por categorias[/COLOR] </title>
+<title>[COLOR cadetblue]Deportes por categorias[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/categoriasdeportivas.xml</externallink>
 </item>
 
 <tem>
-<title>[COLOR goldenrod]acestream(sportsdevil)[/COLOR] </title>
+<title>[COLOR dimgray]acestream(sportsdevil)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.m3u</externallink>
 </item>
 
 <iem>
-<title>[COLOR red]Canales De Deportes[/COLOR] </title>
+<title>[COLOR lawngreen]Canales De Deportes[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png</thumbnail><fanart>https://www.ecured.cu/images/a/ad/SeriesTV.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
 </item>
 
 <item>
-<title>[COLOR goldenrod] Arenavisión FÚTBOL[/COLOR] </title>
+<title>[COLOR mistyrose] Arenavisión FÚTBOL[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://articulosdeopinion.net/wp-content/uploads/2017/02/arenavision-696x408.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU_400x400.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/arenavision.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR goldenrod]Canales de deportes Internacionales[/COLOR] </title>
+<title>[COLOR seagreen]Canales de deportes Internacionales[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://articulosdeopinion.net/wp-content/uploads/2017/02/arenavision-696x408.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU_400x400.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/deportes.xml</externallink>
 </item>
@@ -67,7 +67,7 @@
 
 
 <item>
-<title>[COLOR goldenrod]  [B]La Liga[/B][/COLOR]</title>
+<title>[COLOR turquoise]  [B]La Liga[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -106,7 +106,7 @@
 </item>
 
 <item>
-<title>[COLOR goldenrod] UEFA CHAMPIONS LEAGE [/COLOR]</title>
+<title>[COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
