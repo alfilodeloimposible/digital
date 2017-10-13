@@ -172,7 +172,18 @@
 <link>$doregex[makelist]</link>
 </item>
 
-
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Partidos liga española[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.webtv.ws/embedd.php?live=spstreamdolce2&vw=700&vh=430</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>  
+<fanart>http://s03.s3c.es/imag/_v0/770x420/8/5/8/movistar-empieza-formula1-.jpg</fanart>
+ </item>
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Discovey Channel[/UPPERCASE][/COLOR] </title>
