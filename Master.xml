@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title> [COLOR yellowgreen][B]******[COLOR orangered]^___^   Actualizado el [B]13[/B] de Octubre de 2017  ^___^[/COLOR] **********[/COLOR] </title>	
+<title> [COLOR yellowgreen][B]******[COLOR salmon]^___^   Actualizado el [B]18[/B] de Octubre de 2017  ^___^[/COLOR] **********[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
  
@@ -37,11 +37,43 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR lime][B]****Liga y Partidazo****[/B][/COLOR] </title>
+<title>[COLOR lime][B]****ZONA CON CANALES DE PRUEBA****[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/liga.xml</externallink>
 </item>
 
+<item>
+            <title>[COLOR red]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR red] todos los partidos del día[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>             
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+ 
+  
+            <item>
+             <title>[COLOR palevioletred]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] todos los partidos del día[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/10</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+			
+<item>
+<title>[COLOR chartreuse]Partidos en DIRECTO (sportsdevil)[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink>
+</item>
 
 <item>
 <title>[COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR]</title>
@@ -74,6 +106,48 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <thumbnail>https://articulosdeopinion.net/wp-content/uploads/2017/02/arenavision-696x408.png</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU_400x400.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR turquoise]  [B]La Liga[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://adryanlist.org/adryan/img/acestream.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+
+<info>[B][COLOR skyblue]»»»   A  D  R  Y  A  N  L  I  S  T  «««[/COLOR]
+[COLOR aquamarine]Donaciones paypal.me/adryanlist[/COLOR][/B]</info>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH LA LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail></thumbnail>
+	<fanart></fanart>
+	
+
+</item>
+
+
 
 
 <tem>
