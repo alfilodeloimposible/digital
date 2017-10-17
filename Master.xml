@@ -121,6 +121,12 @@ Me gusta que los planes salgan bien[/COLOR]</title>
 </item>
 
 <item>
+<title>[COLOR lime][B] CHAMPIONS 17/10/2017[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
+</item>
+
+<item>
 <title>[COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
