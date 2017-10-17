@@ -43,11 +43,24 @@ Me gusta que los planes salgan bien[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital3.xml</externallink>
 </item>
 
+<item>
+<title> [COLOR steelblue]****************ZONA CON CANALES DE PRUEBA*********************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+</item>
+
 
 <item>
-<title>[COLOR lime][B]****ZONA CON CANALES DE PRUEBA****[/B][/COLOR] </title>
+<title>[COLOR lime][B]Test 1[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/liga.xml</externallink>
+</item>
+
+
+<item>
+<title> [COLOR steelblue]*************************BEIN LA LIGA Y PARTIDAZO**************************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
 </item>
 
 <item>
@@ -63,7 +76,13 @@ Me gusta que los planes salgan bien[/COLOR]</title>
             <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
             </item>
  
-  
+  <item>
+<title> [COLOR steelblue]*************************BEIN LA LIGA Y PARTIDAZO**************************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+</item>
+
+
             <item>
              <title>[COLOR palevioletred]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] todos los partidos del día[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
@@ -81,6 +100,12 @@ Me gusta que los planes salgan bien[/COLOR]</title>
 <title>[COLOR chartreuse]Partidos en DIRECTO (sportsdevil)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink>
+</item>
+
+<item>
+<title> [COLOR steelblue]****************************UEFA CHAMPIONS LEAGE***********************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
 </item>
 
 <item>
@@ -115,6 +140,11 @@ Me gusta que los planes salgan bien[/COLOR]</title>
 <fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU_400x400.jpg</fanart>
 </item>
 
+<item>
+<title> [COLOR steelblue]*******************************La Liga*************************************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+</item>
 
 <item>
 <title>[COLOR turquoise]  [B]La Liga[/B][/COLOR]</title>
@@ -156,7 +186,11 @@ Me gusta que los planes salgan bien[/COLOR]</title>
 </item>
 
 
-
+<item>
+<title> [COLOR steelblue]***************************************************************************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+</item>
 
 <tem>
 <title>[COLOR lime][B] CHAMPIONS 17/10/2017[/B][/COLOR] </title>
@@ -170,7 +204,11 @@ Me gusta que los planes salgan bien[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/miliga.xml</externallink>
 </item>
 
-
+<item>
+<title> [COLOR steelblue]***************************************************************************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+</item>
 
 
 <item>
