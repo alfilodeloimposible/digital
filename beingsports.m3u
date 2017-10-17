@@ -3,55 +3,6 @@
 #EXTINF:0,La Liga(livetv)
 http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=91464139&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
-#EXTINF:0,#Movistar Acción
-http://104.18.39.167/live/plusestrenos.php
-
-#EXTINF:0,#Movistar Acción3
-http://104.18.38.167/live/plusestrenos.php
-
-#EXTINF:0,#Movistar Acción2
-http://tepo7.telesport.pw/live/plusestrenos/index.m3u8?token=3gVbfXkHLNlRc2olKAoFXQ&expires=1507196389
-
-#EXTINF:0,odt
-http://185.102.218.80:8080/hls/streama55689/index.m3u8
-
-#EXTINF:0,odt SPORT1+HD
-http://a3.aliez.me:8080/hls/streama54145/index.m3u8
-
-#EXTINF:0,La Liga(http://laliga-live.to)
-http://193.124.177.115/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwNjg5ODg5NCZoYXNoX3ZhbHVlPWYyVTRBSEthUUltbDlHeG5vbGRnNlE9PSZ2YWxpZG1pbnV0ZXM9MTAw
-
-#EXTINF:0,http://live.robinwidget.org
-http://89.248.168.21:8088/cast4u/hdch10/playlist.m3u8?id=48&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace&wowzasessionid=342050572
-
-#EXTINF:0, BT Sports 1 (livetv)
-http://94.102.51.122:8088/cast4u/btsp1/playlist.m3u8?id=29&wowzasessionid=32706886&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
-
-#EXTINF:0, BT Sports 2 (livetv)
-http://93.174.93.68:8088/cast4u/btsp2/playlist.m3u8?id=30&wowzasessionid=619982175&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
-
-#EXTINF:0, BT Sports 3 (livetv)
-http://89.248.172.239:8088/cast4u/btsp3/playlist.m3u8?id=31&wowzasessionid=3176125169&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
-
-#EXTINF:0, Sky Sports Fútbol(livetv)
-http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=732009021&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
-
-#EXTINF:0, Being Sport HD(livetv)
-http://80.82.78.23:8088/cast4u/hdch2/playlist.m3u8?id=39&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
-
-#EXTINF:0, IDMAN Azerbayan(livetv)
-http://85.132.71.6/turk/idman/index.m3u8
-
-#EXTINF:0, Sky Sports 2 HD (nowwatch)
-http://e2.liveonlinetv.biz/live/skysports5-hq/chunks.m3u8
-
-#EXTINF:0,vipbox
-http://89.248.169.35:8088/cast4u/564ygecgff/playlist.m3u8?id=3549&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace&wowzasessionid=254483403
-
-#EXTINF:0,vipbox  2
-http://94.102.63.18:8088/cast4u/564ygecgff/playlist.m3u8?id=3549&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace&wowzasessionid=3505054841
-
-
-#EXTINF:0, Being LaLiga (nowwatch)
-http://193.124.189.249/cavscampeon/252184.m3u8?wmsAuthSign2=d2l6MTA=&token=c2VydmVyX3RpbWU9MTUwNjg5NTA0OCZoYXNoX3ZhbHVlPXNMNVlTcHBRZ3dIRXdOTUtBdFA2QXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,REAL MADRID--TOTTENHAM
+http://185.150.190.16/cavscampeon/247340.m3u8?wmsAuthSign2=d2l6Mjg=&token=c2VydmVyX3RpbWU9MTUwODI0NzEyOCZoYXNoX3ZhbHVlPU1NekplVDBvbVl3OXIybHFuVzV0OXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
