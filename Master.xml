@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title> [COLOR yellowgreen][B]//[COLOR salmon]^___^   Actualizado el [B]19[/B] de Octubre de 2017  ^___^[/COLOR] [/COLOR] </title>	
+<title> [COLOR yellowgreen][B]//[COLOR salmon] Actualizado el [B]19[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
  
@@ -45,11 +45,10 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title> [COLOR orangered]//[COLOR olivedrab]ZONA MOVISTAR +[/COLOR]//[/COLOR]</title>
+<title> [COLOR orangered]****************************************************[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
-
 
 <item>
 <title>[COLOR green]Movistar + (opción 1)[/COLOR] </title>
@@ -75,7 +74,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 </item>
 
 <item>
-<title> [COLOR orangered]//ZONA CON CANALES DE PRUEBA//[/COLOR]</title>
+<title> [COLOR orangered]****************************************************[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
@@ -89,11 +88,10 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title> [COLOR orangered]//BEIN LA LIGA Y PARTIDAZO//[/COLOR]</title>
+<title> [COLOR orangered]****************************************************[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
-
 <item>
             <title>[COLOR red]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR red] todos los partidos del día[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
@@ -126,7 +124,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title> [COLOR orangered]//UEFA CHAMPIONS LEAGE//[/COLOR]</title>
+<title> [COLOR orangered]****************************************************[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
@@ -166,7 +164,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 </item>
 
 <item>
-<title> [COLOR orangered]//La Liga//[/COLOR]</title>
+<title> [COLOR orangered]****************************************************[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
@@ -212,7 +210,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title> [COLOR orangered]//Zona Peliculas//[/COLOR]</title>
+<title> [COLOR orangered]****************************************************[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
@@ -226,7 +224,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <item>
 
 <item>
-<title> [COLOR orangered]//Zona Audiolibros//[/COLOR]</title>
+<title> [COLOR orangered]****************************************************[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
