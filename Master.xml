@@ -22,28 +22,22 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]EUROLIGA BASKET[COLOR=blue][B][I] REAL MADRID-CSKA Moskva[/I][/B][/COLOR][COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+<title>[COLOR mintcream]Euroliga Basket[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/euroligabasket.xml</externallink>
 </item>
-
 
 <item>
-<title>[COLOR yellow]EUROLIGA BASKET[COLOR=mintcream][B][I] MACCABI TEL AVIV BC-Baskonia VITORIA[/I][/B][/COLOR][COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://ef9ae44ce6aa2702d3aa1b1eb90509e6ac983c1b&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+<title> [COLOR steelblue]****************************************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
 </item>
-
-
 
 <item>
 <title>[COLOR seashell]Europa League[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
-
 
 
 
