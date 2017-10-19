@@ -3,8 +3,8 @@
 #EXTINF:0,La Liga(livetv)
 http://93.174.93.68:8088/cast4u/skyspfootball/playlist.m3u8?id=2453&wowzasessionid=91464139&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
-#EXTINF:0,REAL MADRID--TOTTENHAM
-http://185.150.190.16/cavscampeon/247340.m3u8?wmsAuthSign2=d2l6Mjg=&token=c2VydmVyX3RpbWU9MTUwODI0NzEyOCZoYXNoX3ZhbHVlPU1NekplVDBvbVl3OXIybHFuVzV0OXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,Östersunds VS ATHLETIC BILBAO
+http://89.248.172.239:8088/cast4u/hdch7/playlist.m3u8?id=45&wowzasessionid=996168682&pk=165caf392b9afff84304cfaf4580ebe89e7733de8d6252a926e2ce3cf29e2ace
 
 #EXTINF:0,REAL MADRID--TOTTENHAM (opción 2)
 http://185.212.201.210/cavscampeon/250699.m3u8?wmsAuthSign2=d2l6NTA=&token=c2VydmVyX3RpbWU9MTUwODI0NzY2OSZoYXNoX3ZhbHVlPWx1UVZwUnJ6aThuTEw4NHpRTVduMmc9PSZ2YWxpZG1pbnV0ZXM9MTAw
