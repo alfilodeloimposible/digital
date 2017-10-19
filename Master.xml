@@ -7,7 +7,9 @@
  
 <item>
 <title>
-DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.</title>
+DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. 
+No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. 
+Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
@@ -109,7 +111,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
             <item>
-             <title>[COLOR palevioletred]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] todos los partidos del día[/COLOR]</title>
+             <title>[COLOR palevioletred]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
             <regex>
             <name>hash</name>
