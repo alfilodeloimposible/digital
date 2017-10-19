@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=blue][B][I]Sporttv 4 [/I][/B][/COLOR][COLOR red](plexus)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=blue][B][I]Varda-REAL SOCIEDAD [/I][/B][/COLOR][COLOR red]1[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/0/05/Sporttv4.png/96px-Sporttv4.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
