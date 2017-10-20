@@ -94,7 +94,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail><fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acb.xml</externallink>
 </item>
@@ -107,7 +107,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]Euroliga Basket[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]Euroliga Basket[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail><fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/euroligbasket.xml</externallink>
 </item>
@@ -120,7 +120,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]Europa League[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]Europa League[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
@@ -132,7 +132,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR sienna]*[/COLOR][COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -167,13 +167,13 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 <!--En externallink ponemos la dirección donde se encuientra nuestra lista-->
 <item>
-<title>[COLOR plum]*[/COLOR][COLOR green]Movistar + (opción 1)[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR green]Movistar + (opción 1)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR plum]*[/COLOR][COLOR goldenrod]Movistar + (opción 2)[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR goldenrod]Movistar + (opción 2)[/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
@@ -182,7 +182,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR plum]*[/COLOR][COLOR blue]Movistar + (opción 3)[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR blue]Movistar + (opción 3)[/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
@@ -193,7 +193,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR indigo]*[/COLOR][COLOR turquoise]  [B]La Liga[/B][/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR turquoise]  [B]La Liga[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -214,7 +214,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 			</regex>
 			
 			<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
-<fanart>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</fanart>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 
 <info>[B][COLOR skyblue]»»»   A  D  R  Y  A  N  L  I  S  T  «««[/COLOR]
 [COLOR aquamarine]Donaciones paypal.me/adryanlist[/COLOR][/B]</info>
@@ -238,7 +238,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-            <title>[COLOR moccasin]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR papayawhip] todos los partidos del día[/COLOR]</title>
+            <title>[COLOR gold]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR papayawhip] todos los partidos del día[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
             <regex>
             <name>hash</name>
@@ -254,7 +254,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
             <item>
-             <title>[COLOR moccasin]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
+             <title>[COLOR gold]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
             <regex>
             <name>hash</name>
