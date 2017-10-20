@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- Simplemente insertar la url del Acestream en url -->
 <item>
-<title> [COLOR orangered]                         20/10/2017[/COLOR]</title>
+<title> [COLOR orangered]                                                     20/10/2017[/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
@@ -23,7 +23,7 @@
 
 
 <item>
-<title>[COLOR yellow]EUROLIGA BASKET[COLOR=blue][B][I] VALENCIA BASKET-Anadolu EFES[/I][/B][/COLOR][COLOR red]***21:00[/COLOR]</title>
+<title>[COLOR yellow]EUROLIGA BASKET[COLOR=firebrick][B][I] VALENCIA BASKET-Anadolu EFES[/I][/B][/COLOR][COLOR red]***21:00[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
 <thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail>
 <fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
