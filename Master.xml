@@ -177,7 +177,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR]</title>
+<title>[COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
