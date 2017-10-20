@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title> [COLOR limegreen]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]20[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]20[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 </item>
  
@@ -22,36 +22,14 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Levante-Getafe[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 13:00 [/COLOR]</title>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Levante-Getafe[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 13:00 [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Real Betis-Alavés[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 16:15 [/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
-<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
-<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Valencia-Sevilla[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 18:30 [/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
-<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
-<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Barcelona-Málaga[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 20:45 [/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
-<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
-<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Celta-Atletico De Madrid[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  16:15[/COLOR]</title>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Real Betis-Alavés[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 16:15 [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
@@ -59,28 +37,50 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Leganes-Athletic Club Bilbao[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  18:30[/COLOR]</title>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Valencia-Sevilla[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 18:30 [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Real Madrid-Eibar[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  20:45[/COLOR]</title>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Barcelona-Málaga[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 20:45 [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Celta-Atletico De Madrid[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  16:15[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Leganes-Athletic Club Bilbao[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  18:30[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Real Madrid-Eibar[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  20:45[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://42ad40f00133cfa5dce4b38894da69b016396ed0&amp;name=1</link>
 <thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR limegreen]*[/COLOR][COLOR darkturquoise]La Liga[COLOR=olivedrab][B][I] Real Madrid-Eibar (opción 2)[/I][/B][/COLOR][COLOR darkturquoise]   22/10/2017  20:45[/COLOR]</title>
+<title>[COLOR gold]--*--[/COLOR][COLOR darkturquoise]La Liga[COLOR=olivedrab][B][I] Real Madrid-Eibar[COLOR blanchedalmond] (opción 2)[/COLOR][/I][/B][/COLOR][COLOR darkturquoise]   22/10/2017  20:45[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR limegreen]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I]  Real Sociedad-Español[/I][/B][/COLOR][COLOR gainsboro]   23/10/2017  20:00 [/COLOR]</title>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I]  Real Sociedad-Español[/I][/B][/COLOR][COLOR gainsboro]   23/10/2017  20:00 [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
@@ -94,7 +94,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail><fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acb.xml</externallink>
 </item>
@@ -107,7 +107,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]Euroliga Basket[/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]Euroliga Basket[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail><fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/euroligbasket.xml</externallink>
 </item>
@@ -120,7 +120,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]Europa League[/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR lemonchiffon]*[/COLOR][COLOR seashell]Europa League[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
@@ -132,7 +132,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR sienna]*[/COLOR][COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR sienna]*[/COLOR][COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -275,7 +275,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR limegreen]*[/COLOR][COLOR lime][B]Test 1[/B][/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR lime][B]Test 1[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/liga.xml</externallink>
 </item>
@@ -284,7 +284,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR limegreen]*[/COLOR][COLOR golden] Peliculas[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR golden] Peliculas[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://articulosdeopinion.net/wp-content/uploads/2017/02/arenavision-696x408.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU_400x400.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/taquilla.xml</externallink>
 </item>
@@ -293,7 +293,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <item>
-<title>[COLOR limegreen]*[/COLOR][COLOR red]Audiolibros---VOZ HUMANA---[/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR red]Audiolibros---VOZ HUMANA---[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
