@@ -4,21 +4,21 @@
 <!-- Simplemente insertar la url del Acestream -->
 
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B][I] Varda-REAL SOCIEDAD [/I][/B][/COLOR][COLOR red]1[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<iem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=olive][B][I] SIMULCAST EUROPALIGUE[/I][/B][/COLOR][COLOR red][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://0ae84bbee86ef2f775100c24e447c639849b0b8f&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=blue][B][I] VILLARREAL-Slavia PRAHA[/I][/B][/COLOR][COLOR red][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -26,7 +26,7 @@
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=pink][B][I] Östersund-ATHLETIC CLUB [/I][/B][/COLOR][COLOR red][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -34,7 +34,7 @@
 </item>
 
 
-<item>
+<iem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=orchid][B][I] Sport tv 1[/I][/B][/COLOR][COLOR red][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://18864d13625420251988bcae3115b5275135d5ce&amp;name=1</link>
 <thumbnail></thumbnail>

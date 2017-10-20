@@ -7,9 +7,9 @@
 </item>
 
 <item>
-<title>[COLOR yellow]EUROLIGA BASKET[COLOR=olivedrab][B][I] KK ESTRELLA ROJA-FC BARCELONA Lasser[/I][/B][/COLOR][COLOR red]20/10/2017[/COLOR]</title>
+<title>[COLOR yellow]EUROLIGA BASKET[COLOR=olivedrab][B][I] KK ESTRELLA ROJA-FC BARCELONA Lasser[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
-<thumbnail></thumbnail>
+<thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail>
 <fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
 </item>
 
@@ -17,7 +17,7 @@
 <item>
 <title>[COLOR yellow]EUROLIGA BASKET[COLOR=blue][B][I] Olympiakos Piraeus-UNICAJA MALAGA[/I][/B][/COLOR][COLOR red][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://ef9ae44ce6aa2702d3aa1b1eb90509e6ac983c1b&amp;name=1</link>
-<thumbnail></thumbnail>
+<thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail>
 <fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
 </item>
 
