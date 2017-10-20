@@ -1,5 +1,4 @@
-# digital
-canales digitales
+
 Si has llegado hasta aquí navegando por la red,has de saber que:
 Todo lo publicado aquí es para aprendizaje personal.
 Estos enlaces no son públicos ni lo serán.
