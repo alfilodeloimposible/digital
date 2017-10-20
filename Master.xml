@@ -158,43 +158,6 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
-<item>
-            <title>[COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR papayawhip] todos los partidos del día[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk/node/8</page>
-            <referer>http://www.arenavision.ru</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>             
-            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
-            </item>
- 
- 
-
-
-            <item>
-             <title>[COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk/node/10</page>
-            <referer>http://www.arenavision.ru</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
-            </item>
-			
-
-
-<item>
-<title> [COLOR orangered]**************************[/COLOR]</title>
-<link>http://ignorame</link>
-<externallink></externallink>
-</item>
-
 
 
 <item>
@@ -234,6 +197,47 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
+
+
+<item>
+            <title>[COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR papayawhip] todos los partidos del día[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>             
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+ 
+ 
+
+
+            <item>
+             <title>[COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/10</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+			
+
+
+<item>
+<title> [COLOR orangered]**************************[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+</item>
+
+
+
 
 
 <item>
