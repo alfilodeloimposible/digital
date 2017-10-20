@@ -22,9 +22,14 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <externallink></externallink>
 </item>
 
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
+
 <item>
 <title>[COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Levante-Getafe[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017  13:00 [/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=<!--acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b-->acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 </thumbnail> 
 </item>
@@ -93,6 +98,11 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <externallink></externallink>
 </item>
 
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
+
 <item>
 <title>[COLOR seashell]ACB[/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail><fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
@@ -105,6 +115,11 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <externallink></externallink>
 </item>
 
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
+
 <item>
 <title>[COLOR seashell]Euroliga Basket[/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail><fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
@@ -116,6 +131,11 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 </item>
+
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
 
 <item>
 <title>[COLOR seashell]Europa League[/COLOR][COLOR limegreen]**Activo sólo en eventos** [/COLOR] </title>
@@ -171,7 +191,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <externallink></externallink>
 </item>
 
-
+<!--En externallink ponemos la dirección donde se encuientra nuestra lista-->
 <item>
 <title>[COLOR green]Movistar + (opción 1)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
