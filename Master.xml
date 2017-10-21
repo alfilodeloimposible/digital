@@ -91,7 +91,10 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <!-- Simplemente insertar la url del Acestream en url-->
 
 <!-- Los canales están extraidos de arenavision.in -->
-
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
 
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
@@ -166,6 +169,15 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 <!--En externallink ponemos la dirección donde se encuientra nuestra lista-->
+
+
+
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR green]Movistar + (opción 1)[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
@@ -189,7 +201,10 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital3.xml</externallink>
 </item>
 
-
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
 
 
 <item>
@@ -269,7 +284,10 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 
 
 
-
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
 
 
 
