@@ -811,20 +811,21 @@
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
 <fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
  
-<tem>
+<item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/goltv.php</page>
-<referer>http://www.vertelevisor.com/ver-goltv-en-directo-gratis-por-internet/</referer>
+<referer>http://www.vercanalestv.com/ver-gol-tv-en-directo-y-online-las-24h-gratis/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</agent>
 </regex>
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
-<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
+</item>
 
-<item>
+<tem>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv[/UPPERCASE][/COLOR] </title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://0fb872f321a26e664d3180a44bc89edc21c4cd3a &amp;name=1</link>
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>
