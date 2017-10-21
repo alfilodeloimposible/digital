@@ -494,7 +494,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397</page>
+<page>http://livesports.pw/embed2.php?file=hollywesp&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png</thumbnail>  
@@ -799,7 +799,7 @@
  </item>
  
 <tem>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -812,7 +812,7 @@
 <fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
  
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
 <regex>
 <name>get-id</name>
