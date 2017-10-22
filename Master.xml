@@ -97,6 +97,14 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>$doregex[makelist]</link>
 </item>
 
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]Copa Del Rey[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/copadelrey.xml</externallink>
+</item>
+
+
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail><fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
@@ -128,11 +136,6 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
-
-
-
-
-
 
 
 <item>
