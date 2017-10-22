@@ -4,12 +4,16 @@
 <item>
 <title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]21[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
+<fanart>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/fanart.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
  
 <item>
 <title>
 DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.</title>
 <link>http://ignorame</link>
+<fanart>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/fanart.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 <externallink></externallink>
 </item>
 
@@ -224,6 +228,8 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <item>
 <title> [COLOR gold]*******************************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
+<fanart>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/fanart.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 
@@ -253,6 +259,8 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <item>
 <title> [COLOR gold]*******************************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
+<fanart>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/fanart.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 
@@ -298,6 +306,8 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <item>
 <title> [COLOR gold]*******************************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
+<fanart>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/fanart.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 
