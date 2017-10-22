@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- Simplemente insertar la url del Acestream en url-->
 
@@ -39,46 +39,3 @@
 </item>
 
 
-=======
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-- Simplemente insertar la url del Acestream en url-->
-
-
-<item>
-<title>[COLOR yellow]ACB[/COLOR][COLOR=olivedrab][B][I] Tenerife-Bilbao Basket Lasser[/I][/B] [/COLOR][COLOR darkturquoise] 21/10/2017  19:00[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
-<thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail>
-<fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ACB[/COLOR][COLOR=olivedrab][B][I] Obradoiro-Burgos[/I][/B][/COLOR][COLOR darkturquoise] 21/10/2017  19:00 [/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://ef9ae44ce6aa2702d3aa1b1eb90509e6ac983c1b&amp;name=1</link>
-<thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail>
-<fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ACB[/COLOR][COLOR=olivedrab][B][I] Estudiantes- Fc Barcelona Lassa[/I][/B][/COLOR][COLOR darkturquoise]  22/10/2017  12:30 [/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://5f59d85fad918d3c75e7a2cf2ca4d5ed0d4611bf&amp;name=1</link>
-<thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail>
-<fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ACB[/COLOR][COLOR=olivedrab][B][I] Ucam Murcia-Valencia[/I][/B][/COLOR][COLOR darkturquoise] 22/10/2017  18:00[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://5f59d85fad918d3c75e7a2cf2ca4d5ed0d4611bf&amp;name=1</link>
-<thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail>
-<fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ACB[/COLOR][COLOR=olivedrab][B][I] Real Madrid-Unicaja Malaga[/I][/B][/COLOR][COLOR darkturquoise] 22/10/2017  18:00 [/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://5f59d85fad918d3c75e7a2cf2ca4d5ed0d4611bf&amp;name=1</link>
-<thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail>
-<fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
-</item>
-
-
->>>>>>> origin/master
-<!-- Los canales están extraidos de arenavision.in -->
