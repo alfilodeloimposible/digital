@@ -138,7 +138,7 @@ Todo el contenido es copyright de sus respectivos propietarios.</title>
 </item>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell] UEFA CHAMPIONS LEAGUE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
