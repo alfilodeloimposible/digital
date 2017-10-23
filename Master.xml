@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
@@ -125,9 +124,6 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			
 			<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
-
-
-
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH LA LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
@@ -165,9 +161,6 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			
 			<thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
 <fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
-
-
-
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH CUP[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
@@ -205,9 +198,6 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			
 			<thumbnail>https://img.vavel.com/lpfp_02_751542585.png</thumbnail>
 <fanart>https://img.vavel.com/lpfp_02_751542585.png</fanart>
-
-
-
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}PORTUGAL A LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
@@ -246,9 +236,6 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			
 			<thumbnail>https://vignette1.wikia.nocookie.net/fifa/images/7/76/Premier_League.png</thumbnail>
 <fanart>https://vignette1.wikia.nocookie.net/fifa/images/7/76/Premier_League.png</fanart>
-
-
-
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}PREMIER LEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
@@ -287,12 +274,9 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			
 			<thumbnail>http://theco.com/development/wp-content/uploads/2015/02/NFL-logo.png</thumbnail>
 <fanart>http://theco.com/development/wp-content/uploads/2015/02/NFL-logo.png</fanart>
-
-
-
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
 <page>http://arenavision.ru/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision.ru/iguide</referer>
@@ -306,7 +290,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]EUROLEAGUE [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B] EUROLEAGUE [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -316,8 +300,8 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/$doregex[canal]</page>
-			<referer>http://arenavision2017.tk/</referer>
+			<page>http://arenavision.ru$doregex[canal]</page>
+			<referer>http://arenavision.ru</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -326,23 +310,21 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			<page></page>
 			</regex>
 			
-			<thumbnail>http://vector.me/files/images/7/9/790098/euroleague_basketball.png</thumbnail>
-<fanart>http://vector.me/files/images/7/9/790098/euroleague_basketball.png</fanart>
-
-
-
+			<thumbnail>http://theco.com/development/wp-content/uploads/2015/02/NFL-logo.png</thumbnail>
+<fanart>http://theco.com/development/wp-content/uploads/2015/02/NFL-logo.png</fanart>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}EUROLEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>http://arenavision2017.tk/iguide</page>
+<page>http://arenavision.ru/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk/iguide</referer>
+<referer>http://arenavision.ru/iguide</referer>
 <setcookie>beget=begetok</setcookie>
-</regex><thumbnail>http://vector.me/files/images/7/9/790098/euroleague_basketball.png</thumbnail>
-	<fanart>http://vector.me/files/images/7/9/790098/euroleague_basketball.png</fanart>
+</regex><thumbnail>http://theco.com/development/wp-content/uploads/2015/02/NFL-logo.png</thumbnail>
+	<fanart>http://theco.com/development/wp-content/uploads/2015/02/NFL-logo.png</fanart>
 	
 
 </item>
+
 
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR seashell] UEFA CHAMPIONS LEAGUE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
@@ -538,16 +520,3 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
-
-
- 
-
-
-
-
- 
-
-
-
-
-
