@@ -240,6 +240,40 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR seashell] USA NBA [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>https://arenavision.us/[makelist.param5]</page>
+			<referer>https://arenavision.us/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			
+			<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<page>https://arenavision.us/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>https://arenavision.us/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+
+<thumbnail>https://www.teleadhesivo.com/es/img/asfs357-png/folder/products-detalle-png</thumbnail>
+<fanart>https://www.teleadhesivo.com/es/img/asfs357-png/folder/products-detalle-png</fanart>
+</item>
+
+
 <!-- Simplemente insertar la url del Acestream en url-->
 
 <!-- Los canales están extraidos de arenavision.in -->
