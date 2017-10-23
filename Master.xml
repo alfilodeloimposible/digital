@@ -109,7 +109,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=digital+[makelist.param4]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -143,13 +143,13 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell] NFL [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]USA NFL(prueba)[/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=digital+[makelist.param4]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -163,8 +163,8 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 			<page></page>
 			</regex>
 			
-			<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
-<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+			<thumbnail>http://e-planetenglishcancun.com/wp-content/uploads/2017/01/NFLShield.png</thumbnail>
+<fanart>http://e-planetenglishcancun.com/wp-content/uploads/2017/01/NFLShield.png</fanart>
 
 
 
