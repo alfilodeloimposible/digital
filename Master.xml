@@ -101,19 +101,19 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]Deportes por categorias[/B][/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]  [B]Deportes por categorias[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/categoriasdeportivas.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]liga (Canales Extranjeros)[/B][/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]  [B]liga (Canales Extranjeros)[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink>
 </item>
 
 <item>
-            <title>[COLOR gold]*[/COLOR][COLOR seashell]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR seashell] todos los partidos del día[/COLOR]</title>
+            <title>[COLOR gold]*[/COLOR][COLOR lavender]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR lavender] todos los partidos del día[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
             <regex>
             <name>hash</name>
@@ -129,7 +129,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
             <item>
-             <title>[COLOR gold]*[/COLOR][COLOR seashell]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
+             <title>[COLOR gold]*[/COLOR][COLOR lavender]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
             <regex>
             <name>hash</name>
@@ -143,7 +143,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]La Liga[/B][/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]  [B]La Liga[/B][/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -187,7 +187,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]Europa League[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]Europa League[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
@@ -195,14 +195,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]Copa Del Rey[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]Copa Del Rey[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/copadelrey.xml</externallink>
 </item>
 
 
 <tem>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]ACB[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail><fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acb.xml</externallink>
 </item>
@@ -215,7 +215,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <iem>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]Euroliga Basket[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]Euroliga Basket[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail><fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/euroligbasket.xml</externallink>
 </item>
@@ -223,7 +223,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]PRUEBAS ACESTREAM[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR lavender]PRUEBAS ACESTREAM[/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
