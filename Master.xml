@@ -112,6 +112,35 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink>
 </item>
 
+<item>
+            <title>[COLOR gold]*[/COLOR][COLOR seashell]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR seashell] todos los partidos del día[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>             
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+ 
+ 
+
+
+            <item>
+             <title>[COLOR gold]*[/COLOR][COLOR seashell]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/10</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+
 
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]La Liga[/B][/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
@@ -194,7 +223,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR papayawhip]PRUEBAS ACESTREAM[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]PRUEBAS ACESTREAM[/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
@@ -246,45 +275,6 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
-
-
-
-
-
-
-
-
-
-<item>
-            <title>[COLOR gold]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR papayawhip] todos los partidos del día[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk/node/8</page>
-            <referer>http://www.arenavision.ru</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>             
-            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
-            </item>
- 
- 
-
-
-            <item>
-             <title>[COLOR gold]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk/node/10</page>
-            <referer>http://www.arenavision.ru</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
-            </item>
-			
-
 
 
 <item>
