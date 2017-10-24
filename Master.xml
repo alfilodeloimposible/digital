@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]24/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]24[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -314,7 +314,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
