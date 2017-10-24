@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- Simplemente insertar la url del Acestream en url-->
 
-<iem>
+<item>
 <title>[COLOR chartreuse]Copa Del Rey[/COLOR][COLOR=olivedrab][B][I] Tenerife-Bilbao Basket Lasser[/I][/B] [/COLOR][COLOR darkturquoise] 21/10/2017  19:00[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
 <thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
