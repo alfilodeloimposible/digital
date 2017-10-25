@@ -26,8 +26,8 @@
 			<page></page>
 			</regex>
 			
-			<thumbnail>https://miguelangelsanz.blogia.com/upload/20140225224837-premier-league.jpg</thumbnail>
-<fanart>https://miguelangelsanz.blogia.com/upload/20140225224837-premier-league.jpg</fanart>
+			<thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
+<fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH CUP[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
@@ -35,8 +35,8 @@
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
 <setcookie>beget=begetok</setcookie>
-</regex><thumbnail>https://miguelangelsanz.blogia.com/upload/20140225224837-premier-league.jpg</thumbnail>
-	<fanart>https://miguelangelsanz.blogia.com/upload/20140225224837-premier-league.jpg</fanart>
+</regex><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
+	<fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 	
 
 </item>
@@ -235,7 +235,7 @@
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell] EUROLEAGUE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]EUROLEAGUE [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -255,16 +255,15 @@
 			<page></page>
 			</regex>
 			
-			<thumbnail>https://img.vavel.com/lpfp_02_751542585.png</thumbnail>
-<fanart>https://img.vavel.com/lpfp_02_751542585.png</fanart>
+			<thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
+<fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}EUROLEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+<page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision2017.tk/iguide</referer>
 <setcookie>beget=begetok</setcookie>
-</regex>
 
 <thumbnail>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</thumbnail>
 <fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
