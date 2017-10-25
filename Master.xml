@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
+ <items>
 <item>
 <title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]25[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
@@ -269,7 +269,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital3.xml</externallink>
 </item>
 
-<item>
+<tem>
 <title> [COLOR gold]*******************************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
@@ -310,3 +310,4 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
 </item>
+</items>
