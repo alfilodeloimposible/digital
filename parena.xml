@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<items>
+
 <item>
 <title>[COLOR deepskyblue][B] Canales Arenavision  [COLOR aquamarine][I]Opcion 1[/I]  [/COLOR][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
@@ -29,4 +29,3 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-</items>
