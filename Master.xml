@@ -40,49 +40,49 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title> [COLOR gold]Alaves - Atletico Madrid - Villarreal CF 2017-10-28 20:45[/COLOR] </title>	
+<title> [COLOR gold]Atletico Madrid - Villarreal CF 2017-10-28 20:45[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 <item>
-<title> [COLOR gold]Alaves - Ath Bilbao - Barcelona 2017-10-28 22:30[/COLOR] </title>	
+<title> [COLOR gold]Ath Bilbao - Barcelona 2017-10-28 22:30[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 <item>
-<title> [COLOR gold]-FC Sevilla - Getafe CF - Real Sociedad2017-10-29 16:15[/COLOR] </title>	
+<title> [COLOR gold]Getafe CF - Real Sociedad 2017-10-29 16:15[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 <item>
-<title> [COLOR gold]-FC Sevilla - Girona FC - Real Madrid2017-10-29 18:30[/COLOR] </title>	
+<title> [COLOR gold]Girona FC - Real Madrid 2017-10-29 18:30[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 <item>
-<title> [COLOR gold]-Eibar - UD Levante2017-10-29 20:45[/COLOR] </title>	
+<title> [COLOR gold]Eibar - UD Levante2017-10-29 20:45[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 <item>
-<title> [COLOR gold]-Eibar - Malaga CF - Celta Vigo2017-10-30 21:00[/COLOR] </title>	
+<title> [COLOR gold]Celta Vigo 2017-10-30 21:00[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
 <item>
-<title> [COLOR gold]-Eibar - UD Las Palmas - Dep. La Coruna2017-10-30 21:00[/COLOR] </title>	
+<title> [COLOR gold] UD Las Palmas - Dep. La Coruna 2017-10-30 21:00[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
