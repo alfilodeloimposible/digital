@@ -309,7 +309,7 @@
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]]USA NBA [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]USA NBA [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
