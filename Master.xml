@@ -34,28 +34,24 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <!-- Simplemente insertar la url del Acestream en url-->
 
 <!-- Los canales están extraidos de arenavision.in -->
+<item>
+<title>Alaves - Valencia CF 2017-10-28 18:30</title>
+<title>Atletico Madrid - Villarreal CF 2017-10-28 20:45	</title>
+<title>Ath Bilbao - Barcelona 2017-10-28 22:30	</title>
+<title>FC Sevilla - Leganes 2017-10-29 12:00	</title>
+<title>Getafe CF - Real Sociedad2017-10-29 16:15</title>	
+<title>Girona FC - Real Madrid2017-10-29 18:30	</title>
+<title>Eibar - UD Levante2017-10-29 20:45	</title>
+<title>Malaga CF - Celta Vigo2017-10-30 21:00	</title>
+<title>UD Las Palmas - Dep. La Coruna2017-10-30 21:00	</title>
+<title>Espanyol - Betis[/I][/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
 
-<item><title>[COLOR gold]*[/COLOR][COLOR=mediumorchid][B][I] LaLiga
-2017-10-28 13:00	
-Alaves - Valencia CF
-2017-10-28 18:30	
-Atletico Madrid - Villarreal CF
-2017-10-28 20:45	
-Ath Bilbao - Barcelona
-2017-10-28 22:30	
-FC Sevilla - Leganes
-2017-10-29 12:00	
-Getafe CF - Real Sociedad
-2017-10-29 16:15	
-Girona FC - Real Madrid
-2017-10-29 18:30	
-Eibar - UD Levante
-2017-10-29 20:45	
-Malaga CF - Celta Vigo
-2017-10-30 21:00	
-UD Las Palmas - Dep. La Coruna
-2017-10-30 21:00	
-Espanyol - Betis[/I][/B] [/COLOR]</title>
+
+<item><title>[COLOR gold]*[/COLOR][COLOR=mediumorchid][B][I] LaLiga2017-10-28 13:00	</title>
  <sportsdevil>http://sstream.net/sptv2.html</sportsdevil> <referer></referer><thumbnail>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</thumbnail><fanart></fanart> </item>
 
 <item><title>[COLOR gold]*[/COLOR][COLOR=mediumorchid][B][I] CANAL 1(GRAN CALIDAD)[/I][/B] [/COLOR]</title> <sportsdevil>http://sstream.net/sptv1.html</sportsdevil> <referer></referer><thumbnail>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</thumbnail><fanart></fanart> </item>
