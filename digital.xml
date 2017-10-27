@@ -437,19 +437,33 @@
 <fanart>http://vercanalestv.com/imagenes/movistar-accion.jpg</fanart>
 </item>
 
+<!--
+********************http://telefivegb.com*****************************
+
+
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Caza Y Pesca[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png</thumbnail>  
+		<title>[COLOR  lime]•  [/COLOR][COLOR slateblue]CANAL COCINA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/documental/cocina</referer>
+		<thumbnail>http://verplusonline.com/wp-content/uploads/2015/07/cocina.png </thumbnail>
+		<fanart></fanart>
+	</item>
+	
+	pagina en <referer>http://telefivegb.com/canales/documental/cocina/</referer>
+	referer en <sportsdevil>http://livesports.pw/embed2.php?file=cocinaesp&width=650&height=397</sportsdevil>
+
+
+-->
+
+<item>
+		<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Caza Y Pesca[/UPPERCASE][/COLOR] </title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://verplusonline.com/ver-caza-y-pesca-online/</referer>
+		<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png</thumbnail>  
 <fanart>http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg</fanart> 
-</item>
+	</item>
+
 
  <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] ODISEA [/UPPERCASE][/COLOR] </title>
