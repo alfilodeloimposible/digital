@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0,Athletic Bilbao Vs Formentera
-http://185.107.94.81/cavscampeon/245451.m3u8?wmsAuthSign2=NThlM2M1NmQ3Zjg0NA==&token=c2VydmVyX3RpbWU9MTUwODkyMDQ4NiZoYXNoX3ZhbHVlPVE3RzhrSTg3d3M2TTgrUnNkb0trZkE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,Arena Sport 3
+http://82.118.242.20/cavscampeon/249869.m3u8?wmsAuthSign2=d2l6NDc=&token=c2VydmVyX3RpbWU9MTUwOTA1NzA1MyZoYXNoX3ZhbHVlPUJHOXFBeTgySUxGbXZWbVZCcVlOQnc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
-#EXTINF:0,Lleida Esportiu - Real Sociedad
-http://82.118.242.7/cavscampeon/249869.m3u8?wmsAuthSign2=d2l6NDc=&token=c2VydmVyX3RpbWU9MTUwODkyMTA3NSZoYXNoX3ZhbHVlPVhoVjkvWUx3eDVOaTl4WVJ4OXJlN3c9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,Sport tv 2
+http://82.118.242.7/cavscampeon/252139.m3u8?wmsAuthSign2=d2l6MjE=&token=c2VydmVyX3RpbWU9MTUwOTA1NzI2MSZoYXNoX3ZhbHVlPWVja2k1TTFCdm92L3Q5Nml1TWdUWlE9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 #EXTINF:0,Fuenlabrada - Real Madrid
 http://82.118.242.2/cavscampeon/251640.m3u8?wmsAuthSign2=d2l6OQ==&token=c2VydmVyX3RpbWU9MTUwODkyMTI1NSZoYXNoX3ZhbHVlPW44dGE1dEVLYjBSRElHWHVJYmpRRGc9PSZ2YWxpZG1pbnV0ZXM9MTAw
