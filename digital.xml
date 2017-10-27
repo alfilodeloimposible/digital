@@ -175,14 +175,16 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Discovey Channel[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Discovery Channel [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=discoverychannel&width=650&height=397</page>
-<cookieJar></cookieJar>
+<page>http://vergol.com/live/discovery-channel.php</page>
+<referer>http://www.vercanalestv.com/discovery-channel-en-vivo-por-internet/</referer>
+<agent>iPad</agent>
 </regex>
+
 <fanart>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png</fanart>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>   </item>
 
@@ -231,14 +233,13 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #COSMOPOLITAN [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#Cosmopolitan[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>get-id</name>
+<name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/cosmo.php</page>
-<referer>http://www.vercanalestv.com/canal-cosmopolitan-en-vivo-y-directo-series-cosmo/</referer>
-<agent>iPad</agent>
+<page>http://wwww.dinostream.pw/embed.php?c=105999&width=650&height=400</page>
+<cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.bestdigitalgroup.com/web/wp-content/uploads/2014/02/cosmopolitan_tv_es_hd.png</thumbnail>   
 <fanart>https://upload.wikimedia.org/wikipedia/commons/1/14/Cosmopolitan_logo.jpg</fanart>
@@ -405,6 +406,9 @@
 <thumbnail>https://miguia.tv/channels/big_273@2x.png</thumbnail>  
 <fanart>https://i2.wp.com/diariomnipresente.com/wp-content/uploads/2015/04/Fortitude.jpg</fanart>
  </item>
+ 
+ 
+ 
 
 
 <item><title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Acción [/UPPERCASE][/COLOR] </title>
