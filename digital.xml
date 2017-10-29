@@ -491,14 +491,14 @@
 <fanart>http://2.bp.blogspot.com/-r_J6Pp20N2c/VBVy8MA10nI/AAAAAAAAHpw/b7dma8IVHa4/s1600/z%2Bnation.jpg</fanart>
  </item>
  
- 
+ <!--http://verplusonline.com/ver-amc-espana-online-gratis-en-vivo-por-internet/-->
  <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] AMC [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=amcesptele&width=650&height=397</page>
+<page>http://livesports.pw/embed2.php?file=amcesptele&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>  
