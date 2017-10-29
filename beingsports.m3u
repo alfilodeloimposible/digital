@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,Arena Sport 3
-http://82.118.242.20/cavscampeon/249869.m3u8?wmsAuthSign2=d2l6NDc=&token=c2VydmVyX3RpbWU9MTUwOTA1NzA1MyZoYXNoX3ZhbHVlPUJHOXFBeTgySUxGbXZWbVZCcVlOQnc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,Girona FC - Real Madrid
+http://185.169.196.234/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTI3MjM4NyZoYXNoX3ZhbHVlPVIrTFVQQmtqaFZFbXVhUVh0Q0VzYXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
-#EXTINF:0,Sport tv 2
-http://82.118.242.7/cavscampeon/252139.m3u8?wmsAuthSign2=d2l6MjE=&token=c2VydmVyX3RpbWU9MTUwOTA1NzI2MSZoYXNoX3ZhbHVlPWVja2k1TTFCdm92L3Q5Nml1TWdUWlE9PSZ2YWxpZG1pbnV0ZXM9MTAw
-
-#EXTINF:0,Fuenlabrada - Real Madrid
-http://82.118.242.2/cavscampeon/251640.m3u8?wmsAuthSign2=d2l6OQ==&token=c2VydmVyX3RpbWU9MTUwODkyMTI1NSZoYXNoX3ZhbHVlPW44dGE1dEVLYjBSRElHWHVJYmpRRGc9PSZ2YWxpZG1pbnV0ZXM9MTAw
-
-#EXTINF:0,Fuenlabrada - Real Madrid (opción 2)
-http://82.118.242.21/cavscampeon/252139.m3u8?wmsAuthSign2=d2l6MjE=&token=c2VydmVyX3RpbWU9MTUwODkyMTM5NSZoYXNoX3ZhbHVlPXNybkdsejF5NGVkYmZ2MXlickpRVHc9PSZ2YWxpZG1pbnV0ZXM9MTAw
