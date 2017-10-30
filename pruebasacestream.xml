@@ -66,7 +66,7 @@
 <fanart>https://img.vavel.com/lpfp_02_751542585.png</fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}PORTUGAL A LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}PORTUGAL A LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
 
 <page>http://arenavision.top/iguide</page>
 <Agent>Mozilla</Agent>
@@ -352,8 +352,7 @@
 <fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
 
 </item>	
-]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
+]]></listrepeat><expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
 <page>http://arenavision2017.cf/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.cf/iguide</referer>
