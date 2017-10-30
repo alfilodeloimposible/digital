@@ -52,8 +52,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -68,9 +68,9 @@
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
 
-<page>http://arenavision.top/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision.top/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex><thumbnail>https://img.vavel.com/lpfp_02_751542585.png</thumbnail>
 	<fanart>https://img.vavel.com/lpfp_02_751542585.png</fanart>
@@ -135,8 +135,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -150,9 +150,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}WORLD TOUR[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>http://arenavision.top/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision.top/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex><thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/ATP-FINALS-RGB-POS.jpg</thumbnail>
 	<fanart>https://upload.wikimedia.org/wikipedia/en/4/4b/ATP-FINALS-RGB-POS.jpg</fanart>
@@ -174,8 +174,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -210,8 +210,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -249,8 +249,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -375,8 +375,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -412,8 +412,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -449,8 +449,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/$doregex[canal]</page>
-			<referer>http://arenavision.top/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
