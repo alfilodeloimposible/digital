@@ -95,8 +95,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.cf/$doregex[canal]</page>
-			<referer>http://arenavision2017.cf/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -111,9 +111,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}PREMIER LEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.cf/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.cf/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://miguelangelsanz.blogia.com/upload/20140225224837-premier-league.jpg</thumbnail>
@@ -264,9 +264,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}EUROLEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</thumbnail>
@@ -287,8 +287,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.cf/$doregex[canal]</page>
-			<referer>http://arenavision2017.cf/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -303,9 +303,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH ACB[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.cf/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.cf/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://miguelangelsanz.blogia.com/upload/20140225224837-premier-league.jpg</thumbnail>
@@ -338,8 +338,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.cf/$doregex[canal]</page>
-			<referer>http://arenavision2017.cf/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -353,9 +353,9 @@
 
 </item>	
 ]]></listrepeat><expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}USA NBA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.cf/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.cf/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://miguelangelsanz.blogia.com/upload/20140225224837-premier-league.jpg</thumbnail>
@@ -390,9 +390,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}BUNDESLIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 
@@ -427,9 +427,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}DFB POKAL[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 
@@ -464,9 +464,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}FRANCE LIGUE 1[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 
@@ -486,8 +486,8 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.cf/$doregex[canal]</page>
-			<referer>http://arenavision2017.cf/</referer>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -502,9 +502,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}UEFA EUROPA LEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.cf/iguide</page>
+<page>http://arenavision2017.ml/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.cf/iguide</referer>
+<referer>http://arenavision2017.ml/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 
