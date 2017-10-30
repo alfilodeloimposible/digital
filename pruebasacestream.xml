@@ -506,8 +506,9 @@
 <fanart>https://www.footballticketnet.com/files/images/tournaments/Buy-French-Leigue-1-Football-Tickets-Football-ticket-net.jpg</fanart>
 </item>
 
-<Item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell] UEFA CHAMPIONS LEAGUE[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR seashell] UEFA
+CHAMPIONS LEAGUE[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -527,16 +528,18 @@
 			<page></page>
 			</regex>
 			
-			<thumbnail>http://basketcastilla.es/wp-content/uploads/2015/10/acb-950x480.jpg</thumbnail>
-<fanart>http://basketcastilla.es/wp-content/uploads/2015/10/acb-950x480.jpg</fanart>
+			<thumbnail>https://img.vavel.com/lpfp_02_751542585.png</thumbnail>
+<fanart>https://img.vavel.com/lpfp_02_751542585.png</fanart>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}UEFA CHAMPIONS LEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+
+<page>http://arenavision.top/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision.top/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
+
 
 <thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
 <fanart>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</fanart>
