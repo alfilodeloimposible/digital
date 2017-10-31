@@ -140,7 +140,7 @@
 
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
 <page>http://arenavision2017.cf/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.cf/iguide</referer>
@@ -493,7 +493,7 @@
 <fanart>https://www.footballticketnet.com/files/images/tournaments/Buy-French-Leigue-1-Football-Tickets-Football-ticket-net.jpg</fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}FRANCE LIGUE 1[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
 <page>http://arenavision2017.cf/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.cf/iguide</referer>
