@@ -306,14 +306,13 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]SPANISH ACB[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B]SPANISH ACB [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[B][COLOR skyblue]Adryanlist[/COLOR][/B]+[makelist.param4]</link>
+<item><title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=digital+[makelist.param4]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -327,12 +326,11 @@
 			<page></page>
 			</regex>
 			
-			<thumbnail>http://adryantv.org/adryan/img/laliga.png</thumbnail>
-<fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
-
+			<thumbnail>http://basketcastilla.es/wp-content/uploads/2015/10/acb-950x480.jpg</thumbnail>
+<fanart>http://basketcastilla.es/wp-content/uploads/2015/10/acb-950x480.jpg</fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH ACB[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CET[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH ACB[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
 <page>http://arenavision2017.cf/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.cf/iguide</referer>
