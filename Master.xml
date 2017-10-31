@@ -18,13 +18,18 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title> [COLOR gold]************UEFA CHAMPIONS LEAGUE 31/10/2017*******************[/COLOR] </title>	
+<title> [COLOR gold]************UEFA CHAMPIONS LEAGUE 01/11/2017*******************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]Tottenham - Real Madrid[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
+</item>
+<!--
 <item><title>[COLOR goldenrod][B]Manchester United v Benfica[/B][/COLOR]</title> <sportsdevil>http://sstream.net/bt3.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
 
 <item><title>[COLOR goldenrod][B]Roma v Chelsea[/B][/COLOR]</title> <sportsdevil>http://sstream.net/bt2.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
@@ -49,7 +54,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
-
+-->
 <!-- Simplemente insertar la url del Acestream en url-->
 
 <!-- Los canales están extraidos de arenavision.in -->
@@ -153,11 +158,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/miliga.xml</externallink>
 </tem>
-<tem>
-<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]Girona FC - Real Madrid  16:15[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
-</item>
+
 			
 			
 			

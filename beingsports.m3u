@@ -1,5 +1,16 @@
 #EXTM3U
 
-#EXTINF:0,Girona FC - Real Madrid
-http://185.169.196.234/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTI3MjM4NyZoYXNoX3ZhbHVlPVIrTFVQQmtqaFZFbXVhUVh0Q0VzYXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,Tottenham - Real Madrid
+http://82.118.242.22/cavscampeon/251664.m3u8?wmsAuthSign2=d2l6MTg=&token=c2VydmVyX3RpbWU9MTUwOTQ4NzY4NCZoYXNoX3ZhbHVlPVYvSm1Cbkw2d1pwYTJxLzNUdXQ1Qnc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
+#EXTINF:0,Tottenham - Real Madrid
+http://82.118.242.5/cavscampeon/251640.m3u8?wmsAuthSign2=d2l6OQ==&token=c2VydmVyX3RpbWU9MTUwOTQ4ODM0OCZoYXNoX3ZhbHVlPWZRWVlBZDVRSXRzd2RQYm9WVklrYWc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+
+#EXTINF:0,Tottenham - Real Madrid
+http://82.118.242.19/cavscampeon/251831.m3u8?wmsAuthSign2=d2l6NA==&token=c2VydmVyX3RpbWU9MTUwOTQ4ODQyMiZoYXNoX3ZhbHVlPWRGeDZsdXArYkVwRGw1eHVzSWozdUE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+
+#EXTINF:0,FC Porto - RasenBallsport Leipzig
+http://82.118.242.5/cavscampeon/251979.m3u8?wmsAuthSign2=d2l6MTY=&token=c2VydmVyX3RpbWU9MTUwOTQ4ODQ5NiZoYXNoX3ZhbHVlPUlWRWdkY3lNVFBIN0o0QkdTaERieFE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+
+#EXTINF:0,Liverpool FC - Maribor
+http://82.118.242.19/cavscampeon/251578.m3u8?wmsAuthSign2=d2l6Mzc=&token=c2VydmVyX3RpbWU9MTUwOTQ4ODYxOCZoYXNoX3ZhbHVlPU5ZdTVHZHVoSWNVUWdEZFh0NzhneXc9PSZ2YWxpZG1pbnV0ZXM9MTAw
