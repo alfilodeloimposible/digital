@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]29[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]31[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -16,6 +16,38 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink></externallink>
 </item>
 
+<item>
+<title> [COLOR gold]************UEFA CHAMPIONS LEAGUE 31/10/2017*******************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+
+<item><title>[COLOR goldenrod][B]Manchester United v Benfica[/B][/COLOR]</title> <sportsdevil>http://sstream.net/bt3.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B]Roma v Chelsea[/B][/COLOR]</title> <sportsdevil>http://sstream.net/bt2.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B]Celtic v Bayern Munich[/B][/COLOR]</title> <sportsdevil>http://sstream.net/btespn.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B]Olympiakos v Barcelona[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix3.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B]Olympiakos v Barcelona[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sptv2.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B]Sporting CP v Juventus[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix4.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B]Paris Saint Germain v Anderlecht[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix5.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B]Atletico Madrid v FK Qarabag[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix6.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item><title>[COLOR goldenrod][B] FC Basel v CSKA Moscow[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix7.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
 
 <!-- Simplemente insertar la url del Acestream en url-->
 
@@ -120,7 +152,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/miliga.xml</externallink>
 </tem>
-<item>
+<tem>
 <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]Girona FC - Real Madrid  16:15[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
