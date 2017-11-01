@@ -7,7 +7,10 @@ http://82.118.242.2/cavscampeon/251664.m3u8?wmsAuthSign2=d2l6MTg=&token=c2VydmVy
 http://82.118.242.22/cavscampeon/251831.m3u8?wmsAuthSign2=d2l6NA==&token=c2VydmVyX3RpbWU9MTUwOTU1NDg3NiZoYXNoX3ZhbHVlPW9BVUVvSFROaGNvYzRRUklBVjNJZGc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 #EXTINF:0,Tottenham - Real Madrid
-http://82.118.242.19/cavscampeon/251831.m3u8?wmsAuthSign2=d2l6NA==&token=c2VydmVyX3RpbWU9MTUwOTQ4ODQyMiZoYXNoX3ZhbHVlPWRGeDZsdXArYkVwRGw1eHVzSWozdUE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+http://edge.hdca.st/live/beines/chunks.m3u8?nimblesessionid=6893741&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDU6MDc6NDIgUE0maGFzaF92YWx1ZT1XYzhaK1NNMHF5bmEzQ01ySGhIZ3lRPT0mdmFsaWRtaW51dGVzPTE=
+
+#EXTINF:0,Tottenham - Real Madrid
+http://edge.hdca.st/live/beines/chunks.m3u8?nimblesessionid=6893741&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDU6MDc6NDIgUE0maGFzaF92YWx1ZT1XYzhaK1NNMHF5bmEzQ01ySGhIZ3lRPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:0,FC Porto - RasenBallsport Leipzig
 http://82.118.242.5/cavscampeon/251979.m3u8?wmsAuthSign2=d2l6MTY=&token=c2VydmVyX3RpbWU9MTUwOTQ4ODQ5NiZoYXNoX3ZhbHVlPUlWRWdkY3lNVFBIN0o0QkdTaERieFE9PSZ2YWxpZG1pbnV0ZXM9MTAw
