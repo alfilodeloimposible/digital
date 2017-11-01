@@ -6,37 +6,51 @@
 
 <item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B][I] Varda-REAL SOCIEDAD [/I][/B][/COLOR][COLOR red]1[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://7d4184bfff3a3d1ce96c7ad9aad8c07bc4477445&amp;name=1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://f3c6e92fb43da8bfd1249a0ababebafbbbed9dc0&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<iem>
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=olive][B][I] SIMULCAST EUROPALIGUE[/I][/B][/COLOR][COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://0ae84bbee86ef2f775100c24e447c639849b0b8f&amp;name=1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://b03584b816161d28558514ea7cd76fa1a310733e&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<tem>
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=blue][B][I] VILLARREAL-Slavia PRAHA[/I][/B][/COLOR][COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://bc8b5a41e5644e4fd862329016bff19b528dc3fd&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 
-<tem>
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=pink][B][I] Östersund-ATHLETIC CLUB [/I][/B][/COLOR][COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://0b8b0ac138cbc2bcc17527e8823f27c16665f6a9&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 
-<iem>
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=orchid][B][I] Sport tv 1[/I][/B][/COLOR][COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://18864d13625420251988bcae3115b5275135d5ce&amp;name=1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://684c5ff6704bec4f60f10646572b18827a1e3c6b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B][I] Varda-REAL SOCIEDAD [/I][/B][/COLOR][COLOR red]1[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://9d462c88c7d1e929c5e5b642a45da8b18d733910&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B][I] Varda-REAL SOCIEDAD [/I][/B][/COLOR][COLOR red]1[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
