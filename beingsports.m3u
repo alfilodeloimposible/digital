@@ -12,6 +12,9 @@ http://edge.hdca.st/live/beines/chunks.m3u8?nimblesessionid=6893741&wmsAuthSign=
 #EXTINF:0,Tottenham - Real Madrid
 http://edge.hdca.st/live/beines/chunks.m3u8?nimblesessionid=6893741&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDU6MDc6NDIgUE0maGFzaF92YWx1ZT1XYzhaK1NNMHF5bmEzQ01ySGhIZ3lRPT0mdmFsaWRtaW51dGVzPTE=
 
+#EXTINF:0,Tottenham - Real Madrid
+http://31.220.0.196:8081/live/spstreambt2/l_4_332256080_11068.ts?nimblesessionid=149434&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDM6NDM6MTkgUE0maGFzaF92YWx1ZT1oVzA3YVlUK2djOUtnTjRGNVgvMlZnPT0mdmFsaWRtaW51dGVzPTEyMA==
+
 #EXTINF:0,FC Porto - RasenBallsport Leipzig
 http://82.118.242.5/cavscampeon/251979.m3u8?wmsAuthSign2=d2l6MTY=&token=c2VydmVyX3RpbWU9MTUwOTQ4ODQ5NiZoYXNoX3ZhbHVlPUlWRWdkY3lNVFBIN0o0QkdTaERieFE9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
