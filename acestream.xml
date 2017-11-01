@@ -35,7 +35,7 @@
 
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=orchid][B][I] CANAL [I][/B][/COLOR][COLOR red]5[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=orchid][B][I] CANAL [/I][/B][/COLOR][COLOR red]5[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://684c5ff6704bec4f60f10646572b18827a1e3c6b&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
