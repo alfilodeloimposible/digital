@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:0,Tottenham - Real Madrid
+http://82.118.242.22/cavscampeon/252091.m3u8?wmsAuthSign2=YnRzcG9ydHMy&token=c2VydmVyX3RpbWU9MTUwOTU1ODk3NiZoYXNoX3ZhbHVlPWNQVjBzZW13MGREOTd6UlF3bnh1alE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+
+#EXTINF:0,Tottenham - Real Madrid
 http://82.118.242.2/cavscampeon/251664.m3u8?wmsAuthSign2=d2l6MTg=&token=c2VydmVyX3RpbWU9MTUwOTU1MzgxMyZoYXNoX3ZhbHVlPUpUZUlDLzFPbVdFY3owWEJqcXUrY3c9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 #EXTINF:0,Tottenham - Real Madrid
@@ -13,7 +16,10 @@ http://edge.hdca.st/live/beines/chunks.m3u8?nimblesessionid=6893741&wmsAuthSign=
 http://edge.hdca.st/live/beines/chunks.m3u8?nimblesessionid=6893741&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDU6MDc6NDIgUE0maGFzaF92YWx1ZT1XYzhaK1NNMHF5bmEzQ01ySGhIZ3lRPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:0,Tottenham - Real Madrid
-http://31.220.0.196:8081/live/spstreambt2/l_4_332256080_11068.ts?nimblesessionid=149434&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDM6NDM6MTkgUE0maGFzaF92YWx1ZT1oVzA3YVlUK2djOUtnTjRGNVgvMlZnPT0mdmFsaWRtaW51dGVzPTEyMA==
+http://82.118.242.22/cavscampeon/252184.m3u8?wmsAuthSign2=d2l6MTA=&token=c2VydmVyX3RpbWU9MTUwOTU1ODY0MCZoYXNoX3ZhbHVlPUlSR0xoK3BpZkxicUV0d1dRbSt4clE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+
+#EXTINF:0,Tottenham - Real Madrid
+http://82.118.242.6/cavscampeon/251831.m3u8?wmsAuthSign2=d2l6NA==&token=c2VydmVyX3RpbWU9MTUwOTU1ODc5NyZoYXNoX3ZhbHVlPXFWK3Q4Ym1uUDBDOGNKNHFLRTRTVFE9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 #EXTINF:0,FC Porto - RasenBallsport Leipzig
 http://82.118.242.5/cavscampeon/251979.m3u8?wmsAuthSign2=d2l6MTY=&token=c2VydmVyX3RpbWU9MTUwOTQ4ODQ5NiZoYXNoX3ZhbHVlPUlWRWdkY3lNVFBIN0o0QkdTaERieFE9PSZ2YWxpZG1pbnV0ZXM9MTAw
