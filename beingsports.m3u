@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,Tottenham - Real Madrid
-http://82.118.242.22/cavscampeon/252091.m3u8?wmsAuthSign2=YnRzcG9ydHMy&token=c2VydmVyX3RpbWU9MTUwOTU1ODk3NiZoYXNoX3ZhbHVlPWNQVjBzZW13MGREOTd6UlF3bnh1alE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,Barcelona - FC Sevilla
+http://82.118.242.40/cavscampeon/242053.m3u8?wmsAuthSign2=d2l6Mzg=&token=c2VydmVyX3RpbWU9MTUwOTcyNDEzMCZoYXNoX3ZhbHVlPXZ5RVJXblhlR1A5THNnMWZ4cUx3S2c9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 #EXTINF:0,Tottenham - Real Madrid
 http://82.118.242.2/cavscampeon/251664.m3u8?wmsAuthSign2=d2l6MTg=&token=c2VydmVyX3RpbWU9MTUwOTU1MzgxMyZoYXNoX3ZhbHVlPUpUZUlDLzFPbVdFY3owWEJqcXUrY3c9PSZ2YWxpZG1pbnV0ZXM9MTAw
