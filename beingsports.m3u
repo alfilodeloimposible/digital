@@ -1,20 +1,8 @@
 #EXTM3U
 
-#EXTINF:0,Barcelona - FC Sevilla
-http://82.118.242.20/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTc0NDQxOSZoYXNoX3ZhbHVlPUl6aTR2RzF4VVozbVp2QUhHMmsxaEE9PSZ2YWxpZG1pbnV0ZXM9MTAw
-
-#EXTINF:0,Deportivo La Coruna vs Atletico Madrid
-http://82.118.242.40/cavscampeon/242053.m3u8?wmsAuthSign2=d2l6Mzg=&token=c2VydmVyX3RpbWU9MTUwOTc0Mzk1MyZoYXNoX3ZhbHVlPU1KejdLeW9kZkpBUnR3N0JCQWdERlE9PSZ2YWxpZG1pbnV0ZXM9MTAw
-
-#EXTINF:0,Deportivo Alaves vs Espanyol
-http://82.118.242.5/cavscampeon/252184.m3u8?wmsAuthSign2=d2l6MTA=&token=c2VydmVyX3RpbWU9MTUwOTc0NDM1MCZoYXNoX3ZhbHVlPW9pUGdUQ2ZQQW43ZDNSQkRBK0xhUEE9PSZ2YWxpZG1pbnV0ZXM9MTAw
-
-#EXTINF:0,Celta de Vigo vs Athletic Club
-http://91.212.150.27/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTc0NDUzMiZoYXNoX3ZhbHVlPTYvYnJyV09ZZXhtYWFKaHl1RGN0S3c9PSZ2YWxpZG1pbnV0ZXM9MTAw
-
 #EXTINF:0,Real Sociedad vs Eibar
-http://82.118.242.41/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTc0NDYyOSZoYXNoX3ZhbHVlPVRMTWdVMGpaU0N2MWZLZWZLUEtERHc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+http://content.tambienloscheto.win/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTkwNTM5MiZoYXNoX3ZhbHVlPU40bjcyeTA0V3ZGQnR3NUVBbm1NbkE9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
-#EXTINF:0,Real Madrid vs Las Palmas
-http://82.118.242.23/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTc0NDg2MiZoYXNoX3ZhbHVlPURmajNEL3czVG4zT1pkeDVyTkdCVGc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:0,Real Sociedad vs Eibar (Opción 2)
+http://82.118.242.41/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTc0NDYyOSZoYXNoX3ZhbHVlPVRMTWdVMGpaU0N2MWZLZWZLUEtERHc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 

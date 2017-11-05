@@ -35,7 +35,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 -->
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR red]PARTIDOS DE LIGA 04/11/2017[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR red]MARCE PINCHA AQUI(HAY 2 OPCIONES)/11/2017[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
 </item>
@@ -155,7 +155,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title> [COLOR mediumorchid]EN ESTOS CANALES TAMBIEN LIGA ESPAÑOLA[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
@@ -163,7 +163,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]liga ++[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/miliga.xml</externallink>
