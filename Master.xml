@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]01[/B] de Noviembre de 2017 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]05[/B] de Noviembre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -17,6 +17,18 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] BEING SPORTS [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.dinostream.pw/embed.php?c=105711&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/logos/odisea.png</thumbnail>  
+<fanart>http://amcnetworks.es/wp-content/uploads/2011/02/logo-odisea-fondo-blanco.jpg</fanart>
+ </item>
 
 
 <!--
