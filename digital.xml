@@ -538,11 +538,11 @@
  
  <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=hollywesp&width=650&height=397</page>
+<page>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png</thumbnail>  
