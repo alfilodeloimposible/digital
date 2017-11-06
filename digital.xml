@@ -613,8 +613,8 @@
 <page>http://livesports.pw/embedn.php?file=disneychannel&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>  
-<fanart></fanart>
+<thumbnail >http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg></thumbnail>  
+<fanart>http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg</fanart>
  </item>
 
 <item>
@@ -629,6 +629,20 @@
 </regex>
 <thumbnail>http://is3.mzstatic.com/image/thumb/Purple6/v4/fc/c3/bd/fcc3bd04-3e38-c1d6-5de2-14cc3c15918e/source/960x540bb.png</thumbnail> 
 <fanart>https://adrinalina31.files.wordpress.com/2017/03/canal-cocina.jpg</fanart>  </item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] HBO[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://embed.latino-webtv.com/channels/hbo.html</page>
+<referer>http://lacalleochotv.org/hbo-latino-en-directo-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://sharktankblog.com/wp-content/uploads/2013/03/hbo_blue_logo.jpg</thumbnail> 
+<fanart>http://sharktankblog.com/wp-content/uploads/2013/03/hbo_blue_logo.jpg</fanart>  </item>
  
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Animal Planet [/UPPERCASE][/COLOR] </title>
