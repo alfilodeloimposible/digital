@@ -519,7 +519,7 @@
  
  
  <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]  [/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] AMC (Opción 2) [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -527,7 +527,8 @@
 <page>http://livesports.pw/embed2.php?file=amcesptele&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-
+<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>  
+<fanart>http://series-tv-news.fr/wp-content/uploads/2017/02/amc-pilotes-saison-2017-2018.jpg</fanart>
  </item>
 
  
@@ -591,7 +592,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=boing&width=650&height=400</page>
+<page>http://livesports.pw/embed2.php?file=boing&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/boing_circular_500_nuevo.png</thumbnail>  

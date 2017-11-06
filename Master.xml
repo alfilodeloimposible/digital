@@ -17,7 +17,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] BEING SPORTS [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
@@ -46,7 +46,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
 -->
-<item>
+<iem>
 <title>[COLOR gold]*[/COLOR][COLOR red]MARCE PINCHA AQUI(HAY 4 OPCIONES)/11/2017[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
