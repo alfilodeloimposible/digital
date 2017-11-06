@@ -773,7 +773,7 @@
 <thumbnail>http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png</thumbnail>   
 <fanart>http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg</fanart>  </item>
 
-  <item>
+ <!-- <item>
 <title>[UPPERCASE][COLOR skyblue]Being Sports [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
@@ -783,9 +783,14 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png</thumbnail>
-<fanart>https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg</fanart>   </item>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg</fanart>   </item>-->
 
- 
+ <item>
+       <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Being Sports[/UPPERCASE][/COLOR] </title>
+        <sportsdevil>ttp://www.dinostream.pw/embed.php?c=105816&width=650&height=400&autostart=true</sportsdevil>
+        <referer>http://lacalleochotv.org/http://lacalleochotv.org/bein-sports-la-liga-en-directo/-en-directo/</referer>
+thumbnail>https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg</fanart>   </item>
 
 
  <item>
@@ -803,7 +808,7 @@
 
  <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#LaLigaTV[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
