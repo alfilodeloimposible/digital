@@ -125,6 +125,20 @@
 <fanart>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</fanart>
 <thumbnail>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</thumbnail>   </item>
 
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] CRIMEN E INVESTIGACION[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=crimenyinvestigacion&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg</thumbnail>  
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg</fanart>
+ </item>
+
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] A"&"E [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
@@ -536,7 +550,7 @@
  </item>
 
  
- <item>
+<item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
 <regex>
@@ -613,7 +627,7 @@
 <page>http://livesports.pw/embedn.php?file=disneychannel&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail >http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg></thumbnail>  
+<thumbnail >http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg</thumbnail>  
 <fanart>http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg</fanart>
  </item>
 
