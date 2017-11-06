@@ -152,7 +152,18 @@
 <thumbnail>http://logonoid.com/images/a-and-e-logo.png</thumbnail>
    </item>
 
-
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]BOOMERANG[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://embed.latino-webtv.com/channels/boomerang.html</page>
+<referer>http://lacalleochotv.org/boomerang-online-en-directo-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Logo-boomerang.jpg</thumbnail>   
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Logo-boomerang.jpg</fanart>  </item>
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]FDF[/UPPERCASE][/COLOR] </title>
