@@ -135,7 +135,11 @@
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://logonoid.com/images/a-and-e-logo.png</fanart>
-<thumbnail>http://logonoid.com/images/a-and-e-logo.png</thumbnail>   </item>
+<thumbnail>http://logonoid.com/images/a-and-e-logo.png</thumbnail>
+   </item>
+
+
+
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]FDF[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -719,15 +723,14 @@
 <thumbnail>http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png</thumbnail>   
 <fanart>http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg</fanart>  </item>
 
-   <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Being Sports[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
+  <item>
+<title>[UPPERCASE][COLOR skyblue]Being Sports [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
-<name>get-id</name>
+<name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinsport.php</page>
-<referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
-<agent>iPad</agent>
+<page>http://www.dinostream.pw/embed.php?c=105711&width=650&height=400</page>
+<cookieJar></cookieJar>
 </regex>
 <thumbnail>https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png</thumbnail>
 <fanart>https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg</fanart>   </item>
