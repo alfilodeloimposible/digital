@@ -44,9 +44,10 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
--->
 
-<item><title>[UPPERCASE][COLOR skyblue] A[/UPPERCASE][/COLOR] </title>
+
+<item>
+<title>[UPPERCASE][COLOR skyblue] A[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -55,8 +56,9 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <referer>http://www.rapifutbol.tv/canal/2058/canal-hollywood/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>/wp-content/uploads/2016/09/beinsportsp.jpg</thumbnail>   </item>
-
+<thumbnail>/wp-content/uploads/2016/09/beinsportsp.jpg</thumbnail>  
+ </item>
+-->
 
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR red]M/11/2017[/COLOR] </title>
@@ -187,7 +189,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]liga ++[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/miliga.xml</externallink>
