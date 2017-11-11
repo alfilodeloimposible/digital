@@ -17,18 +17,17 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<tem>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] BEING SPORTS [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.dinostream.pw/embed.php?c=105711&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vercanalestv.com/logos/odisea.png</thumbnail>  
-<fanart>http://amcnetworks.es/wp-content/uploads/2011/02/logo-odisea-fondo-blanco.jpg</fanart>
- </item>
+<item>
+<title>Being Sports Arabia 11 Arab</title>
+<sportsdevil>http://aflam4you.tv/abudhabi_sport_3-hd_32.html</sportsdevil>
+<referer>http://www.247bay.tv</referer>
+</item>
+
+<item>
+<title>Being Sports Arabia 12 Arab</title>
+<sportsdevil>http://aflam4you.tv/abudhabi_sport_3-hd_32.html</sportsdevil>
+<referer>http://www.mipsplayer.com</referer>
+</item>
 
 
 <!--
