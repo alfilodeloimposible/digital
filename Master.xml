@@ -19,9 +19,9 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 
-<!--
 
-<item>
+
+<tem>
 <title> [COLOR gold]************UEFA CHAMPIONS LEAGUE 01/11/2017*******************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
@@ -29,11 +29,11 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR goldenrod]Enlaces HD Real Madrid champions[/COLOR][COLOR gold] [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR goldenrod]Enlaces Acestreams[/COLOR][COLOR gold] [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
-
+<!--
 
 <item>
 <title>[UPPERCASE][COLOR skyblue] A[/UPPERCASE][/COLOR] </title>
@@ -55,32 +55,50 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
 </item>
 
-<item><title>[COLOR goldenrod][B]Girona F.C. v Real Sociedad (1)[/B][/COLOR]</title> <sportsdevil>http://www.sports-stream.net/livetv/ch13.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail><fanart></fanart> </item>
+<item>
+<title>[COLOR goldenrod][B]Málaga v Depor[/B][/COLOR]</title>
+<sportsdevil>http://www.sports-stream.net/ch11.html</sportsdevil>
+<referer></referer>
+<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
+<fanart></fanart>
+ </item>
+ 
+ <item>
+<title>[COLOR goldenrod][B]Málaga v Depor[/B][/COLOR]</title>
+<sportsdevil>http://www.sports-stream.net/ch11.html</sportsdevil>
+<referer></referer>
+<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
+<fanart></fanart>
+ </item>
 
-<item><title>[COLOR goldenrod][B]Girona F.C. v Real Sociedad (2)[/B][/COLOR]</title> <sportsdevil>http://www.sports-stream.net/livetv/ch19.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail><fanart></fanart> </item>
+ <item>
+<title>[COLOR goldenrod][B]Espanyol v Valencia (1)[/B][/COLOR]</title>
+<sportsdevil>http://www.sports-stream.net/ch6.html</sportsdevil>
+<referer></referer>
+<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
+<fanart></fanart>
+ </item>
+ 
+  <item>
+<title>[COLOR goldenrod][B]Espanyol v Valencia (2)[/B][/COLOR]</title>
+<sportsdevil>http://www.sports-stream.net/ch13.html</sportsdevil>
+<referer></referer>
+<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
+<fanart></fanart>
+ </item>
 
-
-<item><title>[COLOR goldenrod][B]Getafe v Deportivo Alaves[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky5.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Atletico Madrid v Real Madrid(1)[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky1.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Atletico Madrid v Real Madrid(2)[/B][/COLOR]</title> <sportsdevil>http://www.tv-sport-hd.com/channel/tvs.php?ch=dolce1</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Atletico Madrid v Real Madrid(3)[/B][/COLOR]</title> <sportsdevil>http://www.sports-stream.net/livetv/ch17.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Atletico Madrid v Real Madrid(4)[/B][/COLOR]</title> <sportsdevil>http://www.tv-sport-hd.com/channel/ch1.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Espanyol v Valencia[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky5.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
+<item>
+<title>[COLOR goldenrod][B]Espanyol v Valencia (3)[/B][/COLOR]</title>
+<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
+<referer></referer>
+<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
+</item>
 
 <item><title>[COLOR goldenrod][B]Las Palmas v Levante[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky5.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
 
 <item><title>[COLOR goldenrod][B]Athletic Bilbao v Villarreal[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky5.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
 
-<item><title>[COLOR goldenrod][B]Leganés v Barcelona (1)[/B][/COLOR]</title> <sportsdevil>http://www.tv-sport-hd.com/channel/tvs.php?ch=dolce3</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
 
-<item><title>[COLOR goldenrod][B]Leganés v Barcelona(2)[/B][/COLOR]</title> <sportsdevil>http://www.sports-stream.net/livetv/ch19.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Leganés v Barcelona(3)[/B][/COLOR]</title> <sportsdevil>http://tvron.net/telekom-sport-3#s8</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
 
 <!--
 <item><title>[COLOR goldenrod][B]Sporting CP v Juventus[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix4.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
