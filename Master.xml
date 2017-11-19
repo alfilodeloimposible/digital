@@ -56,6 +56,13 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]SAMPDORIA-[/B][/COLOR][COLOR red]JUVENTUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
 <title>[COLOR goldenrod][B]Málaga v Depor[/B][/COLOR]</title>
 <sportsdevil>http://www.sports-stream.net/ch11.html</sportsdevil>
 <referer></referer>
