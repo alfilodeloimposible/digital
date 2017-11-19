@@ -70,6 +70,13 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]SAN PABLO BURGOS-[/B][/COLOR][COLOR red]BASKONIA VITORIA[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://141e3d57f0e2524f913c4cd74857b092cdb3093f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]FC BARCELONA LASSA-[/B][/COLOR][COLOR red]VALENCIA BASKET[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://b32d0c731081e0f6a36f4078851f3ad8cfdfefba&amp;name=1</link>
 <thumbnail></thumbnail>
