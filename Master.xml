@@ -62,20 +62,20 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]SPARTAK MOSKVA-[/B][/COLOR][COLOR red]NK MARIBOR (AV 1)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ATLETICO MADRID-[/B][/COLOR][COLOR red]ROMA[(AV 1)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]BESIKTAS-[/B][/COLOR][COLOR red]FC PORTO(AV 13)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]JUVENTUS-[/B][/COLOR][COLOR red]FC BARCELONA(AV 13)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]SAN PABLO SEVILLA FC-[/B][/COLOR][COLOR red]LIVERPOOL (AV 13)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -83,13 +83,13 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]NAPOLI-[/B][/COLOR][COLOR red]SHAKHTAR DONETSK (AV 10)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ANDERLECHT-[/B][/COLOR][COLOR red]FC BAYERN(AV 10)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://42ad40f00133cfa5dce4b38894da69b016396ed0&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MANCHESTER CITY-[/B][/COLOR][COLOR red]FEYENOORD (AV 5)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -97,7 +97,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]BORUSSIA DORTMUND-[/B][/COLOR][COLOR red]TOTTENHAM (AV 3)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://0ae84bbee86ef2f775100c24e447c639849b0b8f&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -106,27 +106,27 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]AS MONACO-RB [/B][/COLOR][COLOR red]LEIPZIG (AV 7)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]PARIS SAINT GERMAIN-[/B][/COLOR][COLOR red]CELTIC FC(AV 7)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1f04b825ca666baf58c5979c9a147aef325e2bb6&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]APOEL FC-[/B][/COLOR][COLOR red]REAL MADRID (AV 20)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://545fd508d12d42509f06ee4b37fc6e348e1b2b24&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]APOEL FC-[/B][/COLOR][COLOR red]REAL MADRID (AV 17)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://5b3eeb9fbaf79acc1522e00c45d9527a338fbac6&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]APOEL FC-[/B][/COLOR][COLOR red]REAL MADRID (AV 27)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
 <thumbnail></thumbnail>
