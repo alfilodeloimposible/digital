@@ -20,10 +20,13 @@
  
  
 <items>
- 
+ <item>
+<title>Youtube</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KpyaXr6oYOo</link>
+</item>
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR] Unity</title>
-<link>https://www.youtube.com/watch?v=KpyaXr6oYOo</link>
+<link>plugin://plugin.video.youtube/play/?video_id=KpyaXr6oYOo</link>
 <thumbnail>url</thumbnail>
 <fanart>url</fanart>
 <info></info>
