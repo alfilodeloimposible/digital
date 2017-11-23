@@ -221,7 +221,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title> [COLOR gold]*[COLOR seagreen]ENLACES LIGA/COPA DEL REY/CHAMPIONS[/COLOR]*[/COLOR] </title>	
+<title> [COLOR gold]*[COLOR seagreen]ENLACES LIGA/COPA DEL REY/CHAMPIONS/UEFA EUROPA LEAGUE[/COLOR]*[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
