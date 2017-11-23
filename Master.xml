@@ -62,8 +62,22 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ROSENBORG-[/B][/COLOR][COLOR red]REAL SOCIEDAD[(AV 1)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ROSENBORG-[/B][/COLOR][COLOR red]REAL SOCIEDAD[/COLOR]</title> <sportsdevil>http://www.sports-stream.net/livetv/ch2.html</sportsdevil> 
+<referer></referer>
+<thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ROSENBORG-[/B][/COLOR][COLOR red]REAL SOCIEDAD(AV 1)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ROSENBORG-[/B][/COLOR][COLOR red]REAL SOCIEDAD(AV 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
