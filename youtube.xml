@@ -20,25 +20,20 @@
  
  
 <items>
- <item>
-<title>Youtube</title>
-<link>plugin://plugin.video.youtube/play/?video_id=KpyaXr6oYOo</link>
-</item>
+ 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR] Unity</title>
+<title>[COLOR white][COLOR blue]• [/COLOR] Unity (Dorian Desings)>capitulo 1></title>
 <link>plugin://plugin.video.youtube/play/?video_id=KpyaXr6oYOo</link>
 <thumbnail>url</thumbnail>
 <fanart>url</fanart>
 <info></info>
 </item>
-</items>
- 
- 
+</items> 
  
  
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR] titulo</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ijsDQBBcRVc</link>
+<title>[COLOR white][COLOR blue]• [/COLOR] Unity (Escueladevideojuegos)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sT5sBkkmuaQ&t=236s</link>
 <thumbnail>url</thumbnail>
 <fanart>url</fanart>
 <info></info>
