@@ -49,6 +49,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
  </item>
 -->
 <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]CANAL [/B][/COLOR][COLOR red]2(Prueba)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://900bdf947c3cb30b3c04c8b021dcc04ff7e139f5&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
 <title>[COLOR gold]*[/COLOR][COLOR red]UEFA EUROPA LEAGUE  23/11/2017[/COLOR] </title>
 <link>http://ignorame</link>
 <fanart></fanart>
