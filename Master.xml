@@ -448,12 +448,12 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR green]Movistar + (opción 1)[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR green]  [B]Movistar + [/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
 </item>
 
-<item>
+<tem>
 <title>[COLOR gold]*[/COLOR][COLOR goldenrod]Movistar + (opción 2)[/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
@@ -462,7 +462,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR gold]*[/COLOR][COLOR blue]Movistar + (opción 3)[/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
@@ -472,7 +472,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 
-<item>
+<tem>
 <title>[COLOR gold]*[/COLOR][COLOR lime][B]Youtube[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://www.ohmygeek.net/wp-content/uploads/2013/09/youtube.jpg</thumbnail><fanart>http://www.ohmygeek.net/wp-content/uploads/2013/09/youtube.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/youtube.xml</externallink>
