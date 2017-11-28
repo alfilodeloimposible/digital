@@ -92,6 +92,27 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MALAGA-[/B][/COLOR][COLOR red] NUMANCIA[(AV 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MALAGA-[/B][/COLOR][COLOR red] NUMANCIA[(AV 27)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MALAGA-[/B][/COLOR][COLOR red] NUMANCIA[(AV 28)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]LEGANES-[/B][/COLOR][COLOR red]REAL VALLADOLID(AV 10)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://ea0c895ed18ea587bb4e55323e670f43fd131d6b&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -134,8 +155,29 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR red]FUENLABRADA(AV 19)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://545fd508d12d42509f06ee4b37fc6e348e1b2b24&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR red]FUENLABRADA(AV 20)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://545fd508d12d42509f06ee4b37fc6e348e1b2b24&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR red]FUENLABRADA[(AV 27)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR red]FUENLABRADA[(AV 28)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
