@@ -49,9 +49,10 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
  </item>
 -->
 <item>
-<title>[COLOR Black][B]ARENA[/B][/COLOR][COLOR white][B]sport[/B] [/COLOR]3  </title>
-<link>http://g6.securestream.sport7.tech/stream/YTY1YTBmZWY2ZDZkMTcwMGI4ODQyODcxNjBjYTFlNDQ=/arenaSport3.m3u8</link>
-<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]CANAL [/B][/COLOR][COLOR red]2(Prueba digisport3 acestream)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
