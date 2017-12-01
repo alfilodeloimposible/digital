@@ -22,7 +22,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title> [COLOR gold]************COPA DEL REY 28/11/2017*******************[/COLOR] </title>	
+<title> [COLOR gold]************LA LIGA 02/12/2017*******************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -70,7 +70,9 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 <externallink></externallink>
 </item>
-<tem>
+
+
+<item>
 <title>[COLOR gold]*[/COLOR][COLOR red]M/11/2017[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
@@ -84,174 +86,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MALAGA-[/B][/COLOR][COLOR red] NUMANCIA[(AV 1)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
 
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MALAGA-[/B][/COLOR][COLOR red] NUMANCIA[(AV 2)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MALAGA-[/B][/COLOR][COLOR red] NUMANCIA[(AV 27)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MALAGA-[/B][/COLOR][COLOR red] NUMANCIA[(AV 28)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]LEGANES-[/B][/COLOR][COLOR red]REAL VALLADOLID(AV 10)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://ea0c895ed18ea587bb4e55323e670f43fd131d6b&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]CELTA-[/B][/COLOR][COLOR red]EIBAR(AV 11)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://42ad40f00133cfa5dce4b38894da69b016396ed0&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]Real Madrid - [/B][/COLOR][COLOR red]Malaga[/COLOR][COLOR=black](AV 2)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106fc&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ROSENBORG-[/B][COLOR red]REAL SOCIEDAD(AV 2)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL BETIS-[/B][/COLOR][COLOR red]GIRONA(AV 2)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]LEVANTE-[/B][/COLOR][COLOR red]GIRONA(AV 3)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://0ae84bbee86ef2f775100c24e447c639849b0b8f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR ]FUENLABRADA(AV 19)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://545fd508d12d42509f06ee4b37fc6e348e1b2b24&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR red]FUENLABRADA(AV 20)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://545fd508d12d42509f06ee4b37fc6e348e1b2b24&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR red]FUENLABRADA(AV 27)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID-[/B][/COLOR][COLOR red]FUENLABRADA(AV 28)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]LEVANTE-[/B][/COLOR][COLOR red]ATLETICO MADRID(AV 2)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]AC MILAN-[/B][/COLOR][COLOR red]AUSTRIA WIEN(AV 13)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ASTANA-[/B][/COLOR][COLOR red]VILLARREAL (AV 13)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]ATHLETIC CLUB-[/B][/COLOR][COLOR red]HERTHA BERLIN(AV 13)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]MANCHESTER CITY-[/B][/COLOR][COLOR red]FEYENOORD (AV 5)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-
-
-
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]KONYASPOR-[/B][/COLOR][COLOR red]OLYMPIQUE MARSEILLE(AV 7)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://1f04b825ca666baf58c5979c9a147aef325e2bb6&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]OSTERSUND-[/B][/COLOR][COLOR red]ZORYA(AV 10)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://ea0c895ed18ea587bb4e55323e670f43fd131d6b&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]FC KOLN-[/B][/COLOR][COLOR red]ARSENAL (AV 17)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://5b3eeb9fbaf79acc1522e00c45d9527a338fbac6&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]APOEL FC-[/B][/COLOR][COLOR red]REAL MADRID (AV 27)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
 
 <item>
 <title> [COLOR gold]*******************************[/COLOR] </title>	
