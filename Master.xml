@@ -17,6 +17,25 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[COLOR orange][makelist.param1] [/COLOR][COLOR orange][makelist.param2] [/COLOR] [COLOR lime][makelist.param3] [/COLOR] [COLOR deepskyblue][makelist.param4] [/COLOR]    [COLOR white] Ver Canal -[/COLOR] [COLOR red][makelist.param6][/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=JHG+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
 
 
 
