@@ -18,21 +18,41 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>v2c  [COLOR yellow]Acesoplisting.in[/COLOR]    [COLOR cyan]Acestream[/COLOR] ( Some Dead Link ! )</title>
-<link>$doregex[makelist]</link>
+<title>[COLOR red][B]LIGA ESPAÑA[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/la-liga/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[COLOR orange][makelist.param6][/COLOR][COLOR red][makelist.param1] [/COLOR] [COLOR lime][makelist.param3][/COLOR] [COLOR yellow] [makelist.param4][/COLOR][COLOR gold] [makelist.param2][/COLOR]  [makelist.param5] </title>
-<link>plugin://program.plexus/?url=[makelist.param5]&amp;mode=1&amp;name=[makelist.param3]</link>
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
 ]]></listrepeat>
-<expres><![CDATA[text-right align-middle">(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,50}>(.*?)<[\w\W\s]{0,56}>(.*?)<|[\w\W\s;]{0,115};acestream://(.*?)"|th colspan="4">\n\s*(.*?2017)]]></expres>
-<page>http://www.acesoplisting.in/</page>
-<agent>Mozilla</agent>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 </item>
-
 
 
 
