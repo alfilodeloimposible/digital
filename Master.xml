@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]28 [/B] de Noviembre de 2017 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]02 [/B] de Diciembre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -73,7 +73,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR red]M/11/2017[/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR red]LIGA CANALES EXTRANJEROS[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
 </item>
