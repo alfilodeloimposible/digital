@@ -4,11 +4,11 @@
 
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] TAQUILLA [/COLOR][COLOR red] SEPTIEMBRE[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] TAQUILLA [/COLOR][COLOR red] Noviembre [/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/kTfrP4w.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/taquillaseptiembre.xml</externallink>
+<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/TAQUILLASEPTIEMBRE.xml</externallink>
 </item>
 
 
@@ -17,9 +17,17 @@
 <item>
 <title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] OTRAS [/COLOR][COLOR red] TAQUILLAS [/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/otrastaquillas.xml</externallink>
+<thumbnail>http://i.imgur.com/kTfrP4w.jpg</thumbnail>
+<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Otrastaquillasjhg3.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] CINE  ALFABETICAMENTE *NUEVO* [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://img.ymlp.com/n1cm_logotipo_2.jpg</thumbnail>
+<fanart>http://img.ymlp.com/n1cm_logotipo_2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/BASECINE.xml</externallink>	
 </item>
 
 <item>
