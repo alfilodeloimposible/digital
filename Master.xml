@@ -17,21 +17,21 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
-<title>[COLOR yellow]Acesoplisting.in[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[COLOR red][makelist.param1] [/COLOR]  [COLOR yellow] [makelist.param2][/COLOR][COLOR gold]- [makelist.param4][/COLOR] [B] [COLOR lime][makelist.param3][/B] [/COLOR]</title>
-<link>plugin://program.plexus/?url=[makelist.param5]&amp;mode=1&amp;name=Acesoplisting.in</link>
-]]></listrepeat>
-<expres><![CDATA[text-right align-middle">(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,50}>(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,115}acestream://(.*?)"]]></expres>
-<page>http://www.acesoplisting.in/</page>
-<agent>Mozilla</agent>
-</regex>
-<thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
-</item>
+<!-- <item> -->
+<!-- <title>[COLOR yellow]Acesoplisting.in[/COLOR]</title> -->
+<!-- <link>$doregex[makelist]</link> -->
+<!-- <regex> -->
+<!-- <name>makelist</name> -->
+<!-- <listrepeat><![CDATA[ -->
+    <!-- <title>[COLOR red][makelist.param1] [/COLOR]  [COLOR yellow] [makelist.param2][/COLOR][COLOR gold]- [makelist.param4][/COLOR] [B] [COLOR lime][makelist.param3][/B] [/COLOR]</title> -->
+<!-- <link>plugin://program.plexus/?url=[makelist.param5]&amp;mode=1&amp;name=Acesoplisting.in</link> -->
+<!-- ]]></listrepeat> -->
+<!-- <expres><![CDATA[text-right align-middle">(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,50}>(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,115}acestream://(.*?)"]]></expres> -->
+<!-- <page>http://www.acesoplisting.in/</page> -->
+<!-- <agent>Mozilla</agent> -->
+<!-- </regex> -->
+<!-- <thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail> -->
+<!-- </item> -->
 
 
 
@@ -42,7 +42,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
-<tem>
+<item>
 <title>[COLOR gold]*[/COLOR][COLOR goldenrod]Enlaces Acestreams[/COLOR][COLOR gold] [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
