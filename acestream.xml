@@ -4,11 +4,12 @@
 <!-- Simplemente insertar la url del Acestream en url -->
 
 <items>
+<item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]BARCELONA-CELTA[/B][/COLOR][COLOR red]12[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://900bdf947c3cb30b3c04c8b021dcc04ff7e139f5&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-
+</item>
 
 <item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[/COLOR]</title>
@@ -53,8 +54,8 @@
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106fc&amp;name=1</link>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](viasat sport)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://d2a87cccb12043603fa3c05ea0cfc1e560bbd266&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
