@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:0,Bein Sports 2 FR
-http://xx.cast3d.info/live/tvb123/chunklist.m3u8
+#EXTINF:0,Indian Horse Racing
+https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-more_sport_indian_horse_racing_c-ES_e-1049466_i-2413181220171202102202_k-0_q-_t-hds/laola14_1@571379/index_1200_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on&hdntl=exp=1512296523~acl=*~data=hdntl~hmac=d77f040df50ff6901baab5bf17cb2dcaa2e84e0d7f36038c2f23b3dc517a1168
 
 
-#EXTINF:0,Real Sociedad vs Eibar (OPCIÓN 2)
+#EXTINF:0,ITTF WORLD JUNIOR CHAMPIONSHIPS
 https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-table_tennis_ittf_world_junior_c_c-ES_e-1042535_i-8081192820171202101342_k-0_q-_t-hds/laola07_1@571372/index_1200_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on&hdntl=exp=1512296023~acl=*~data=hdntl~hmac=49aa5e78f6357c02965a81299e55e934fb6f2f704814a171fa5f27eb8b99b55b
 
-#EXTINF:0,Real Sociedad vs Eibar (OPCIÓN 3)
-http://31.220.2.149:8081/live/jtvs1/l_1299_2373025359_383.ts?nimblesessionid=3086866&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE3IDQ6Mzc6MzYgUE0maGFzaF92YWx1ZT1vOW9LcUw5eERxa3BBNmR1Z0VjdkhBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,ITTF WORLD JUNIOR CHAMPIONSHIPS
+https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-table_tennis_ittf_world_junior_c_c-ES_e-1042533_i-4473475620171202102537_k-0_q-_t-hds/laola06_1@571371/index_1200_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on&hdntl=exp=1512296738~acl=*~data=hdntl~hmac=82aec49a5044bbd95125f7dc07efc51e61dfac78a34f3f50a89d474db7fb1ce8
 
 
-#EXTINF:0,Real Sociedad vs Eibar (OPCIÓN 4)
-http://content.tambienloscheto.win/cavscampeon/252251.m3u8?wmsAuthSign2=d2l6MzI=&token=c2VydmVyX3RpbWU9MTUwOTkwNzIwNSZoYXNoX3ZhbHVlPUVYRFFZb0k2NVRJNnJ1YjlrVS94Umc9PSZ2YWxpZG1pbnV0ZXM9MTAw
