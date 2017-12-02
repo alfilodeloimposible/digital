@@ -3,59 +3,134 @@
 
 <!-- Simplemente insertar la url del Acestream en url -->
 
+<items>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]BARCELONA-CELTA[/B][/COLOR][COLOR red]12[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://900bdf947c3cb30b3c04c8b021dcc04ff7e139f5&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+
+
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]CANAL [/B][/COLOR][COLOR red]12[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://b32d0c731081e0f6a36f4078851f3ad8cfdfefba&amp;name=1</link>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]SAMPDORIA-[/B][/COLOR][COLOR red]JUVENTUS[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 28)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+</items>
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 10)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://ea0c895ed18ea587bb4e55323e670f43fd131d6b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 11)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://42ad40f00133cfa5dce4b38894da69b016396ed0&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106fc&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 3)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://0ae84bbee86ef2f775100c24e447c639849b0b8f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 19)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://545fd508d12d42509f06ee4b37fc6e348e1b2b24&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 20)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://545fd508d12d42509f06ee4b37fc6e348e1b2b24&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 28)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 13)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=olive][B]CANAL [/B][/COLOR][COLOR red]2[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://b03584b816161d28558514ea7cd76fa1a310733e&amp;name=1</link>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred] (AV 13)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=blue][B][I] CANAL [/I][/B][/COLOR]3[COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://bc8b5a41e5644e4fd862329016bff19b528dc3fd&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=pink][B][I]CANAL [/I][/B][/COLOR][COLOR red]4[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://0b8b0ac138cbc2bcc17527e8823f27c16665f6a9&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=orchid][B][I] CANAL [/I][/B][/COLOR][COLOR red]5[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://684c5ff6704bec4f60f10646572b18827a1e3c6b&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]CANAL [/B][/COLOR][COLOR red]6[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://9d462c88c7d1e929c5e5b642a45da8b18d733910&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]CANAL [/B][/COLOR][COLOR red]7(recomendado)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 13)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://eddf6d928624e5b60249e3a81deb68ecd2803d28&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -63,3 +138,43 @@
 
 
 
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 5)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 7)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1f04b825ca666baf58c5979c9a147aef325e2bb6&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 10)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://ea0c895ed18ea587bb4e55323e670f43fd131d6b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 17)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://5b3eeb9fbaf79acc1522e00c45d9527a338fbac6&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
