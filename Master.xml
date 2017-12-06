@@ -60,7 +60,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title> [COLOR gold]************LA LIGA 02/12/2017*******************[/COLOR] </title>	
+<title> [COLOR gold]************CHAMPIONS LEAGUE  06/12/2017*******************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -87,15 +87,15 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
  </item>
 -->
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID [/B][/COLOR][COLOR red]B.DORTMUND[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID [/B][/COLOR][COLOR red]B.DORTMUND (AV 13)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://01008b6f20ccf9b046630858982a61fc741047a1&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]CANAL [/B][/COLOR][COLOR red]2(Prueba digisport3 acestream)[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://78468aadf7cb54564f4cc4147b7e7b3d576dbba9&amp;name=1</link>
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID [/B][/COLOR][COLOR red]B.DORTMUND (AV 14)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://01008b6f20ccf9b046630858982a61fc741047a1&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
