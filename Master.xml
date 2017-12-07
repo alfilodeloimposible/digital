@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]06 [/B] de Diciembre de 2017 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]07 [/B] de Diciembre de 2017 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -60,7 +60,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title> [COLOR gold]************CHAMPIONS LEAGUE  06/12/2017*******************[/COLOR] </title>	
+<title> [COLOR gold]************EUROPA LEAGUE  07/12/2017*******************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -87,20 +87,46 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
  </item>
 -->
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID [/B][/COLOR][COLOR red]B.DORTMUND (AV 13)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]VILLARREAL-[/B][/COLOR][COLOR red]MACCABI TEL AVIV FC  (AV 13)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://01008b6f20ccf9b046630858982a61fc741047a1&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]REAL MADRID [/B][/COLOR][COLOR red]B.DORTMUND (AV 14)[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]VILLARREAL-[/B][/COLOR][COLOR red]MACCABI TEL AVIV FC   (AV 14)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://01008b6f20ccf9b046630858982a61fc741047a1&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
+<item> 
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]REAL SOCIEDAD-ZENIT SANT PETERSBURG(AV 5)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link> 
+<thumbnail></thumbnail>
+ <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+ </item>
+ 
+ <item> 
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]REAL SOCIEDAD-ZENIT SANT PETERSBURG(AV 6)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://01fcce24e7eaef9ce8ba5e4de3a0984ea1bd9f51&amp;name=1</link> 
+<thumbnail></thumbnail>
+ <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+ </item>
+ 
+ <item> 
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]ZORYA-ATHLETIC CLUB BILBAO(AV 23)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://13de047e5680f4bfd6b5be0465dffc80d382c77c;name=1</link> 
+<thumbnail></thumbnail>
+ <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+ </item>
 
+ <item> 
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]ZORYA-ATHLETIC CLUB BILBAO(AV 24)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://13de047e5680f4bfd6b5be0465dffc80d382c77c;name=1</link> 
+<thumbnail></thumbnail>
+ <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+ 
 <tem>
 <title>[COLOR gold]*[/COLOR][COLOR red]UEFA EUROPA LEAGUE  23/11/2017[/COLOR] </title>
 <link>http://ignorame</link>
