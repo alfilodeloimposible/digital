@@ -18,6 +18,12 @@
 <fanart></fanart>
 <externallink></externallink>
 </item>
+<item>
+<title> [COLOR gold]07/12/2017	04:30 CET	BASKETBALL	USA NBA	LOS ANGELES CLIPPERS-MINNESOTA TIMBERWOLVES	31 [ENG][/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
 07/12/2017	19:00 CET	SOCCER	UEFA EUROPA LEAGUE	VILLARREAL-MACCABI TEL AVIV FC	13-14 [SPA]
 07/12/2017	19:00 CET	SOCCER	UEFA EUROPA LEAGUE	ATALANTA-OLYMPIQUE LYON	23-24 [SPA]
 07/12/2017	19:00 CET	SOCCER	UEFA EUROPA LEAGUE	HNK RIJEKA-AC MILAN	1-2 [SPA]17-18 [POR] 21-22 [ITA]
