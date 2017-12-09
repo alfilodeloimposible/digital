@@ -70,7 +70,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title> [COLOR gold]************ LA LIGA 09/12/2017*******************[/COLOR] </title>	
+<title> [COLOR chartreuse]************ [COLOR forestgreen]LA LIGA 09/12/2017[COLOR chartreuse]*******************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -99,7 +99,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 <item><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](TELEKOM SPORT 2)[COLOR green]REAL MADRID - SEVILLA[/COLOR]</title><sportsdevil>http://www.sports-stream.net/ch12.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
-<item><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](SKY SPORTS HD**TODA LA LIGA**)[COLOR green][/COLOR]</title><sportsdevil>http://www.sports-stream.net/ch12.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+<item><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](SKY SPORTS HD[COLOR green](**TODA LA LIGA**)[/COLOR]</title><sportsdevil>http://www.sports-stream.net/ch6.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
 <item>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[COLOR green]REAL MADRID - SEVILLA[/COLOR]</title>
