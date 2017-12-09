@@ -176,7 +176,18 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
  <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
  </item>
  
- <item><title>[COLOR rosybrown][B]REAL MADRID - SEVILLA[/B][/COLOR]</title> <sportsdevil>http://live.shwidget.com/static/freeplayer/5315252515408670.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]BEING la liga [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
  
  <tem> 
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]REAL SOCIEDAD-ZENIT SANT PETERSBURG(AV 6)[/COLOR]</title>

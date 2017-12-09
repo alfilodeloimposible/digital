@@ -807,14 +807,18 @@
 <thumbnail>https://2.bp.blogspot.com/-26VfA_OYdu4/WPyctpgpJEI/AAAAAAAAAlo/1R2ADHO8QHIAQSpGkV6nkRsUQspWJSa_gCLcB/s1600/Movistar_Partidazo.svg.png</thumbnail>  
 <fanart>https://c2.staticflickr.com/8/7353/27418466094_637f0a682d_b.jpg</fanart>
  </item>
- 
-  <item>
-        <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]]BEIN SPORT LALIGA[/UPPERCASE][/COLOR]</title>
-        <sportsdevil>http://livesports.pw/embed.php?file=beinlaliga&width=100%&height=397&autostart=true</sportsdevil>
-        <referer>http://telefivegb.com/deporte/ver-bein-sport-laliga-en-vivo-y-online-gratis-por-internet/</referer>  
-        <thumbnail>https://img12.androidappsapk.co/300/9/4/d/es.lfp.laligatv.png</thumbnail>  
-	     <fanart>http://www.golesespana.com/wp-content/uploads/2016/07/la-liga-tv-rights1-e1468848767492.jpg</fanart>
-    </item>
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]BEING la liga [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
  
 <!--
  <item>
