@@ -96,44 +96,103 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <thumbnail>/wp-content/uploads/2016/09/beinsportsp.jpg</thumbnail>  
  </item>
 -->
+
 <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)02/12/2017 20:45 CET [COLOR green]REAL MADRID - SEVILLA[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)02/12/2017 20:45 CET [COLOR green]REAL MADRID - SEVILLA[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+  <item> 
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]REAL MADRID - SEVILLA(AV 27)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link> 
+<thumbnail></thumbnail>
+ <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+ </item>
+ 
+ <item> 
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]REAL MADRID - SEVILLA(AV 28)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://125d05a8880455ec53c10ac481a1b4bc8f74a51f&amp;name=1</link> 
+<thumbnail></thumbnail>
+ <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+ </item>
+ 
+
+  <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)02/12/2017 20:45 CET [COLOR green]DEPORTIVO-LEGANES[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)02/12/2017 20:45 CET [COLOR green]DEPORTIVO-LEGANES[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+ <item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)02/12/2017 20:45 CET [COLOR green]VALENCIA-CELTA[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)02/12/2017 20:45 CET [COLOR green]VALENCIA-CELTA[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]VILLARREAL-[/B][/COLOR][COLOR red]MACCABI TEL AVIV FC  (AV 13)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://01008b6f20ccf9b046630858982a61fc741047a1&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][B]VILLARREAL-[/B][/COLOR][COLOR red]MACCABI TEL AVIV FC   (AV 14)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://01008b6f20ccf9b046630858982a61fc741047a1&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item> 
+<tem> 
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]REAL SOCIEDAD-ZENIT SANT PETERSBURG(AV 5)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://471386e7333964fa7697157a2fdf2785c532d36f&amp;name=1</link> 
 <thumbnail></thumbnail>
  <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
  </item>
  
- <item><title>[COLOR rosybrown][B]REAL SOCIEDAD-ZENIT SANT PETERSBURG[/B][/COLOR]</title> <sportsdevil>http://tvron.net/match#s13</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+ <item><title>[COLOR rosybrown][B]REAL MADRID - SEVILLA[/B][/COLOR]</title> <sportsdevil>http://live.shwidget.com/static/freeplayer/5315252515408670.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
  
- <item> 
+ <tem> 
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]REAL SOCIEDAD-ZENIT SANT PETERSBURG(AV 6)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://01fcce24e7eaef9ce8ba5e4de3a0984ea1bd9f51&amp;name=1</link> 
 <thumbnail></thumbnail>
  <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
  </item>
  
- <item> 
+ <tem> 
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]ZORYA-ATHLETIC CLUB BILBAO(AV 23)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://13de047e5680f4bfd6b5be0465dffc80d382c77c;name=1</link> 
 <thumbnail></thumbnail>
  <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
  </item>
 
- <item> 
+ <tem> 
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]ZORYA-ATHLETIC CLUB BILBAO(AV 24)[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://13de047e5680f4bfd6b5be0465dffc80d382c77c;name=1</link> 
 <thumbnail></thumbnail>
