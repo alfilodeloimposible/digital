@@ -97,15 +97,17 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
  </item>
 -->
 
+<item><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](TELEKOM SPORT 2)[COLOR green]REAL MADRID - SEVILLA[/COLOR]</title><sportsdevil>http://www.sports-stream.net/ch12.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)02/12/2017 20:45 CET [COLOR green]REAL MADRID - SEVILLA[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[COLOR green]REAL MADRID - SEVILLA[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)02/12/2017 20:45 CET [COLOR green]REAL MADRID - SEVILLA[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[COLOR green]REAL MADRID - SEVILLA[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://3fc144bbdd466c16a64c27e7d007f1cf2408106f&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
