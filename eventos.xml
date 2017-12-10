@@ -118,6 +118,32 @@
 </item>
 
 <item>
+ <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]AV 01[/COLOR][COLOR palegoldenrod][/COLOR]</title>
+ <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams</link>
+  <regex>
+  <name>hash</name>
+  <expres>this.loadPlayer\("(.*?)"</expres>
+  <page>http://arenavision2017.tk/node/1</page>
+  <referer>http://www.arenavision.ru</referer>
+  <setcookie>beget=begetok</setcookie>
+  </regex>             
+  <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+ </item>
+ 
+ <item>
+ <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]AV 2[/COLOR][COLOR palegoldenrod][/COLOR]</title>
+ <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams</link>
+  <regex>
+  <name>hash</name>
+  <expres>this.loadPlayer\("(.*?)"</expres>
+  <page>http://arenavision2017.tk/node/2</page>
+  <referer>http://www.arenavision.ru</referer>
+  <setcookie>beget=begetok</setcookie>
+  </regex>             
+  <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+ </item>
+
+<item>
  <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]AV 11[/COLOR][COLOR palegoldenrod][/COLOR]</title>
  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams</link>
   <regex>
