@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine] 1  [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -15,14 +15,14 @@
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
-REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+(REAL MADRID-SEVILLA FC)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 </item>
 <item>
-<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine] 2  [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -36,14 +36,14 @@ REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
-(.*?)<.*?>REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+(.*?)<.*?>(REAL MADRID-SEVILLA FC)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 </item>
 <item>
-<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine] 3  [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -57,14 +57,14 @@ REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
-(.*?)<.*?>(.*?)REAL MADRID-SEVILLA FC(.*?)<.*?>(.*?)[<|"]]]></expres>
+(.*?)<.*?>(.*?)<REAL MADRID-SEVILLA FC>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 </item>
 <item>
-<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine] 4  [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -78,14 +78,14 @@ REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
-REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+(.*?)<.*?>(REAL MADRID-SEVILLA FC)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 </item>
 <item>
-<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine] 5  [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -99,14 +99,14 @@ REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
-REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+(.*?)<.*?>(.*?)<REAL MADRID-SEVILLA FC>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 </item>
 <item>
-<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine] 6  [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -120,7 +120,7 @@ REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
-REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+(.*?)<.*?>(.*?)<.*?>(REAL MADRID-SEVILLA FC)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
