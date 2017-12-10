@@ -123,7 +123,7 @@
   <regex>
   <name>hash</name>
   <expres>this.loadPlayer\("(.*?)"</expres>
-  <page>http://arenavision2017.tk/node/1</page>
+  <page>http://arenavision2017.tk/node/10</page>
   <referer>http://www.arenavision.ru</referer>
   <setcookie>beget=begetok</setcookie>
   </regex>             
