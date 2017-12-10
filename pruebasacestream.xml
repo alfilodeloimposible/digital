@@ -169,7 +169,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B] HOLLAND DUTCH CUP [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]  [B] HOLLAND EREDIVISIE [/B][/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -195,7 +195,7 @@
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">HOLLAND DUTCH CUP[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">HOLLAND EREDIVISIE[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
