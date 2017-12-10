@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1</link>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
+REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+</item>
+<item>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1</link>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
+(.*?)<.*?>REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+</item>
+<item>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1</link>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
+(.*?)<.*?>(.*?)REAL MADRID-SEVILLA FC(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+</item>
+<item>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1</link>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
+REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+</item>
+<item>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1</link>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
+REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+</item>
+<item>
+<title>[COLOR skyblue][B] Agenda Aceoplisting  [COLOR aquamarine]   [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1</link>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="
+REAL MADRID-SEVILLA FC<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
+</item>
+
+
