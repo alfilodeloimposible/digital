@@ -118,12 +118,12 @@
 </item>
 
 <item>
- <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]AV 01[/COLOR][COLOR palegoldenrod][/COLOR]</title>
+ <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]AV 11[/COLOR][COLOR palegoldenrod][/COLOR]</title>
  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams</link>
   <regex>
   <name>hash</name>
   <expres>this.loadPlayer\("(.*?)"</expres>
-  <page>http://arenavision2017.tk/node/01</page>
+  <page>http://arenavision2017.tk/node/11</page>
   <referer>http://www.arenavision.ru</referer>
   <setcookie>beget=begetok</setcookie>
   </regex>             
