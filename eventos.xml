@@ -118,12 +118,12 @@
 </item>
 
 <item>
- <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]AV 1[/COLOR][COLOR palegoldenrod] todos los partidos del día[/COLOR]</title>
+ <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]AV 01[/COLOR][COLOR palegoldenrod][/COLOR]</title>
  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams</link>
   <regex>
   <name>hash</name>
   <expres>this.loadPlayer\("(.*?)"</expres>
-  <page>http://arenavision2017.tk/node/10</page>
+  <page>http://arenavision2017.tk/node/01</page>
   <referer>http://www.arenavision.ru</referer>
   <setcookie>beget=begetok</setcookie>
   </regex>             
