@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]ESPANYOL-G++[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]ESPANYOL-G+[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
