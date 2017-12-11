@@ -6,7 +6,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]CHILE LEAGUE[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]CHILE LEAGUE[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -46,7 +46,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]MEXICO LIGA MX FINAL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]MEXICO LIGA MX FINAL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -85,7 +85,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]COLOMBIA PRIMERA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]COLOMBIA PRIMERA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -125,7 +125,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]ARGENTINA SUPERLIGA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]ARGENTINA SUPERLIGA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -164,7 +164,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]USA NFL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]USA NFL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -204,7 +204,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]PORTUGAL A LIGA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]PORTUGAL A LIGA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -243,7 +243,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]SPANISH LA LIGA [/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]SPANISH LA LIGA [/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -284,7 +284,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]SPANISH LA LIGA 2[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]SPANISH LA LIGA 2[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -328,7 +328,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]ITALY SERIE A[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]ITALY SERIE A[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -369,7 +369,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]PREMIER LEAGUE[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR lightpink]  [B]PREMIER LEAGUE[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -410,7 +410,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B] ATP WORLD TOUR[/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] ATP WORLD TOUR[/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -451,7 +451,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B] ENGLISH LEAGUE CUP [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] ENGLISH LEAGUE CUP [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -491,7 +491,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B] HOLLAND EREDIVISIE [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] HOLLAND EREDIVISIE [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -532,7 +532,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]EUROLEAGUE [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]EUROLEAGUE [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -571,7 +571,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]SPANISH ACB [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]SPANISH ACB [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -614,7 +614,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]USA NBA[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR lightpink]  [B]USA NBA[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -653,7 +653,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell] BUNDESLIGA [/COLOR][COLOR mintcream][/COLOR]</title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink] BUNDESLIGA [/COLOR][COLOR mintcream][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -692,7 +692,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell] DFB POKAL [/COLOR][COLOR mintcream][/COLOR]</title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink] DFB POKAL [/COLOR][COLOR mintcream][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -730,7 +730,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell] FRANCE LIGUE 1 [/COLOR][COLOR mintcream][/COLOR]</title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink] FRANCE LIGUE 1 [/COLOR][COLOR mintcream][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -768,7 +768,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]UEFA CHAMPIONS LEAGUE[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR lightpink]  [B]UEFA CHAMPIONS LEAGUE[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -807,7 +807,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]UEFA EUROPA LEAGUE[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR lightpink]  [B]UEFA EUROPA LEAGUE[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
