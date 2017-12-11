@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]FIFA CLUB WORLD CUP[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR darksalmon]  [B]FIFA CLUB WORLD CUP[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
