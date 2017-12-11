@@ -90,6 +90,8 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 -->
 <item><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](SKY SPORTS HD[COLOR green](**TODA LA LIGA**)[/COLOR]</title><sportsdevil>http://www.sports-stream.net/ch6.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
+<item><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][COLOR green]http://live.b-c-e.us[/COLOR]</title><sportsdevil>http://live.b-c-e.us/C_+_Liga.php</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]BEING la liga [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>

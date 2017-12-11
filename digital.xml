@@ -657,15 +657,9 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] HBO[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://embed.latino-webtv.com/channels/hbo.html</page>
-<referer>http://lacalleochotv.org/hbo-latino-en-directo-gratis/</referer>
-<agent>iPad</agent>
-</regex>
+ <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]HBO[/UPPERCASE][/COLOR] </title>
+<sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
+<referer>http://www.mipsplayer.com/embedplayer/hbopmalosotv/1/600/385</referer>
 <thumbnail>http://sharktankblog.com/wp-content/uploads/2013/03/hbo_blue_logo.jpg</thumbnail> 
 <fanart>http://sharktankblog.com/wp-content/uploads/2013/03/hbo_blue_logo.jpg</fanart>  </item>
  
@@ -807,6 +801,15 @@
 <thumbnail>https://2.bp.blogspot.com/-26VfA_OYdu4/WPyctpgpJEI/AAAAAAAAAlo/1R2ADHO8QHIAQSpGkV6nkRsUQspWJSa_gCLcB/s1600/Movistar_Partidazo.svg.png</thumbnail>  
 <fanart>https://c2.staticflickr.com/8/7353/27418466094_637f0a682d_b.jpg</fanart>
  </item>
+ 
+ 
+ <item>
+ <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Bein Sport Ñ[/UPPERCASE][/COLOR] </title>
+<sportsdevil>http://09stream.com/canales/beinsport.html</sportsdevil>
+<referer>http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true</referer>
+<thumbnail>http://09stream.com/img/beinlaliga.png</thumbnail>
+</item>
+ 
  <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]BEING la liga [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -820,19 +823,13 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
 <fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
  
-<!--
- <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#LaLigaTV[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
+<item>
+ <title>[COLOR lightblue] Bein Sport Liga[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://verplusonline.com/canales/ligaes.php</sportsdevil>
+<referer>http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true</referer>
 <thumbnail>https://img12.androidappsapk.co/300/9/4/d/es.lfp.laligatv.png</thumbnail>  
 <fanart>http://www.golesespana.com/wp-content/uploads/2016/07/la-liga-tv-rights1-e1468848767492.jpg</fanart>
- </item>-->
+ </item>
  
  
 
