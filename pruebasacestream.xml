@@ -648,7 +648,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] ATP WORLD TOUR[/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] ATP WORLD TOUR[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -689,7 +689,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] ENGLISH LEAGUE CUP [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] ENGLISH LEAGUE CUP [/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -729,7 +729,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] HOLLAND EREDIVISIE [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B] HOLLAND EREDIVISIE [/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -770,7 +770,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]EUROLEAGUE [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]EUROLEAGUE [/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -809,7 +809,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]SPANISH ACB [/B][/COLOR][COLOR mintcream]**Activo sólo en eventos** [/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR lightpink]  [B]SPANISH ACB [/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
