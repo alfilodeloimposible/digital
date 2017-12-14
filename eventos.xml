@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]WEST HAM-ARSENAL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]UNICAJA MALAGA-BC KHIMKI[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -27,7 +27,7 @@
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">WEST HAM-ARSENAL<[\w\W\s]{0,32}"(>(.*?)]]></expres>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">UNICAJA MALAGA-BC KHIMKI<[\w\W\s]{0,32}"(>(.*?)]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]WEST HAM-ARSENAL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]LAS PALMAS-ESPANYOL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -66,7 +66,7 @@
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">WEST HAM-ARSENAL<[\w\W\s]{0,32}"<<[|"]]]></expres>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>'>1')]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
@@ -105,7 +105,7 @@
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">LEVANTE-ATHLETIC CLUB BILBAO<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">LEVANTE-ATHLETIC CLUB BILBAO<[\w\W\s]{0,32}"(>'>1')]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
