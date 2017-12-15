@@ -1,14 +1,13 @@
 #EXTM3U
 
-
-
-
-
 #EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR cyan][/COLOR] [COLOR white]Star wars VIII[/COLOR] 
-
-
 http://s2.biter.tv/file/a4c87525c1308d6dfc9800e08cfc165c/b981efa7a938b1d85d50f19974d8b3c6dcbe390a9996eec4772be31af476b28e946dfcc277f356f79fa30a470982ff63c499f2f9c46688696d007682571b5b26/1513384558/5/5a337e3687af6.mp4
 
-#EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR cyan][/COLOR] [COLOR white]Star wars VIII (Opción2)[/COLOR] 
-
+#EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR cyan][/COLOR] Powvideo [COLOR white]Star wars VIII [/COLOR] 
 http://5.39.70.113:8777/m4ohovrtlyikkfn2mcvp4iilfrozbotrz6emzcfnxgiw44dowqg7yruxza/v.mp4
+
+#EXTINF:0,[COLOR tomato]              * CINE[/COLOR]STREAMCLOUD[COLOR cyan][/COLOR] [COLOR white]Star wars VIII[/COLOR] 
+http://upload13.streamcloud.eu:8080/tpv75uecs2oax3ptx3ly7u5rvw67xkmabtm5dpkgxkyqnp2tr5oiqvztim/video.mp4
+
+#EXTINF:0,[COLOR tomato]              * CINE[/COLOR]OPENLOAD[COLOR cyan][/COLOR] [COLOR white]Star wars VIII[/COLOR] 
+https://1fiagej.oloadcdn.net/dl/l/CWqfDkLzBGrQjjFd/f14E6LcZxPw/st4r.w4rs.th3.l4st.j3d1.2017.cam.latino.gnula.mp4?mime=true
