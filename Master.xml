@@ -84,9 +84,10 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR orangered]Canales Internacionales  [COLOR gold]Futbol  Acestream[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/intsport.m3u</externallink>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)Setanta Sports Eurasia HD [COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 <!--
 
