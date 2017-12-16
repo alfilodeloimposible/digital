@@ -15,7 +15,7 @@
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
-<page>http://arenavision2017.tk/iguide</page>
+<page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/acestreams.png</thumbnail>
