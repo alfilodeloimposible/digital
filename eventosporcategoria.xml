@@ -41,7 +41,7 @@
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]FUTB@L[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]FUTBOL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -66,8 +66,8 @@
 <fanart></fanart>
 <info></info>
 </item>
-]]>
-<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">SOCCER<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres></listrepeat>
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">SOCCER<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
