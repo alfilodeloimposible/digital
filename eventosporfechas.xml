@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
+<tem>
 <title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]12/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -39,7 +39,7 @@
 
 </item>
 
-<item>
+<tem>
 <title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]13/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -78,7 +78,7 @@
 
 </item>
 
-<item>
+<tem>
 <title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]14/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -117,7 +117,7 @@
 
 </item>
 
-<item>
+<tem>
 <title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]15/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
