@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <tem>
-<title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]12/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]                            *[/COLOR][COLOR tan]  [B]12/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -40,7 +40,7 @@
 </item>
 
 <tem>
-<title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]13/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]                            *[/COLOR][COLOR tan]  [B]13/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -79,7 +79,7 @@
 </item>
 
 <tem>
-<title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]14/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]                            *[/COLOR][COLOR tan]  [B]14/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -118,7 +118,7 @@
 </item>
 
 <tem>
-<title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]15/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]*[/COLOR][COLOR tan]  [B]15/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -157,7 +157,7 @@
 </item>
 
 <item>
-<title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]16/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]*[/COLOR][COLOR tan]  [B]16/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -196,7 +196,7 @@
 </item>
 
 <item>
-<title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]17/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]*[/COLOR][COLOR tan]  [B]17/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -237,7 +237,7 @@
 
 
 <item>
-<title>[COLORmintcream]*[/COLOR][COLOR forestgreen]  [B]18/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]*[/COLOR][COLOR tan]  [B]18/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
