@@ -27,11 +27,8 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/starwars8.m3u</externallink>
 </item>
 
-<item>
-<title>[COLOR gold]*****[/COLOR][COLOR crimson]MUNDIAL DE CLUBES[COLOR gold]*****[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/mundialclubes.xml</externallink>
-</item>
+
+
 
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR green]  [B]Movistar + [/B][/COLOR] </title>
@@ -90,7 +87,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR orangered]  [COLOR gold]android[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/elige.m3u</externallink>
@@ -131,101 +128,9 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 
-<tem>
-<title>[COLOR goldenrod][B]Málaga v Depor[/B][/COLOR]</title>
-<sportsdevil>http://www.sports-stream.net/ch11.html</sportsdevil>
-<referer></referer>
-<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
-<fanart></fanart>
- </item>
- 
- <tem>
-<title>[COLOR goldenrod][B]Málaga v Depor[/B][/COLOR]</title>
-<sportsdevil>http://www.sports-stream.net/ch11.html</sportsdevil>
-<referer></referer>
-<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
-<fanart></fanart>
- </item>
-
- <tem>
-<title>[COLOR goldenrod][B]Espanyol v Valencia (1)[/B][/COLOR]</title>
-<sportsdevil>http://www.sports-stream.net/ch6.html</sportsdevil>
-<referer></referer>
-<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
-<fanart></fanart>
- </item>
- 
-  <tem>
-<title>[COLOR goldenrod][B]Espanyol v Valencia (2)[/B][/COLOR]</title>
-<sportsdevil>http://www.sports-stream.net/ch13.html</sportsdevil>
-<referer></referer>
-<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
-<fanart></fanart>
- </item>
-
-<tem>
-<title>[COLOR goldenrod][B]Espanyol v Valencia (3)[/B][/COLOR]</title>
-<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
-<referer></referer>
-<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
-</item>
-
-<tem><title>[COLOR goldenrod][B]Las Palmas v Levante[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky5.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<tem><title>[COLOR goldenrod][B]Athletic Bilbao v Villarreal[/B][/COLOR]</title> <sportsdevil>http://sstream.net/sky5.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
 
 
 
-<!--
-<item><title>[COLOR goldenrod][B]Sporting CP v Juventus[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix4.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Paris Saint Germain v Anderlecht[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix5.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B]Atletico Madrid v FK Qarabag[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix6.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item><title>[COLOR goldenrod][B] FC Basel v CSKA Moscow[/B][/COLOR]</title> <sportsdevil>http://sstream.net/mix7.html</sportsdevil> <referer></referer><thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> </item>
-
-<item>
-<title> [COLOR gold]*******************************[/COLOR] </title>	
-<link>$doregex[makelist]</link>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
-</item>
--->
-<!-- Simplemente insertar la url del Acestream en url-->
-
-<!-- Los canales están extraidos de arenavision.in -->
-
-
-<!-- <item> -->
-<!-- <title> [COLOR gold]*[COLOR seagreen]ENLACES LIGA/COPA DEL REY/CHAMPIONS/UEFA EUROPA LEAGUE[/COLOR]*[/COLOR] </title>	 -->
-<!-- <link>$doregex[makelist]</link> -->
-<!-- <fanart></fanart> -->
-<!-- <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail> -->
-<!-- </item> -->
-
-<!-- <item><title>[COLOR white]SP[/COLOR][COLOR yellow]O[/COLOR][COLOR white]RT[/COLOR][COLOR gold]*[/COLOR][COLOR white]TV[/COLOR][COLOR white] 1[/COLOR]</title> <sportsdevil>http://sstream.net/sptv1.html</sportsdevil> <referer></referer><thumbnail>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</thumbnail><fanart></fanart> </item> -->
-
-
-<!-- <item><title>[COLOR white]SP[/COLOR][COLOR yellow]O[/COLOR][COLOR white]RT[/COLOR][COLOR gold]*[/COLOR][COLOR white]TV[/COLOR][COLOR white] 2[/COLOR]</title> -->
- <!-- <sportsdevil>http://sstream.net/sptv2.html</sportsdevil> <referer></referer><thumbnail>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</thumbnail><fanart></fanart> </item> -->
-
-<!-- <item><title>[COLOR white]SP[/COLOR][COLOR yellow]O[/COLOR][COLOR white]RT[/COLOR][COLOR gold]*[/COLOR][COLOR white]TV[/COLOR][COLOR white] 3[/COLOR]</title> <sportsdevil>http://sstream.net/sptv3.html</sportsdevil> <referer></referer><thumbnail>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</thumbnail><fanart></fanart> </item> -->
-
-
-<!-- <item><title>[COLOR white]SP[/COLOR][COLOR yellow]O[/COLOR][COLOR white]RT[/COLOR][COLOR gold]*[/COLOR][COLOR white]TV[/COLOR][COLOR white] 4[/COLOR]</title> <sportsdevil>http://sstream.net/sptv4.html</sportsdevil> <referer></referer><thumbnail>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</thumbnail><fanart></fanart> </item> -->
-
-
-<!-- <item><title>[COLOR white]SP[/COLOR][COLOR yellow]O[/COLOR][COLOR white]RT[/COLOR][COLOR gold]*[/COLOR][COLOR white]TV[/COLOR][COLOR white] 5[/COLOR]</title> <sportsdevil>http://sstream.net/sptv5.html</sportsdevil> <referer></referer><thumbnail>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</thumbnail><fanart></fanart> </item> -->
-
-
-
-<!-- Simplemente insertar la url del Acestream en url-->
-
-<!-- Los canales están extraidos de arenavision.in -->
-
-
-<item><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](SKY SPORTS HD[COLOR green](**TODA LA LIGA**)[/COLOR]</title><sportsdevil>http://www.sports-stream.net/ch6.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
 <tem><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][COLOR green]hbo[/COLOR]</title><sportsdevil>http://www.tv-porinternet.com/2017/03/hbo-en-vivo-por-internet.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
 
@@ -334,28 +239,17 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/categoriasdeportivas.xml</externallink>
 </item>
 
-<!-- <item> -->
-<!-- <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod][B]La Liga (Canales Extranjeros)[/B][/COLOR] </title> -->
-<!-- <link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart> -->
-<!-- <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink> -->
-<!-- </item> -->
-
-
-
-
-
-
-
-
+ <tem>
+ <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod][B]La Liga (Canales Extranjeros)[/B][/COLOR] </title> 
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart> 
+ <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink> 
+ </item>
 
 <tem>
 <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]Copa Del Rey[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/copadelrey.xml</externallink>
 </item>
-
-
-
 
 
 <tem>
