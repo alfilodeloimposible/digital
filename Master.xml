@@ -97,14 +97,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Setanta Sports Eurasia SUPER HD [COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Setanta Sports Eurasia SUPER HD [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]BT Sport 1 HD [COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]BT Sport 1 HD [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://047f7d2238bb30bf4a4a93e6e50297f6fd1bd5d4&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -112,14 +112,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Viasat Sport HD [COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Viasat Sport HD [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://653c5c45f3da14208a4b22a0f56950fb79e3604b&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Idman TV [COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Idman TV [/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://39851169576dcb38a6126e19466c65a307684c09&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
