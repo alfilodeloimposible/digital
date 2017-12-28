@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]FUTBOL[/B][/COLOR] [COLOR lightyellow](Elige tu Liga) [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -8,7 +6,7 @@
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
 <title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue][makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Alfonstreams+[COLOR skyblue][makelist.param4][/COLOR]</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[COLOR skyblue][makelist.param4][/COLOR]</link>
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -21,8 +19,9 @@
 			<page></page>
 			</regex>
 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<info>Adryanlist es GRATIS, pero funciona gracias a  tus donaciones, para mantener las listas y el addon funcionando, es por ello que  te pido tu apoyo realizando una pequeña donacion "VOLUNTARIA" mediante PAYPAL  ya sea al correo adrian.bu@gmail.com o  entrando directamente a la pagina http://paypal.me/adryanlist, Gracias a tus donaciones este proyecto seguira adelante</info>
 </item>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">$doregex[select][\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
