@@ -1,3 +1,5 @@
+<SetViewMode>55</SetViewMode>
+
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]FUTBOL[/B][/COLOR] [COLOR lightyellow](Elige tu Liga) [/COLOR]</title>
 <link>$doregex[makelist]</link>
