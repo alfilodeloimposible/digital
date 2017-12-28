@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]evento por fecha y categoria[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]evento por categoria[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -27,7 +27,7 @@
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">28/12/2017<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">$doregex[select]<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">$doregex[select]<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
