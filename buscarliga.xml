@@ -90,13 +90,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
    ret = dialog.select('Elige un Liga ', ['BELGIUM LEAGUE','LA LIGA', 'LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'COPA DE ESPAÑA', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA'])
-   lists = [select]
+   lists = ['BELGIUM LEAGUE','SPANISH LA LIGA', 'SPANISH LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
    return lists[ret]
 ]]></expres>
 <page></page>
 </regex>
 
-</regex><thumbnail></thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
