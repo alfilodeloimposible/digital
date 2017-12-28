@@ -1,47 +1,7 @@
+
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SetViewMode>55</SetViewMode>
-
-<item>
-<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCAR  TU CANAL ACESTREAM[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
-<link>$doregex[lista]</link>
-
-<regex>
-<name>lista</name>
-  <listrepeat><![CDATA[
-         <SetViewMode>55</SetViewMode>
-		 <title>[lista.param2]</title>
-        <link>plugin://program.plexus/?url=[lista.param1]&amp;mode=1&amp;name=Adryanlist+[lista.param2]</link>
-		<thumbnail>http://adryanlist.org/adryan/img/acestream.png</thumbnail>
-		]]></listrepeat>
-<expres><![CDATA[acestream:\/\/(.*?)">(.*?)<]]><expres>
-<page>https://acestreamsearch.com/en/index.php</page>
-<rawpost>cn=$doregex[search]</rawpost>
-<referer>https://acestreamsearch.com/en/index.php</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>search</name>
-<expres><![CDATA[#$pyFunction
-import xbmc
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    dialog = xbmcgui.Dialog()
-    d = dialog.input('Buscar  Canal: ejemplo: Sky Sports', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
-    return d
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-
-<thumbnail></thumbnail>
-</item>
-
-
 
 
 
@@ -89,7 +49,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige un Liga ', ['BELGIUM LEAGUE','ITALY CUP','AUSTRALIAN A-LEAGUE','PORTUGAL CUP','LA LIGA', 'LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'COPA DE ESPAÑA', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA'])
+   ret = dialog.select('Elige una Liga ', ['BELGIUM LEAGUE','ITALY CUP','AUSTRALIAN A-LEAGUE','PORTUGAL CUP','LA LIGA', 'LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'COPA DE ESPAÑA', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA'])
    lists = ['BELGIUM LEAGUE','ITALY CUP','AUSTRALIAN A-LEAGUE','PORTUGAL CUP','SPANISH LA LIGA', 'SPANISH LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
    return lists[ret]
 ]]></expres>
