@@ -58,8 +58,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>https://arenavision.us/$doregex[canal]</page>
-			<referer>https://arenavision.us/</referer>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -73,9 +73,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,35}">$doregex[select]<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>https://arenavision.us/iguide</page>
+<page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>https://arenavision.us/iguide</referer>
+<referer>http://arenavision2017.tk/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 
