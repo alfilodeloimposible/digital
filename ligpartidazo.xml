@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]BEING la liga [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod][B]LA LIGA[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/liga1.xml</externallink>
+</item>
+
+<item>
+            <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palegoldenrod] todos los partidos del día[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>             
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+ 
+ 
+
+
+            <item>
+             <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/10</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+
+<iem>
+<title> [COLOR gold]***************ACESTREAMS*******************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+
+<tem>
+<title>[COLOR gold]*[/COLOR][COLOR rose]  [B]CANALES ARENAVISION[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/canalesarenavision.xml</externallink>
+</item>
+
+<tem>
+<title>[COLOR gold]*[/COLOR][COLOR goldenrod]Enlaces Acestreams  LA LIGA 02/12/2017[/COLOR][COLOR gold] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Setanta Sports Eurasia SUPER HD [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]BT Sport 1 HD [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://047f7d2238bb30bf4a4a93e6e50297f6fd1bd5d4&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Viasat Sport HD [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://653c5c45f3da14208a4b22a0f56950fb79e3604b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred]Idman TV [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://39851169576dcb38a6126e19466c65a307684c09&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
+<title>[COLOR orangered]  [COLOR gold]android[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/elige.m3u</externallink>
+</item>
+<tem>
+<title>[COLOR gold]*[/COLOR][COLOR red]LIGA CANALES EXTRANJEROS[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.m3u</externallink>
+</item>
+
+
+<tem><title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred][COLOR green]hbo[/COLOR]</title><sportsdevil>http://www.tv-porinternet.com/2017/03/hbo-en-vivo-por-internet.html</sportsdevil> <referer></referer><thumbnail>http://www.pngmart.com/files/3/Sports-Ball-PNG-File.png</thumbnail><fanart></fanart> </item>
+
+
+
+
+ <tem>
+<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]NBA[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/nba.xml</externallink>
+</item> 
+
+<tem>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+<tem>
+<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod][B]Deportes por categorias(ENLACE RECOMENDADO)[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/categoriasdeportivas.xml</externallink>
+</item>
+
+ <tem>
+ <title>[COLOR gold]*[/COLOR][COLOR palegoldenrod][B]La Liga (Canales Extranjeros)[/B][/COLOR] </title> 
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart> 
+ <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/livesport.xml</externallink> 
+ </item>
+
+<tem>
+<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]Copa Del Rey[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail><fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/copadelrey.xml</externallink>
+</item>
+
+
+<tem>
+<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]ACB[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail><fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acb.xml</externallink>
+</item>
+
+
+
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
+
+<iem>
+<title>[COLOR gold]*[/COLOR][COLOR palegoldenrod]Euroliga Basket[/COLOR][COLOR gold]**SOLO FUCIONAN LOS CANALES A PARTIR DEL 10** [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail><fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/euroligbasket.xml</externallink>
+</item>
+
+
+
+
+<!--En externallink ponemos la dirección donde se encuientra nuestra lista-->
+
+
+
+
+
+
+
+<!-- <item>
+<title>[COLOR gold]*[/COLOR][COLOR goldenrod]Movistar + (opción 2)[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital2.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR blue]Movistar + (opción 3)[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital3.xml</externallink>
+</item> -->
+
