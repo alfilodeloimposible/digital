@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]evento por competición[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLORmintcream]****[/COLOR][COLOR tan]  [B]EVENTO POR COMPETICION[/B][/COLOR][COLORmintcream]****[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -54,7 +54,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]FUTBOL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -93,7 +93,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 </item>
 
-<item>
+<tem>
 <title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]FUTBOL AMERICANO[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -135,7 +135,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
+<tem>
 <title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]MMA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
