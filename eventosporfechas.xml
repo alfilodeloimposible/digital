@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLORmintcream]                            *[/COLOR][COLOR tan]  [B]27/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<title>[COLORmintcream]                            *[/COLOR][COLOR tan]  [B]28/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -26,12 +26,26 @@
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">27/12/2017<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<expres><![CDATA[style13">$doregex[select]<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
+
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige un Liga ', ['28/12/2017'])
+   lists = ['28/12/2017']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+
 <thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
 	<fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
 	
