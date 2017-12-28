@@ -39,7 +39,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige un Liga ', ['28/12/2017','29/12/2017','30/12/2017','31/12/2017'])
+   ret = dialog.select('Elige una Fecha', ['28/12/2017','29/12/2017','30/12/2017','31/12/2017'])
    lists = ['28/12/2017','29/12/2017','30/12/2017','31/12/2017']
    return lists[ret]
 ]]></expres>
