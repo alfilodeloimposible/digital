@@ -61,7 +61,7 @@ peliculas:"http://diskokosmiko.mx/movies/jackie-chan-dvdrip-ultra-super-dooper-m
 peliculas:"http://diskokosmiko.mx/santy/peliculas-mexicanas-11328" name:"Peliculas Mexicanas"; 
 peliculas:"http://diskokosmiko.mx/Jeviathan/cine-terror-23445" name:"Cine Terror"; 
 peliculas:"http://diskokosmiko.mx/naredo/animacion-20219" name:"Peliculas Infantiles"; 
-peliculas:"http://diskokosmiko.mx/naredo/belicas-20003" name:"Peliculas Belicasss"; 
+peliculas:"http://gnula.nu/peliculas-de-estreno/lista-de-peliculas-online-parte-1/" name:"Peliculas Belicasss"; 
 peliculas:"http://diskokosmiko.mx/naredo/misterio-19965" name:"Peliculas Misterio"; 
 peliculas:"http://diskokosmiko.mx/naredo/fantastico-20056" name:"Cine Fantastico"; 
 peliculas:"http://diskokosmiko.mx/marcos20/peticiones-16957" name:"Peticiones de Peliculas"; 
