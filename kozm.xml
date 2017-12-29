@@ -9,7 +9,7 @@
         <link>$doregex[makelist]</link>
         ]]></listrepeat>
 <expres>peliculas:"(.*?)" name:"(.*?)";</expres>
-<page>http://adryanlist.org/adryan/kozm.txt</page>
+<page>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/kozm.txt</page>
 <cookieJar></cookieJar>
 </regex>
 
