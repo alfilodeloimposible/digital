@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLORmintcream]****[/COLOR][COLOR red]  [B]ELIGE TU LIGA TRON[/B][/COLOR][COLORmintcream]****[/COLOR] </title>
+<title>[COLORmintcream]****[/COLOR][COLOR red]  [B]ELIGE T[/B][/COLOR][COLORmintcream]****[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
