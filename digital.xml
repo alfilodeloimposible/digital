@@ -396,6 +396,19 @@
 <fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
 
 <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Disney [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusdisney.php</page>
+<referer>http://www.vercanalestv.com/ver-movistar-disney-en-directo-y-online-las-24h/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
+
+<item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Comedia [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
