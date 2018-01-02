@@ -405,8 +405,8 @@
 <referer>http://www.vercanalestv.com/ver-movistar-disney-en-directo-y-online-las-24h/</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>
-<fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-disney.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-disney.png</fanart>   </item>
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #Movistar + Comedia [/UPPERCASE][/COLOR] </title>
