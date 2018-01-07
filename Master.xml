@@ -23,6 +23,32 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/nba.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] LEGANÉS - REAL SOCIEDAD(1)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<referer>http://verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png</thumbnail> 
+<fanart>http://dhnn.com/es/img/case-studies/foxlife/slide1.jpg</fanart>  </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] LEGANÉS - REAL SOCIEDAD(2)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>ttp://www.fstream.me/sharedcdn/hembedplayer/verliga123456789/1/650/400/51f0264844075fa6abf2f61664e4b35e9a267a5186f96396472f5faceb131ba5</page>
+<referer>http://verliga.net/verliga-2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png</thumbnail> 
+<fanart>http://dhnn.com/es/img/case-studies/foxlife/slide1.jpg</fanart>  </item>
+
 
 <item>
 <title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]MIS PELIS Y SERIES[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
