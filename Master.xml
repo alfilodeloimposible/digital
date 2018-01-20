@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]07 [/B] de Enero de 2018 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]20 [/B] de Enero de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -31,49 +31,65 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <tem>
-<title> [COLOR chartreuse]Leganés - Real Sociedad // Barcelona - Levante // Athletic Club Bilbao-Alaves // Celta - Real Madrid[/COLOR] </title>	
+<title> [COLOR chartreuse]ALAVES-LEGANES// REAL MADRID-DEPORTIVO// REAL SOCIEDAD-CELTA // REAL BETIS-FC BARCELONA[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
+
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 19)[COLOR green]Betis - Leganés[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://74b5253870d0c79c6c91b8b5a22585a836501bea&amp;name=1</link>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[COLOR green]MANCHESTER UNITED-STOKE CITY[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://6d478fdbfc8d4f8fc165953443ba25f8c64e2de6&amp;name=1</link>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 10)[COLOR green]ESTORIL-FC PORTO[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 10)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://11816c3fdf09a722abb938704c03a94f1b08c8f3c&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 11)[COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 11)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://aa634a4a55bb780a0ae52a53ed0f6bbd120ef59c&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 19)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 20)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 28)[COLOR green]12/2/17 13:00:00[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 28)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
