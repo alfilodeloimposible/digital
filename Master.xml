@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]23 [/B] de Enero de 2018 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]24 [/B] de Enero de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -77,7 +77,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<!-- <item> 
+
 <title> [COLOR chartreuse]*******************************[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
@@ -92,22 +92,22 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title> [COLOR chartreuse]ALAVES-LEGANES// REAL MADRID-DEPORTIVO// REAL SOCIEDAD-CELTA // REAL BETIS-FC BARCELONA[/COLOR] </title>	
+<title> [COLOR chartreuse]ALAVES-VALENCIA// REAL MADRID-LEGANES[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
-</item>-->
+</item>
 
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[COLOR green]SEVILLA FC-ATLETICO MADRID[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[COLOR green]SEVILLA FC-ATLETICO MADRID[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -143,14 +143,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[COLOR green]SEVILLA FC-ATLETICO MADRID[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 28)[COLOR green]SEVILLA FC-ATLETICO MADRID[/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 28)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
