@@ -1,6 +1,19 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR oldlace]Zathura, una aventura espacial[/COLOR]  
+#EXTINF:0,[COLOR tomato]              * streamcloud[/COLOR][COLOR oldlace]Zathura, una aventura espacial[/COLOR]  
+http://stor78.streamcloud.eu:8080/ftv74rhy5woax3ptx2ky7uprvmptcmalordbnpmit4v32wn33mkqkgxcje/video.mp4
+
+
+#EXTINF:0,[COLOR tomato]              * powvideo[/COLOR][COLOR oldlace]Zathura, una aventura espacial[/COLOR]  
+http://149.202.80.233:8777/haoho2dql4ikkfn2mdnp4n2ghnkm7x6ng2rp3xhrxt3jyrrhyr3to5u6ge/v.mp4
+
+#EXTINF:0,[COLOR tomato]              * ?[/COLOR][COLOR oldlace]Zathura, una aventura espacial[/COLOR]  
+http://149.202.80.233:8777/haoho2dql4ikkfn2mdnp4n2ghnkm7x6ng2rp3xhrxt3jyrrhyr3to5u6ge/v.mp4
+
+
+#EXTINF:0,[COLOR tomato]              * ?[/COLOR][COLOR oldlace]Zathura, una aventura espacial[/COLOR]  
+https://str08.vidoza.net/x4lfi2mmhrzpvjumxd7e6ust75kixc64hfsgsl7g6sc3dczogkou5md5n64a/v.mp4
+#EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR oldlace]corredor 3[/COLOR]  
 http://149.202.76.39:8777/gmohpbifi4ikkfn2mbg74jqzmqsw75x32t7hhhmkkf5sgal76n7zvj4wue/v.mp4
 
 #EXTINF:0,[COLOR tomato]              * CINE[/COLOR][COLOR oldlace]Cazafantasmas[/COLOR]  
