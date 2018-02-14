@@ -84,14 +84,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
-<item>
+<tem>
 <title> [COLOR chartreuse]Por los siguientes canales se podrán ver estos partidos:[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
-<item>
+<tem>
 <title> [COLOR chartreuse]ALAVES-VALENCIA// REAL MADRID-LEGANES[/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
@@ -99,14 +99,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -114,20 +114,34 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 10)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://11816c3fdf09a722abb938704c03a94f1b08c8f3c&amp;name=1</link>
+<title>[COLOR yellow]AlfonStreams> Real Madrid - PSG[COLOR=mediumvioletred](AV 13)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 11)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://aa634a4a55bb780a0ae52a53ed0f6bbd120ef59c&amp;name=1</link>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 14)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 27)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 28)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 19)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b&amp;name=1</link>
 <thumbnail></thumbnail>
@@ -135,26 +149,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 20)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 27)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
 
-<item>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 28)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
 
 <item>
 <title> [COLOR chartreuse]*******************************[/COLOR] </title>	
