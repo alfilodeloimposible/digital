@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]24 [/B] de Enero de 2018 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]18 [/B] de Febrero de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -99,16 +99,16 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
+<item>
+<title>[COLOR yellow]AlfonStreams> FINAL BASKET COPA DEL REY[COLOR=mediumvioletred](AV 5)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://fda8d8c69dafabc2705269a1622fbb08e69e7778;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<tem>
-<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;name=1</link>
+<item>
+<title>[COLOR yellow]AlfonStreams>FINAL BASKET COPA DEL REY[COLOR=mediumvioletred](AV 6)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://fda8d8c69dafabc2705269a1622fbb08e69e7778;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
