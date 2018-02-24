@@ -107,7 +107,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
-<title>[COLOR yellow]AlfonStreams>Real Madrid - Alaves[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>LEGANES-LAS PALMAS[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -115,7 +115,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR yellow]AlfonStreams>Real Madrid - Alaves[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>LEGANES-LAS PALMAS[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -123,7 +123,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR yellow]AlfonStreams>Barcelona - Girona[COLOR=mediumvioletred](AV 8)[COLOR green][/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>RAYO VALLECANO-HUESCA[COLOR=mediumvioletred](AV 8)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://3cfe9b2efa61cb7e927bc2e81a91946379435432;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -131,7 +131,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 
 
 <item>
-<title>[COLOR yellow]AlfonStreams>Barcelona - Girona[COLOR=mediumvioletred](AV 9)[COLOR green][/COLOR]</title>
+<title>[COLOR yellow]AlfonStreams>RAYO VALLECANO-HUESCA[COLOR=mediumvioletred](AV 9)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://3cfe9b2efa61cb7e927bc2e81a91946379435432;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -195,6 +195,14 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]pelis y canales[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/canal3.m3u</externallink>
 </item>
 
 <item>
