@@ -99,7 +99,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams> FINAL BASKET COPA DEL REY[COLOR=mediumvioletred](AV 5)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://fda8d8c69dafabc2705269a1622fbb08e69e7778;name=1</link>
 <thumbnail></thumbnail>
@@ -107,34 +107,66 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 
 <item>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - Alaves[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - Alaves[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>Barcelona - Girona[COLOR=mediumvioletred](AV 8)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3cfe9b2efa61cb7e927bc2e81a91946379435432;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>Barcelona - Girona[COLOR=mediumvioletred](AV 9)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3cfe9b2efa61cb7e927bc2e81a91946379435432;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<tem>
 <title>[COLOR yellow]AlfonStreams>FINAL BASKET COPA DEL REY[COLOR=mediumvioletred](AV 6)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://fda8d8c69dafabc2705269a1622fbb08e69e7778;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams> Real Madrid - PSG[COLOR=mediumvioletred](AV 13)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 14)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 27)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 28)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
 <thumbnail></thumbnail>
