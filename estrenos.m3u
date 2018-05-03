@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0,[COLOR red]@@@### [/COLOR] [COLOR black][B]prueba youtube[/B] [/COLOR]  [COLOR red]  ###@@@[/COLOR]   
+https://www.youtube.com/watch?v=GKzEi-OpbGQ&list=PL7MF0d1lgg6zfuii8KfdoQ4gWojCVgnc2
+
+#EXTINF:0,[COLOR red]@@@### [/COLOR] [COLOR black][B]prueba youtube[/B] [/COLOR]  [COLOR red]  ###@@@[/COLOR]   
+PL7MF0d1lgg6zfuii8KfdoQ4gWojCVgnc2
+
 #EXTINF:0,[COLOR red]@@@### [/COLOR] [COLOR black][B]Ready Player One ( PARA IBAI)[/B] [/COLOR]  [COLOR red]  ###@@@[/COLOR]   
 http://37.59.25.92:8777/iaohpnwlkiikkfn2md7p4ialemf5763yqwey6uouhla5hbmwsqgyuu7una/v.mp4
 
