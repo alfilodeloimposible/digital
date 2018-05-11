@@ -1,0 +1,13 @@
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://www.vercanalestv.com/ver-gol-tv-en-directo-y-online-las-24h-gratis/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.80</agent>
+</regex>
+<thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
+</item>
