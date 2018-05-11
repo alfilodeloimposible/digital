@@ -926,13 +926,13 @@
  </item>
  
 <tem>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]Gol Tv (Opción 2)[/UPPERCASE][/COLOR] </title>
+<title>[COLOR BLACK]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/goltv.php</page>
-<referer>http://www.verliga.net/verliga.html</referer>
+<page>http://vergol.com/live1/plusdeportes1.php</page>
+<referer>http://www.vertelevisor.com/ver-canal-plus-deportes-en-directo-gratis-por-internet/</referer>
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
