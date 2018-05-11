@@ -925,7 +925,7 @@
 <fanart>http://files.laliga.es/seccion_logos/laliga-123-v-16-9.jpg</fanart>
  </item>
  
-<tem>
+<item>
 <title>[COLOR BLACK]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
