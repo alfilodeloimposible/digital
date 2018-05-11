@@ -117,15 +117,15 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
+-->
 
-
-<tem>
-<title>[COLOR yellow]AlfonStreams> FINAL BASKET COPA DEL REY[COLOR=mediumvioletred](AV 5)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://fda8d8c69dafabc2705269a1622fbb08e69e7778;name=1</link>
+<item>
+<title>[COLOR yellow]AlfonStreams> rugby[COLOR=mediumvioletred](rugby)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://2845d0e57d899ffb1469f05e00f6bf0b88295f90;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR yellow]AlfonStreams>LEGANES-LAS PALMAS[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
