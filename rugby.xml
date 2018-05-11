@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR BLACK]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 2)[/UPPERCASE][/COLOR] </title>
+<title>[COLOR BLACK]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 1)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/plusdeportes1.php</page>
 <referer>http://www.vertelevisor.com/ver-canal-plus-deportes-en-directo-gratis-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>  </item>
+
+
+<item>
+<title>[COLOR BLACK]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 2)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes1.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>   
