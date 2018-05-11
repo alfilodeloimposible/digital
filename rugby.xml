@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #0 [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail> 
+<fanart>https://www.comparaiso.es/images/cero-logo3-300.jpg</fanart>  
+</item>
+
 <item>
 <title>[COLOR BLACK]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 1)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -15,7 +30,7 @@
 
 
 <item>
-<title>[COLOR BLACK]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 2)[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]RUGBY (Opción 2)[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
