@@ -1,54 +1,57 @@
 ﻿{
-  "name": "NOMBRE DE LISTA",
-  "author": "ComoSeHace � 2016",
-  "url": "URL DE LA LISTA",
+  "name": "🏆 CHAMPIONS LEAGUE 🏆",
+  "author": "ListasWiseplay.com",
+  "info": "🏆 Lista exclusiva para Champions League. ACTUALIZADA. No olvides recomendarla a tus amigos! 🏆",
+  "url": "https://pastebin.com/s4sZx7a8",
   "groups": [
-    
-	{
-      "name": "NOMBRE DEL MODULO",
-      "image": "https://sites.google.com/site/mundofpc/colombia.png",
+    {
+      "name": "beIN Sports",
+      "image": "https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",
+      "info": "IMPORTANTE: Sincroniza la lista cuando vayas a ver un evento, así te garantizas tener las últimas y mejores señales disponibles. Para los canales que se abren externamente, pulsar en el icono de Play (parte superior derecha) con un círculo en cuanto aparezca para abrir en el reproductor.",
       "stations": [
-        
-        {
-                        "name": "Canal 1)",
-                        "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
-                        "url": "http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7293.m3u8",
-                        "referer": "http://vuelaverde.com/canales/rcn-hd.html",
-                        "isHost": "true"
+
+{
+          "name": "Bein Sports 1️⃣",
+          "image": "http://todocanales.net/wp-content/uploads/2014/04/bein-sports.jpg",
+          "url": "http://vergol.com/live3/beinsport.php",
+          "referer": "http://verliga.net/live/verliga5.php",
+          "isHost": true
         },
-        {
-                        "name": "Canal 2",
-                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
+        
+        {    
+            "name": "Bein Sport 2️⃣",
+"image": "http://www1.movistarplus.es/recorte/m-NEO/canal/CHUEFA",
+"url": "http://vergol.com/live3/beinsport.php",
+"referer": "http://verliga.net/live/verliga5.php",
+"isHost": true
+         
         },
 
+{
+            "name": "Bein Sport 3️⃣",
+             "image": "http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2015/07/logo-bein-header-small.png",
+            "url": "http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/566/index.m3u8",
+            "embed": true
+        }
+
+
        ]
-    },
-    {
-      "name": "NOMBRE DEL MODULO",
-      "image": "https://sites.google.com/site/mundofpc/documentales.png",
+},
+{
+"name": "Antena 3 / TV3 (Partidos en Abierto)",
+      "image": "https://image.prntscr.com/image/jyRQ-uyDQcqcDwDwKjQTzQ.png",
+      "info": "IMPORTANTE: Sincroniza la lista cuando vayas a ver un evento, así te garantizas tener las últimas y mejores señales disponibles. Para los canales que se abren externamente, pulsar en el icono de Play (parte superior derecha) con un círculo en cuanto aparezca para abrir en el reproductor.",
       "stations": [
         
-                {
-                        "name": "Canal 3",
-                        "image": "http://www.lapampa.gov.ar/images/stories/Imagenes/Ima_home/canal_3_09-02.jpg",
-                        "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
-                },
-				{
-                        "name": "Canal 4",
-                        "image": "http://www.canal4jujuy.com.ar/img/logo.jpg",
-                        "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
-                        "referer": "http://tvpor-internet.com/discovery-latino-en-vivo.html",
-                        "isHost": "true"
-                },
-                
+         	{
+           "name": "TV3 Cat",
+           "image": "http://www.abyssiniafilms.com/docs/00%20del%20vent%20al%20blau/LOGO%20TV3%20OFICIAL%20-%20FONS%20NEGRE.jpg",
+           "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8"
+        },
+
+      { "name": "Antena 3", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/A3HD.png", "url": "http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_4_av-p.m3u8?sd=10&rebase=on" },
+
        ]
-    },
-    
-    
-    
-		
-		
-		
-                ]
+}
+   ]
 }
