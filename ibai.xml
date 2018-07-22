@@ -11,3 +11,16 @@
 <fanart>https://moobys.es/wp-content/uploads/2017/11/movistar_disney-1024x365.jpg</fanart>
 <thumbnail>https://moobys.es/wp-content/uploads/2017/11/movistar_disney-1024x365.jpg</thumbnail>   </item>
 
+<!--Movistar + Estrenos (http://verplusonline.com/movistar-estrenos/)-->
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Movistar Disney[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movestr&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg</fanart>
+<thumbnail>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg</thumbnail>   </item>
