@@ -1,6 +1,6 @@
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] PRUEBA #0[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Movistar Disney[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
