@@ -230,12 +230,12 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Calle 13[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] PRUEBA #0[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=calltrees&width=650&height=400</page>
+<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
