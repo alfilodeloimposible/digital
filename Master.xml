@@ -11,7 +11,7 @@
 <title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Peliculas 2018[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculas2018.m3u/thumbnail>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculas2018.m3u>
 </item>
 
   <item>
