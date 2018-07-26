@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]02 [/B] de MAYO de 2018 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 27 [/B] de JULIO de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+<item>
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] DCINE[/COLOR]// [/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/dcine.php</thumbnail>
 </item>
 
   <item>

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:2003
+#EXTINF:10.0,
+http://xxedge1397.livesports.pw/live/mdcine/media-u4e2i70f2_2003.ts?md5=USIXSwAsarcFQQ8yet7e0A&expires=1532703309
+#EXTINF:10.0,
+http://xxedge1397.livesports.pw/live/mdcine/media-u4e2i70f2_2004.ts?md5=USIXSwAsarcFQQ8yet7e0A&expires=1532703309
+#EXTINF:10.0,
+http://xxedge1397.livesports.pw/live/mdcine/media-u4e2i70f2_2005.ts?md5=USIXSwAsarcFQQ8yet7e0A&expires=1532703309
