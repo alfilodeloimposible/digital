@@ -72,3 +72,17 @@
 <fanart></fanart>
 <thumbnail></thumbnail>   
 </item>
+<!--Movistar + Acción (http://verplusonline.com/movistar-accion/)-->
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Liga Santander/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://cdn.whostreams.net:8080/hls/z1963.m3u8?s=8PV7s6nio5gNxq8BTNSjJw&e=1534642694</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart></fanart>
+<thumbnail></thumbnail>   
+</item>
+
