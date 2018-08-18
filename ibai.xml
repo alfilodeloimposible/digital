@@ -79,7 +79,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://cdn.whostreams.net:8080/hls/z1963.m3u8?s=8PV7s6nio5gNxq8BTNSjJw&e=1534642694</page>
+<page>http://emb.aliez.me/player/live.php?id=39654&w=700&h=480</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart></fanart>
