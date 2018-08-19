@@ -10,6 +10,19 @@
 
 
 <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] PRUEBA #0[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2a.php?file=movistarcero&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
+<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
+
+
+<item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Telecinco[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
@@ -35,7 +48,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
+<page>http://livesports.pw/embeddeporte2a.php?file=la1&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>  
@@ -48,7 +61,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=la2&width=650&height=397</page>
+<page>http://livesports.pw/embeddeporte2a.php?file=la2&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
@@ -61,7 +74,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=antena3&width=650&height=397</page>
+<page>http://livesports.pw/embeddeporte2a.php?file=antena3&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>  
@@ -95,34 +108,19 @@
 <fanart>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png/fanart>
  </item>
  
-
-<!--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
+ 
+ <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] DARK [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=darkes&width=650&height=397</page>
+<page>http://livesports.pw/embeddeporte2.php?file=darkes&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</fanart>
-<thumbnail>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</thumbnail>   </item>
-
+<thumbnail>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</thumbnail> 
+</item>
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] CRIMEN E INVESTIGACION[/UPPERCASE][/COLOR] </title>
@@ -130,20 +128,24 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=crimenyinvestigacion&width=650&height=400</page>
+<page>http://livesports.pw/embeddeporte2.php?file=crimenyinvestigacion&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg</thumbnail>  
 <fanart>http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg</fanart>
  </item>
-
+ 
+ 
+ 
+ 
+<!--
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] A"&"E [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
+<page>http://livesports.pw/embeddeporte2.php?file=anadetelefive&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://logonoid.com/images/a-and-e-logo.png</fanart>
@@ -227,17 +229,6 @@
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>   </item>
 
 
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] PRUEBA #0[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
-<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] #0 [/UPPERCASE][/COLOR] </title>
@@ -502,7 +493,7 @@
 
 <item>
 		<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Caza Y Pesca[/UPPERCASE][/COLOR] </title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embeddeporte2.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://verplusonline.com/ver-caza-y-pesca-online/</referer>
 		<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png</thumbnail>  
 <fanart>http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg</fanart> 
@@ -515,7 +506,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=odiseatelef&width=650&height=400</page>
+<page>http://livesports.pw/embeddeporte2.php?file=odiseatelef&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://vercanalestv.com/logos/odisea.png</thumbnail>  
@@ -528,7 +519,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=sysfesp&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte2.php?file=sysfesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://picon.space/syfy.png</thumbnail>  
@@ -571,7 +562,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=400</page>
+<page>http://livesports.pw/embeddeporte2.php?file=hollywesp&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png</thumbnail>  
@@ -585,7 +576,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=foxespana&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte2.php?file=foxespana&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.itver.cc/wp-content/uploads/2015/07/FOX-HD.jpg</thumbnail> 
@@ -639,7 +630,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=disneychannel&width=650&height=397</page>
+<page>http://livesports.pw/embeddeporte2.php?file=disneychannel&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail >http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg</thumbnail>  
@@ -985,7 +976,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
+<page>http://livesports.pw/embeddeporte2a.php?file=la1&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
