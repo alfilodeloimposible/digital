@@ -1,12 +1,102 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 27 [/B] de JULIO de 2018 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 20 [/B] de AGOSTO de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
+
+
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]ACESTREAM[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]MOVISTAR +[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
+</item>
+<!--
+<item>
+<title>[COLOR lightgreen][B]LIGA + PARTIDAZO[/B][/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/ligpartidazo.xml</externallink>
+</item>
+
+<item>
+<title> [COLOR lightgreen][B]BEING SPORT FR[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCAR  EVENTOS[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/buscadores.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR black][B]Final Euroliga Basket[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/rugby.xml</externallink>
+</item>
+
+
+
+<tem>
+<title> [COLOR chartreuse]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title> [COLOR lightgreen][B]LISTAS ACEOP[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/aceop.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[UPPERCASE][COLOR skyblue] A[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://www.rapifutbol.tv/canal/2058/canal-hollywood/</page>
+<referer>http://www.rapifutbol.tv/canal/2058/canal-hollywood/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>/wp-content/uploads/2016/09/beinsportsp.jpg</thumbnail>  
+ </item>
+
+<item>
+
+<title>[COLOR gold]*[/COLOR][COLOR red]Audiolibros---VOZ HUMANA---[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
+</item>
 <item>
 <title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Prueba cero m3u[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
@@ -157,15 +247,10 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
--->
 
-<item>
-<title>[COLOR yellow]AlfonStreams> rugby[COLOR=mediumvioletred](rugby)[COLOR green][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://2845d0e57d899ffb1469f05e00f6bf0b88295f90;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-<!--
+
+
+
 <item>
 <title>[COLOR yellow]AlfonStreams>LEGANES-LAS PALMAS[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
@@ -247,7 +332,7 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
--->
+
 
 
 <item>
@@ -282,124 +367,4 @@ DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de siti
 </item>
 <item>
 
-
-<item>
-<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]ACESTREAM[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCAR  EVENTOS[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/buscadores.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR black][B]Final Euroliga Basket[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
-<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/rugby.xml</externallink>
-</item>
-
-
-<item>
-<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]MOVISTAR +[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
-<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lightgreen][B]LIGA + PARTIDAZO[/B][/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
-<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/ligpartidazo.xml</externallink>
-</item>
-
-<item>
-<title> [COLOR lightgreen][B]BEING SPORT FR[/B][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.xml</externallink>
-</item>
-
-
-
-
-
-<tem>
-<title> [COLOR chartreuse]*******************************[/COLOR] </title>	
-<link>$doregex[makelist]</link>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title> [COLOR lightgreen][B]LISTAS ACEOP[/B][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/aceop.xml</externallink>
-</item>
-
-
-
-<!--
-
-<item>
-<title>[UPPERCASE][COLOR skyblue] A[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://www.rapifutbol.tv/canal/2058/canal-hollywood/</page>
-<referer>http://www.rapifutbol.tv/canal/2058/canal-hollywood/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>/wp-content/uploads/2016/09/beinsportsp.jpg</thumbnail>  
- </item>
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR gold]*[/COLOR][COLOR lime][B]Youtube[/B][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://www.ohmygeek.net/wp-content/uploads/2013/09/youtube.jpg</thumbnail><fanart>http://www.ohmygeek.net/wp-content/uploads/2013/09/youtube.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/youtube.xml</externallink>
-</item>
-
-
-
-
-
-
-
-
-<!-- <item>
-<title>[COLOR gold]*[/COLOR][COLOR red]Audiolibros---VOZ HUMANA---[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
-</item>
  -->
