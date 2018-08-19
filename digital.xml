@@ -10,7 +10,7 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Telecinco[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Telecinco[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -22,12 +22,25 @@
 <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>   </item>
 
 <item>
-<title>[COLOR  gold]**  [/COLOR][COLOR slateblue]CANAL COCINA[/COLOR]</title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Canal Cocina[/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://livesports.pw/embeddeporte2.php?file=cocinaesp&width=650&height=397</sportsdevil>
 <referer>http://verbeinlaliga.com/ver-canal-cocina-onlin/</referer>
 <thumbnail>http://verplusonline.com/wp-content/uploads/2015/07/cocina.png </thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] TVE La 1[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>  
+<fanart>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</fanart>
+ </item>
 
 <!--
 
@@ -65,7 +78,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=tvdostelefive&width=650&height=400</page>
+<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
