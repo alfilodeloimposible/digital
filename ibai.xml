@@ -79,7 +79,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://static.castto.me/embedlivesrvjs.php?channel=1466506742&vw=700&vh=470</page>
+<page>http://webtv.ws/embeds.php?live=bf1s&vw=620&vh=490</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart></fanart>
