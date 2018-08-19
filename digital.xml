@@ -41,89 +41,56 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>  
 <fanart>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</fanart>
  </item>
+ 
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] TVE La 2[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=la2&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
+<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
+ </item>
+ 
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Antena 3/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=antena3&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>  
+<fanart>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</fanart>
+ </item>
+ 
+ 
+  <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Antena 3/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=cuatro&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>  
+<fanart>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</fanart>
+ </item>
+ 
+ 
+ 
 
 <!--
 
 
- <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Telecinco[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>https://vergol.com/canales/live1/teledeporte.php</page>
-<referer>https://vercanalestv1.com/ver-teledeporte-online-y-directo-gratis-y-fuera-de-espana/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
-<fanart>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</fanart>   </item>
-
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] La 1 [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/tve1.php</page>
-<referer>http://www.vercanalestv.com/ver-tve-1-la-1-online-en-directo-gratis-24h-por-internet/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
-<fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
 
 
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#La 2[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
-<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
- </item>
- 
- 
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#roja Directa[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.sunhd.info/embed.php?c=111&width=640&height=400&autostart=true</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
-<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
- </item>
 
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Antena 3[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/antena3.php</page>
-<referer>http://www.vercanalestv.com/ver-antena-3-online-y-en-directo-24h-gratis/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>
-<fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
-
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Cuatro[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cuatro.php</page>
-<referer>http://www.vercanalestv.com/ver-cuatro-en-directo-y-online-gratis-fuera-de-espana-la-cuatro-hd-online/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/__q5vYNQrMKs/TIf616E4HNI/AAAAAAAABW8/lrSKanXIwxA/s400/cuatro_logo%5B1%5D.png</fanart>   </item>
 
 
 
@@ -983,6 +950,87 @@
 <thumbnail>http://www.supernovelty.com/imagenes/canales/gol-tv.png</thumbnail>
 <fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
 </item>
+
+
+  <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Telecinco[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>https://vergol.com/canales/live1/teledeporte.php</page>
+<referer>https://vercanalestv1.com/ver-teledeporte-online-y-directo-gratis-y-fuera-de-espana/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] La 1 [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tve1.php</page>
+<referer>http://www.vercanalestv.com/ver-tve-1-la-1-online-en-directo-gratis-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#La 2[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
+<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
+ </item>
+ 
+ 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite]#roja Directa[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.sunhd.info/embed.php?c=111&width=640&height=400&autostart=true</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
+<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
+ </item>
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Antena 3[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/antena3.php</page>
+<referer>http://www.vercanalestv.com/ver-antena-3-online-y-en-directo-24h-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Cuatro[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cuatro.php</page>
+<referer>http://www.vercanalestv.com/ver-cuatro-en-directo-y-online-gratis-fuera-de-espana-la-cuatro-hd-online/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/__q5vYNQrMKs/TIf616E4HNI/AAAAAAAABW8/lrSKanXIwxA/s400/cuatro_logo%5B1%5D.png</fanart>   </item>
+ 
  
 
  -->
