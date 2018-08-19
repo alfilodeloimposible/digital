@@ -1,5 +1,24 @@
+
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Teledeporte[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=telecinco&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
+
+<!--
+<item>
+<title> [COLOR yellowgreen][B]**********[COLOR orangered]------TDT-----[/COLOR] **********[/B][/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Telecinco[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -10,24 +29,6 @@
 </regex>
 <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
 <fanart>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</fanart>   </item>
-
-<!--
-<item>
-<title> [COLOR yellowgreen][B]**********[COLOR orangered]------TDT-----[/COLOR] **********[/B][/COLOR] </title>	
-<link>$doregex[makelist]</link>
-</item>
-
- <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Teledeporte[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] La 1 [/UPPERCASE][/COLOR] </title>
