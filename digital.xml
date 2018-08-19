@@ -11,6 +11,14 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
 
+<item>
+		<title>[COLOR  lime]•  [/COLOR][COLOR slateblue]CANAL COCINA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embeddeporte2.php?file=cocinaesp&width=650&height=397</sportsdevil>
+		<referer>http://verbeinlaliga.com/ver-canal-cocina-onlin/</referer>
+		<thumbnail>http://verplusonline.com/wp-content/uploads/2015/07/cocina.png </thumbnail>
+		<fanart></fanart>
+	</item>
+
 <!--
 <item>
 <title> [COLOR yellowgreen][B]**********[COLOR orangered]------TDT-----[/COLOR] **********[/B][/COLOR] </title>	
@@ -498,13 +506,7 @@
 
 
 
-<item>
-		<title>[COLOR  lime]•  [/COLOR][COLOR slateblue]CANAL COCINA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/cocina</referer>
-		<thumbnail>http://verplusonline.com/wp-content/uploads/2015/07/cocina.png </thumbnail>
-		<fanart></fanart>
-	</item>
+
 	
 	pagina en <referer>http://telefivegb.com/canales/documental/cocina/</referer>
 	referer en <sportsdevil>http://livesports.pw/embed2.php?file=cocinaesp&width=650&height=397</sportsdevil>
