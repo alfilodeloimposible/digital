@@ -66,6 +66,10 @@
 <thumbnail>https://vignette2.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png</thumbnail>   
 <fanart>http://tecavicas.es/wp-content/uploads/2013/03/tnt.jpg</fanart>
 </item>
+
+
+
+
  
  <item>
 <title>[COLOR gold]** [UPPERCASE] TCM [/UPPERCASE][/COLOR] </title>
@@ -93,18 +97,14 @@
 <fanart>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</fanart>
  </item>
  
+ 
  <item>
 <title>[COLOR gold]** [UPPERCASE] DARK [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=darkes&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
+<sportsdevil>http://livesports.pw/embeddeporte2.php?file=darkes&width=650&height=397</sportsdevil>
+<referer>http://verbeinlaliga.com/dark-espana/</referer>
 <thumbnail>http://i66.tinypic.com/25utima.jpg</thumbnail>  
 <fanart>http://i66.tinypic.com/25utima.jpg</fanart>
- </item>
+</item>
  
  
 <!--
