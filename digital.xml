@@ -23,6 +23,19 @@
 
 
 <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] #Movistar + DCine (Opción 2) [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>https://vergol.com/canales/live/dcine.php</page>
+<referer>http://filmax2.blogspot.com/2013/09/tvenganchadocom-juanintvnet-ver-partido.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail> 
+<fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
+
+<item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Telecinco[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
@@ -94,19 +107,21 @@
 <fanart>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</fanart>
  </item>
  
- 
-  <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Cuatro[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]]Cuatro[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=cuatro&width=650&height=397</page>
-<cookieJar></cookieJar>
+<page>https://vergol.com/canales/live1/cuatro.php</page>
+<referer>http://vercanalestv1.com/ver-cuatro-en-directo-y-online-gratis-fuera-de-espana-la-cuatro-hd-online/</referer>
+<agent>iPad</agent>
 </regex>
-<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>  
-<fanart>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</fanart>
- </item>
+<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>   
+<fanart>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</fanart>  </item>
+ 
+ 
+ 
  
  <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]La Sexta[/UPPERCASE][/COLOR] </title>
@@ -266,10 +281,24 @@
 
 
 
-<
+
 
  
 <!--
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Cuatro[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=cuatro&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>  
+<fanart>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</fanart>
+ </item>
+
 item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Liga Santander[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
@@ -505,18 +534,7 @@ item>
 <thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail> 
 <fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
 
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] #Movistar + DCine (Opción 2) [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/dcine.php</page>
-<referer>http://www.verliga.net/ver-canal-plus-dcine-online-gratis-en-directo.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail> 
-<fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
+
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] #Movistar + Disney [/UPPERCASE][/COLOR] </title>
