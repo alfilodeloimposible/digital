@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]  #0#[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]** [UPPERCASE] # 0 #[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -38,7 +38,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>   </item>
 
 <item>
-<title>[COLOR gold]** [UPPERCASE]FOX/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]** [UPPERCASE]FOX[/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://livesports.pw/embeddeporte2.php?file=foxespana&width=650&height=397</sportsdevil>
 <referer>http://verbeinlaliga.com/fox-espana/</referer>
 <thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
@@ -59,6 +59,13 @@
 <fanart>http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg</fanart>
 </item>
  
+ <item>
+<title>[COLOR gold]** [UPPERCASE] TNT [/UPPERCASE][/COLOR] </title>
+<sportsdevil>http://livesports.pw/embeddeporte2.php?file=tnt&width=650&height=397</sportsdevil>
+<referer>http://verbeinlaliga.com/tnt/</referer>
+<thumbnail>https://vignette2.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png</thumbnail>   
+<fanart>http://tecavicas.es/wp-content/uploads/2013/03/tnt.jpg</fanart>
+</item>
  
  
 <!--
