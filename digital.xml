@@ -68,7 +68,7 @@
 </item>
  
  <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]]TCM[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]** [UPPERCASE] TCM [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -79,6 +79,33 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png</thumbnail>  
 <fanart>https://i.pinimg.com/736x/86/c7/bd/86c7bdc3bd10e962e9a31bea3e575d72--vintage-cartoons-classic-cartoons.jpg</fanart>
  </item>
+ 
+ <item>
+<title>[COLOR gold]** [UPPERCASE] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=hollywesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png</thumbnail>  
+<fanart>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</fanart>
+ </item>
+ 
+ <item>
+<title>[COLOR gold]** [UPPERCASE] DARK [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=darkes&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i66.tinypic.com/25utima.jpg</thumbnail>  
+<fanart>http://i66.tinypic.com/25utima.jpg</fanart>
+ </item>
+ 
  
 <!--
 
@@ -492,18 +519,7 @@ item>
  </item>
 
  
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=hollywesp&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png</thumbnail>  
-<fanart>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</fanart>
- </item>
+
  
 
 <item>
