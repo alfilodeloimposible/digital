@@ -34,6 +34,19 @@
 <fanart>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</fanart>
 <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>   </item>
 
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Telecinco[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=telecinco&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</fanart>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>   </item>
+
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Canal Cocina[/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://livesports.pw/embeddeporte2.php?file=cocinaesp&width=650&height=397</sportsdevil>
