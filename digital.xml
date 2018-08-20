@@ -40,18 +40,34 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=movistarseriesxtra&width=650&height=397/page>
+<page>http://livesports.pw/embeddeporte2.php?file=movistarseriesxtra&width=650&height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>   </item>
 
 <item>
-		<title>[COLOR darkorchid]FOX[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embeddeporte2.php?file=foxespana&width=650&height=397</sportsdevil>
-		<referer>http://verbeinlaliga.com/fox-espana/</referer>
-		<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
-	</item>
+<title>[COLOR darkorchid]FOX[/COLOR]</title>
+<sportsdevil>http://livesports.pw/embeddeporte2.php?file=foxespana&width=650&height=397</sportsdevil>
+<referer>http://verbeinlaliga.com/fox-espana/</referer>
+<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
+</item>
 
+<item>
+<title>[COLOR darkorchid]FOX live[/COLOR]</title>
+<sportsdevil>http://livesports.pw/embeddeporte2.php?file=foxlive&width=650&height=397</sportsdevil>
+<referer>http://verbeinlaliga.com/fox-live-espana/</referer>
+<thumbnail>http://verplusonline.com/wp-content/uploads/2013/06/foxlive.png</thumbnail>
+</item>	
+	
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] AXN[/UPPERCASE][/COLOR] </title>
+<sportsdevil>http://livesports.pw/embeddeporte2.php?file=axn&width=650&height=397</sportsdevil>
+<referer>http://verbeinlaliga.com/axn-espana/</referer>
+<thumbnail>http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/AXN.png</thumbnail>   
+<fanart>http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg</fanart>
+</item>
+ 
+ 
  
 <!--
 
@@ -221,19 +237,7 @@ item>
 <fanart>http://1.bp.blogspot.com/-4EkwfMcookI/VYxmBe5wHiI/AAAAAAAAH5s/TMSsCxcc1NQ/s1600/mega-logo-atresmedia.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] #AXN[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/axn.php</page>
-<referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/AXN.png</thumbnail>   
-<fanart>http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] #AXN WHITE[/UPPERCASE][/COLOR] </title>
