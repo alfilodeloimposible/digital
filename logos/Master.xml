@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 20 [/B] de AGOSTO de 2018 [/COLOR]// [/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lightgreen][B]<img>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/logos/fox.png</img>[/B][/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/ligpartidazo.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]ACESTREAM[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]MOVISTAR +[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
+</item>
+<!--
+<item>
+<title>[COLOR lightgreen][B]<img>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/logos/fox.png</img>[/B][/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/ligpartidazo.xml</externallink>
+</item>
+
+<item>
+<title> [COLOR lightgreen][B]BEING SPORT FR[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsports.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCAR  EVENTOS[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/buscadores.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR black][B]Final Euroliga Basket[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/rugby.xml</externallink>
+</item>
+
+
+
+<tem>
+<title> [COLOR chartreuse]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title> [COLOR lightgreen][B]LISTAS ACEOP[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/aceop.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[UPPERCASE][COLOR skyblue] A[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://www.rapifutbol.tv/canal/2058/canal-hollywood/</page>
+<referer>http://www.rapifutbol.tv/canal/2058/canal-hollywood/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>/wp-content/uploads/2016/09/beinsportsp.jpg</thumbnail>  
+ </item>
+
+<item>
+
+<title>[COLOR gold]*[/COLOR][COLOR red]Audiolibros---VOZ HUMANA---[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
+</item>
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Prueba cero m3u[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Eclipse Lunar Julio[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/eclipse.m3u</externallink>
+</item>
+
+
+  <item>
+<title>[COLOR red][B]:):)[/B][/COLOR]  [COLOR lightgreen][B]Ibai [/B][COLOR red][B]:):)[/B](:(:[/COLOR]  </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/ibai.xml</externallink>
+</item>
+
+ 
+ <item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]CELL[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/estrenos.m3u</externallink>
+</item>
+ 
+<tem>
+<title>
+DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.</title>
+<link>http://ignorame</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+<externallink></externallink>
+</item>
+
+<tem>
+<title> [COLOR lightgreen][B] ********MARCEEEE****** PELIS DE  ESTRENOS[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelisregio.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR red][B]www.tvporinternet[/B]  [/COLOR]  [COLOR red]  ###@@@[/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/tvporinternet.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR red]@@@### [/COLOR] [COLOR black][B]ESTRENOS  [/B]  [/COLOR]  [COLOR red]  ###@@@[/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/estrenos.m3u</externallink>
+</item>
+
+<tem>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]TAQUILLAS [/COLOR][COLOR skyblue]+[/COLOR] [/B]</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist3.param2][/COLOR]</title>
+        <link>$doregex[makelist]</link>
+        ]]></listrepeat>
+<expres>peliculas:"(.*?)" name:"(.*?)";</expres>
+<page>http://adryanlist.org/adryan/kozm.txt</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>$doregex[poster]</thumbnail>
+		<info>$doregex[plot]</info>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>[makelist3.param1]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
+</item>
+
+
+
+ <title> [COLOR chartreuse]*******************************[/COLOR] </title>	 
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]IPTV[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B] Peliculas IPTV[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculasiptv.m3u</externallink>
+</item>
+<!--
+<item>
+<title> [COLOR chartreuse]Por los siguientes canales se podrán ver estos partidos:[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+<tem>
+<title> [COLOR chartreuse]ALAVES-VALENCIA// REAL MADRID-LEGANES[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>LEGANES-LAS PALMAS[COLOR=mediumvioletred](AV 1)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>LEGANES-LAS PALMAS[COLOR=mediumvioletred](AV 2)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>RAYO VALLECANO-HUESCA[COLOR=mediumvioletred](AV 8)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3cfe9b2efa61cb7e927bc2e81a91946379435432;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AlfonStreams>RAYO VALLECANO-HUESCA[COLOR=mediumvioletred](AV 9)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://3cfe9b2efa61cb7e927bc2e81a91946379435432;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<tem>
+<title>[COLOR yellow]AlfonStreams>FINAL BASKET COPA DEL REY[COLOR=mediumvioletred](AV 6)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://fda8d8c69dafabc2705269a1622fbb08e69e7778;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
+<title>[COLOR yellow]AlfonStreams> Real Madrid - PSG[COLOR=mediumvioletred](AV 13)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 14)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://aed7c6a05565d8f8a57c0e6f101a04fb89743253&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 27)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
+<title>[COLOR yellow]AlfonStreams>Real Madrid - PSG[COLOR=mediumvioletred](AV 28)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<tem>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 19)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<tem>
+<title>[COLOR yellow]AlfonStreams>[COLOR=mediumvioletred](AV 20)[COLOR green][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+
+<item>
+<title> [COLOR chartreuse]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Peliculas[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pelis2.m3u</externallink>
+</item>
+
+
+
+<tem>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]pelis y canales[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/canal3.m3u</externallink>
+</item>
+
+<tem>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]MIS PELIS Y SERIES[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/mispelis.xml</externallink>
+</item>
+<item>
+
+ -->
