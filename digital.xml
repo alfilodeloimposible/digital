@@ -15,7 +15,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2a.php?file=movistarcero&width=650&height=397</page>
+<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
@@ -239,12 +239,12 @@
 <!--Movistar + Acción (http://verplusonline.com/movistar-accion/)-->
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] Liga Santander[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Liga Santander[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://webtv.ws/embeds.php?live=bf1s&vw=620&vh=490</page>
+<page>http://webtv.ws/embed.php?live=bf1s&vw=620&vh=490</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://logonoid.com/images/a-and-e-logo.png</fanart>
