@@ -67,6 +67,18 @@
 <fanart>http://tecavicas.es/wp-content/uploads/2013/03/tnt.jpg</fanart>
 </item>
  
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]]TCM[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=tcmesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png</thumbnail>  
+<fanart>https://i.pinimg.com/736x/86/c7/bd/86c7bdc3bd10e962e9a31bea3e575d72--vintage-cartoons-classic-cartoons.jpg</fanart>
+ </item>
  
 <!--
 
