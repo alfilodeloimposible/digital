@@ -8,7 +8,13 @@
 </item>
 
 
-
+<item>
+<title>[COLOR lightgreen][B]Partidazo[/B][/COLOR] </title>
+<link>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/logos/fox.png</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/ligpartidazo.xml</externallink>
+</item>
 
 <item>
 <title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]ACESTREAM[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
@@ -28,7 +34,7 @@
 </item>
 <!--
 <item>
-<title>[COLOR lightgreen][B]LIGA + PARTIDAZO[/B][/COLOR] </title>
+<title>[COLOR lightgreen][B]<img>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/logos/fox.png</img>[/B][/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
