@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-<title>[COLOR goldenrod][B]Sporting CP v Juventus[/B][/COLOR]</title>
- <sportsdevil>https://vergol.com/canales/live/plusestrenos.php</sportsdevil> 
- <referer></referer>
- <thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> 
- </item>
- 
+
 <item>
 <title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 20 [/B] de AGOSTO de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
@@ -13,12 +7,17 @@
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
-
+<item>
+        <title>[COLOR red]MOVISTAR DCINE Ñ[/COLOR]</title>
+        <sportsdevil>http://livesports.pw/embednan.php?file=dicneesp&width=100%&height=100%</sportsdevil>
+        <referer>http://telefivegb.com/animacion/ver-el-canal-dcine-n-en-vivo-y-gratis-online/</referer>   
+        <thumbnail>http://vercanalestv.com/imagenes/movistar-dcine-espanol.jpg</thumbnail>
+    </item>
 
 <item>
 <title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]ACESTREAM[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/beingsport.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
 </item>
 
 
