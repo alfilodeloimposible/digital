@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] PRUEBA #0[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]  #0#[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -15,7 +15,7 @@
 <thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
 
 <item>
-<title>[UPPERCASE][COLOR darkorchid]  MOVISTAR SERIES[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]** [UPPERCASE]MOVISTAR SERIES[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -27,7 +27,7 @@
 
 
 <item>
-<title>[UPPERCASE][COLOR darkorchid]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]** [UPPERCASE]MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -38,23 +38,23 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>   </item>
 
 <item>
-<title>[COLOR darkorchid]FOX[/COLOR]</title>
+<title>[COLOR gold]** [UPPERCASE]FOX/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://livesports.pw/embeddeporte2.php?file=foxespana&width=650&height=397</sportsdevil>
 <referer>http://verbeinlaliga.com/fox-espana/</referer>
 <thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkorchid]FOX live[/COLOR]</title>
+<title>[COLOR gold]** [UPPERCASE]FOX live[/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://livesports.pw/embeddeporte2.php?file=foxlive&width=650&height=397</sportsdevil>
 <referer>http://verbeinlaliga.com/fox-live-espana/</referer>
 <thumbnail>http://verplusonline.com/wp-content/uploads/2013/06/foxlive.png</thumbnail>
 </item>	
 	
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] AXN[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]** [UPPERCASE] AXN [/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://livesports.pw/embeddeporte2.php?file=axn&width=650&height=397</sportsdevil>
-<referer>http://verbeinlaliga.com/fox-live-espana/</referer>
+<referer>http://verbeinlaliga.com/axn-espana/</referer>
 <thumbnail>http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/AXN.png</thumbnail>   
 <fanart>http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg</fanart>
 </item>
