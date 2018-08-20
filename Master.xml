@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<item>
+<title>[COLOR goldenrod][B]Sporting CP v Juventus[/B][/COLOR]</title>
+ <sportsdevil>https://vergol.com/canales/live/plusestrenos.php</sportsdevil> 
+ <referer></referer>
+ <thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail> 
+ </item>
+ 
 <item>
 <title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 20 [/B] de AGOSTO de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
