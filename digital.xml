@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title> [COLOR yellowgreen][B]**********[COLOR orangered]------TDT-----[/COLOR] **********[/B][/COLOR] </title>	
-<link>$doregex[makelist]</link>
-</item>
 
-<item>
-<title> [COLOR orangered][B]***************************************************************[/B][/COLOR] </title>	
-<link>$doregex[makelist]</link>
-</item>
 
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] PRUEBA #0[/UPPERCASE][/COLOR] </title>
@@ -62,7 +54,7 @@
 <item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] AXN[/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://livesports.pw/embeddeporte2.php?file=axn&width=650&height=397</sportsdevil>
-<referer>http://verbeinlaliga.com/axn-espana/</referer>
+<referer>http://verbeinlaliga.com/fox-live-espana/</referer>
 <thumbnail>http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/AXN.png</thumbnail>   
 <fanart>http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg</fanart>
 </item>
