@@ -10,6 +10,17 @@
 <link>$doregex[makelist]</link>
 </item>
 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] PRUEBA #0[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
+<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
 
 <item>
 <title>[UPPERCASE][COLOR darkorchid]  MOVISTAR SERIES[/UPPERCASE][/COLOR] </title>
@@ -29,22 +40,19 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=seriesxtra&width=650&height=397</page>
+<page>http://livesports.pw/embeddeporte2.php?file=movistarseriesxtra&width=650&height=397/page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>   </item>
 
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] PRUEBA #0[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
-<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
+		<title>[COLOR darkorchid]FOX[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embeddeporte2.php?file=foxespana&width=650&height=397</sportsdevil>
+		<referer>http://verbeinlaliga.com/fox-espana/</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
+	</item>
+	
+<!--
 
 
 <item>
@@ -317,7 +325,7 @@
 
 
 
-<!--
+
 <item>
 <title>[UPPERCASE][COLOR darkorchid]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
