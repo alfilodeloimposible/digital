@@ -208,18 +208,22 @@
 
 <!--Movistar + Estrenos (http://verplusonline.com/movistar-estrenos/)-->
 
+
+
 <item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Movistar+ Estrenos[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<title>[UPPERCASE][COLOR darkorchid]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movestr&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<fanart>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg</fanart>
-<thumbnail>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg</thumbnail>
+<page>https://vergol.com/canales/live/plusestrenos.php/page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<referer>https://vercanalestv1.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
+</regex> 
+<thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail> 
 </item>
+	   
+
 
 
 <!--Movistar +Comedia (http://verplusonline.com/ver-canal-plus-comedia-hd-online-y-en-directo-las-24h-en-vivo/)-->
@@ -297,9 +301,9 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusestrenos.php</page>
+<page>https://vergol.com/canales/live/plusestrenos.php/page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/
+<referer>https://vercanalestv1.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
 </regex> 
 <thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail> 
 </item>
@@ -737,6 +741,18 @@
 		<thumbnail>https://lh3.googleusercontent.com/-ta6mEz3Qcy0/V8n3xWTtHII/AAAAAAAAAc4/97Xl94chUY4_t1n8xuiVj8TWLF14ZfbfACEw/h120/movistar-golf.png</thumbnail>
 	</item>
 	
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Movistar+ Estrenos[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movestr&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg</fanart>
+<thumbnail>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg</thumbnail>
+</item>
 
 	
 item>
