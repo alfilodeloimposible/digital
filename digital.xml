@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] # 0 # [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>https://vergol.com/canales/live/plus1.php</page>
+<referer>https://vercanalestv1.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette2.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png</thumbnail>   
+<fanart>http://tecavicas.es/wp-content/uploads/2013/03/tnt.jpg</fanart> 
+</item>
 
 <item>
-<title>[COLOR gold]** [UPPERCASE] # 0 #[/UPPERCASE][/COLOR] </title>
+<title>[COLOR gold]** [UPPERCASE] # 0 # Opción 2[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -200,16 +213,7 @@ item>
 
 
 
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red]] Discovery Channel [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/discovery-channel.php</page>
-<referer>http://www.vercanalestv.com/discovery-channel-en-vivo-por-internet/</referer>
-<agent>iPad</agent>
-</regex>
+
 
 <fanart>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png</fanart>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>   </item>
