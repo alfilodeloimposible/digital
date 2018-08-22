@@ -105,22 +105,22 @@
 <thumbnail>http://i66.tinypic.com/25utima.jpg</thumbnail>  
 <fanart>http://i66.tinypic.com/25utima.jpg</fanart>
 </item>
- 
- 
-<!--
-
-<item>
-<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Cuatro[/UPPERCASE][/COLOR] </title>
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR red] Liga Campeones[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=cuatro&width=650&height=397</page>
+<page> http://static.castto.me/embedlivesrvjs.php?channel=1820780381&vw=720&vh=420</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>  
 <fanart>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</fanart>
  </item>
+
+<!--
+
+
 
 item>
 <title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR navajowhite] Liga Santander[/UPPERCASE][/COLOR] </title>
