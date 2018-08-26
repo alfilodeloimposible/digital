@@ -16,16 +16,15 @@
 </item>
 
 <item>
-<title>[COLOR gold]** [UPPERCASE] ELEVEN   **1**[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<title>[COLOR gold]** [UPPERCASE]MOVISTAR Taquilla 1/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://kcdctv.co.uk:8080/live/cli1enta/mdjs2k78x/111064.m3u8</page>
-<cookieJar></cookieJar>
+<page>http://54.37.255.204:9977/live/FELIX/IPTV/35262.ts</page>
+<agent>VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git</agent>
 </regex>
-<fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
-<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>   </item>
 
 
 
