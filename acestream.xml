@@ -2,9 +2,18 @@
 
 
 <!-- Simplemente insertar la url del Acestream en url -->
+<item>
+<title>[COLOR green]AlfonStreams>(#Movistar Vamos )supercopa basket[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://19ce388232ea44be95c4cd69ec345250a06a0429&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+
 
 <item>
-<title>[COLOR red]AlfonStreams>(DIGI SPORT 3)TODA LA LIGA SANTANDER[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(DIGI SPORT 3)TODA LA LIGA SANTANDER[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://532bed3cb56922f60c2b9037640ab2bfeb288b04&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -12,36 +21,21 @@
 
 
 <item>
-<title>[COLOR red]AlfonStreams>(LA LIGA)RAYO VALLECANO-ALAVES[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(LA LIGA)RAYO VALLECANO-ALAVES[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 1)RAYO VALLECANO-ALAVES[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 1)RAYO VALLECANO-ALAVES[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 1)CELTA-REAL VALLADOLID[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-
-<item>
-<title>[COLOR red]AlfonStreams>(AV 1)GETAFE-ATLETICO MADRID[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red]AlfonStreams>(AV 1)REAL MADRID-ESPANYOL[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 1)CELTA-REAL VALLADOLID[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -49,14 +43,29 @@
 
 
 <item>
-<title>[COLOR red]AlfonStreams>(TELEKOM 3)REAL MADRID-ESPANYOL[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 1)GETAFE-ATLETICO MADRID[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]AlfonStreams>(AV 1)REAL MADRID-ESPANYOL[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR green]AlfonStreams>(TELEKOM 3)REAL MADRID-ESPANYOL[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://d5eb2e5059d544c31ac59773c159a35974567cb2/&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 1)LEVANTE-SEVILLA FC[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 1)LEVANTE-SEVILLA FC[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -64,14 +73,14 @@
 
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 1)VILLARREAL-VALENCIA[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 1)VILLARREAL-VALENCIA[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 1)FC BARCELONA-GIRONA[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 1)FC BARCELONA-GIRONA[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -88,21 +97,21 @@
 
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 19)ATHLETIC CLUB-LEGANES[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 19)ATHLETIC CLUB-LEGANES[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://bbfa34a6cd0e0f02e410c0d76f8634b7e8f05bdd;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 20)ATHLETIC CLUB-LEGANES[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 20)ATHLETIC CLUB-LEGANES[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://bbfa34a6cd0e0f02e410c0d76f8634b7e8f05bdd;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 12)GIMNASTIC TARRAGONA-TENERIFE[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 12)GIMNASTIC TARRAGONA-TENERIFE[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://092a156cc621fbffb898b44298f6e81b4ec7a7ef;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
@@ -111,21 +120,21 @@
 
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 9)Madrid[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 9)Madrid[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://c8949f027f2da0a68cfc53341827448b665fae9f&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 33)Madrid[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 33)Madrid[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://0bf91ec921c530dabc5a9994e0632fda11b8cc86&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red]AlfonStreams>(AV 34)Madrid[/COLOR]</title>
+<title>[COLOR green]AlfonStreams>(AV 34)Madrid[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://0bf91ec921c530dabc5a9994e0632fda11b8cc86&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
