@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 20 [/B] de AGOSTO de 2018 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 01 [/B] de OCTUBRE de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart> </fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
@@ -27,7 +27,7 @@
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] ENLACES DE TELEVISION DIGITAL[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
@@ -37,7 +37,7 @@
 
 
 
-<item>
+<tem>
 <title>[COLOR lightgreen][B]listas acestream[/B][/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
