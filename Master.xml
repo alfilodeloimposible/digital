@@ -19,7 +19,7 @@
 
 
 <item>
-<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] ENLACES DE TELEVISION DIGITAL[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] M3U LISTA[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
@@ -36,15 +36,15 @@
 </item>
 
 
-<!--
+
 <item>
 <title>[COLOR lightgreen][B]<img>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/logos/fox.png</img>[/B][/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/ligpartidazo.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/justicia.m3u</externallink>
 </item>
-
+<!--
 <item>
 <title> [COLOR lightgreen][B]BEING SPORT FR[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
