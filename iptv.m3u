@@ -292,7 +292,14 @@ http://iptvtool.es:9977/live/693102/iptv/36973.ts
 #EXTINF:-1,ES:MEZZO LIVE FULL HD
 http://iptvtool.es:9977/live/693102/iptv/36972.ts
 #EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
-http://
+#EXTINF:-1,RO: DIGISPORT 1
+http://iptvtool.es:9977/live/693102/iptv/35308.ts
+#EXTINF:-1,RO: DIGISPORT 2
+http://iptvtool.es:9977/live/693102/iptv/35307.ts
+#EXTINF:-1,RO: DIGISPORT 3
+http://iptvtool.es:9977/live/693102/iptv/35306.ts
+#EXTINF:-1,RO: DIGISPORT 4
+http://iptvtool.es:9977/live/693102/iptv/35305.ts
 #EXTINF:-1,NL: Ziggo Sport eXtra 1
 http://iptvtool.es:9977/live/693102/iptv/36273.ts
 #EXTINF:-1,NL: Ziggo Sport Extra 2
