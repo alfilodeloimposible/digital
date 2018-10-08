@@ -293,6 +293,18 @@ http://iptvtool.es:9977/live/693102/iptv/36973.ts
 http://iptvtool.es:9977/live/693102/iptv/36972.ts
 #EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
 http://
+#EXTINF:-1,NL: Ziggo Sport eXtra 1
+http://iptvtool.es:9977/live/693102/iptv/36273.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://iptvtool.es:9977/live/693102/iptv/36272.ts
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://iptvtool.es:9977/live/693102/iptv/36271.ts
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://iptvtool.es:9977/live/693102/iptv/36270.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://iptvtool.es:9977/live/693102/iptv/36269.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://iptvtool.es:9977/live/693102/iptv/36268.ts
 #EXTINF:-1,ES SP:BEIN LALIGA HD
 http://iptvtool.es:9977/live/693102/iptv/37189.ts
 #EXTINF:-1,ES SP:BEIN LALIGA FHD
