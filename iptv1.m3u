@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ TAQUILLA ☆▆ ▅ ▄ ▂ ▁
+http://
+#EXTINF:-1,TAQUILLA 1
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36959.ts
+#EXTINF:-1,TAQUILLA 2
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36958.ts
+#EXTINF:-1,TAQUILLA 3
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36957.ts
+#EXTINF:-1,TAQUILLA 4
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36956.ts
+#EXTINF:-1,TAQUILLA 5
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36955.ts
+#EXTINF:-1,TAQUILLA 6
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36954.ts
+#EXTINF:-1,TAQUILLA 7
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/37213.ts
+#EXTINF:-1,TAQUILLA 8
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/37212.ts
+#EXTINF:-1,TAQUILLA 9
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/37211.ts
+#EXTINF:-1,TAQUILLA 10
+http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/37210.ts
 #EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SPANISH CHANNELS ☆▆ ▅ ▄ ▂ ▁
 http://
 #EXTINF:-1,ES:LA 1
@@ -514,20 +536,7 @@ http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/37151.ts
 http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/37150.ts
 #EXTINF:-1,ES SP:TNT PARA MOVILES
 http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/37106.ts
-#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ TAQUILLA ☆▆ ▅ ▄ ▂ ▁
-http://
-#EXTINF:-1,TAQUILLA 1
-http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36959.ts
-#EXTINF:-1,TAQUILLA 2
-http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36958.ts
-#EXTINF:-1,TAQUILLA 3
-http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36957.ts
-#EXTINF:-1,TAQUILLA 4
-http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36956.ts
-#EXTINF:-1,TAQUILLA 5
-http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36955.ts
-#EXTINF:-1,TAQUILLA 6
-http://iptvtool.es:9977/live/Jordi/hRSZPwgiIs/36954.ts
+
 #EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ VOD ESPAÑA ☆▆ ▅ ▄ ▂ ▁
 http://
 #EXTINF:-1,Hey-arnold-una-peli-en-la-jungla
