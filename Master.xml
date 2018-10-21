@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 20 [/B] de OCTUBRE de 2018 [/COLOR]// [/COLOR] </title>	
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B] 21 [/B] de OCTUBRE de 2018 [/COLOR]// [/COLOR] </title>	
 <link>$doregex[makelist]</link>
 <fanart> </fanart>
 <thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Arenavision Regex[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail>
-<fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/arenavision.xml</externallink>
-</item>
 
+
+ <item>
+            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 7[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau7</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision.in/node/23</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://arenavision.in/sites/default/files/logo_av2015.png</thumbnail>
+            </item>
 
 
 <item>
@@ -62,14 +69,14 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 3)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 4)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv3.m3u</externallink>
 </item>
 <item>
-<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 4)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 5)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
