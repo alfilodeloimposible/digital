@@ -13,30 +13,30 @@
 
 
 <item>
-<title>[COLOR green]AlfonStreams>(DIGI SPORT 3)TODA LA LIGA SANTANDER[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://532bed3cb56922f60c2b9037640ab2bfeb288b04&amp;name=1</link>
+<title>[COLOR green]AlfonStreams>(SETANTA)FC BARCELONA-REAL MADRID[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://e02c9f657d0e3cd295d2811b8abe026ebb0b181d&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 
 <item>
-<title>[COLOR green]AlfonStreams>(LA LIGA)RAYO VALLECANO-ALAVES[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
+<title>[COLOR green]AlfonStreams>(LA LIGA)FC BARCELONA-REAL MADRID[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://f1991bd85f5a770ef28e5e0a74eddd54eb22f1a1;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR green]AlfonStreams>(AV 1)RAYO VALLECANO-ALAVES[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
+<title>[COLOR green]AlfonStreams>(TELEKOM1)RFC BARCELONA-REAL MADRID[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://f6d156113d1cba70db9c2855514a7df647e7f1dcca&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
 <title>[COLOR green]AlfonStreams>(AV 1)CELTA-REAL VALLADOLID[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://6a703df0f20ce6b041b1729d18722a3a131604ca&amp;name=1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://b0ab000e277b6465107f353df09b4ac75af8d38d&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
