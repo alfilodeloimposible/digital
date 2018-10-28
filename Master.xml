@@ -9,7 +9,7 @@
 
 
 
- <item>
+ <tem>
             <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 7[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau7</link>
             <regex>
@@ -31,19 +31,19 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]canales acestream de deportes[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]MOVISTAR +[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail>
 <fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/proyectoibai.html</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/nuevo.xml</externallink>
 </item>
-<item>
+<tem>
 <title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]WISE PLAY[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail>
 <fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/wise.m3u</externallink>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 1)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
@@ -52,7 +52,7 @@
 </item>
 
 
-<item>
+<tem>
 <title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 2)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
@@ -60,7 +60,7 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv1.m3u</externallink>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 3)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
@@ -68,14 +68,14 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv2.m3u</externallink>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 4)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv3.m3u</externallink>
 </item>
-<item>
+<tem>
 <title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 5)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>

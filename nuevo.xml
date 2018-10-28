@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<!-- Simplemente insertar la url del Acestream en url -->
+
+<item>
+<title>[COLOR green]AlfonStreams> # 0[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://b7778e31f916c3411e1bb993da847d5c4b191232&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]AlfonStreams> AXN WHITE[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://046caaa6f00ccc61e4cc3d092d4e8cd1123bb318&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]AlfonStreams> MOVISTAR + ACCION[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://a859dbbc749d4a3529d3ece665a5e7b38ca1563f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]AlfonStreams> MOVISTAR + ACCION (OPCIÓN 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://7776f9c5831e5558484f7c0a40b3a0b023db4a5b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]AlfonStreams> MOVISTAR + COMEDIA[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://423a590e2f5bf308643f73a76253605978c65722&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]AlfonStreams> MOVISTAR + COMEDIA (OPCIÓN 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://a223e31e283535cfbe8c41cd3010242be722a278&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]AlfonStreams> MOVISTAR + DCINE(OPCIÓN 2)[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://156ef8a21e8959259d47763e004587eae6dcf4ca&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
