@@ -1,67 +1,62 @@
 #EXTM3U
-#EXTINF:0 group-title="BAS", [BAS] 02:00 TV15 TORONTORAPTORS-BOSTONCELTICS
-acestream://35f4b25d18779eac4521217afe948e23363885ea
-#EXTINF:0 group-title="BAS", [BAS] 18:15 TV15 GRANCANARIA-ANDORRA
-acestream://35f4b25d18779eac4521217afe948e23363885ea
-#EXTINF:0 group-title="BAS", [BAS] 20:30 TV15 TENERIFE-ESTUDIANTES
-acestream://35f4b25d18779eac4521217afe948e23363885ea
-#EXTINF:0 group-title="FOR", [FOR] 18:00 TV12 FREEPRACTICE3
-acestream://5d82fcdaf461a0dfe55dab7d21a3a388cd01f29f
-#EXTINF:0 group-title="FOR", [FOR] 23:00 TV12 QUALIFYING
-acestream://5d82fcdaf461a0dfe55dab7d21a3a388cd01f29f
-#EXTINF:0 group-title="MOT", [MOT] 02:55 TV10 FREEPRACTICE3
-acestream://811f814c977abb492565e6e1aa0fe3174134c315
-#EXTINF:0 group-title="MOT", [MOT] 06:30 TV10 FREEPRACTICE4
-acestream://811f814c977abb492565e6e1aa0fe3174134c315
-#EXTINF:0 group-title="MOT", [MOT] 07:10 TV10 QUALIFYING1
-acestream://811f814c977abb492565e6e1aa0fe3174134c315
-#EXTINF:0 group-title="MOT", [MOT] 07:35 TV10 QUALIFYING2
-acestream://811f814c977abb492565e6e1aa0fe3174134c315
-#EXTINF:0 group-title="SOC", [SOC] 00:00 TV29 VELEZSARSFIELD-GIMNASIAYESGRIMA
-acestream://b24170a4d91825bdf1fd4ba62d4df8a0a5f87b3a
-#EXTINF:0 group-title="SOC", [SOC] 01:00 TV25 UNIONESPAÑOLA-DEPORTESTEMUCO
-acestream://52dbc74a6dd3a535b640d015e3bfbfb58adafdf5
-#EXTINF:0 group-title="SOC", [SOC] 02:15 TV29 CLUBATLETICOCOLON-RIVERPLATE
-acestream://b24170a4d91825bdf1fd4ba62d4df8a0a5f87b3a
-#EXTINF:0 group-title="SOC", [SOC] 04:00 TV27 CLUBATLAS-VERACRUZ
-acestream://3e1f9a91f9d2028e4e4e8d4a594371063922284d
-#EXTINF:0 group-title="SOC", [SOC] 10:50 TV03 MELBOURNEVICTORY-MELBOURNECITY
-acestream://e2a432c457cf513591901afb5603ce1f7b7c05ad
-#EXTINF:0 group-title="SOC", [SOC] 13:00 TV01 REALMADRID-LEVANTE
-acestream://b0ab000e277b6465107f353df09b4ac75af8d38d
-#EXTINF:0 group-title="SOC", [SOC] 13:00 TV03 CHELSEA-MANCHESTERUNITED
-acestream://e2a432c457cf513591901afb5603ce1f7b7c05ad
-#EXTINF:0 group-title="SOC", [SOC] 15:30 TV03 VFLWOLFSBURG-FCBAYERN
-acestream://e2a432c457cf513591901afb5603ce1f7b7c05ad
-#EXTINF:0 group-title="SOC", [SOC] 15:30 TV27 STUTTGART-BORUSSIADORTMUND
-acestream://3e1f9a91f9d2028e4e4e8d4a594371063922284d
-#EXTINF:0 group-title="SOC", [SOC] 16:00 TV09 REALOVIEDO-OSASUNA
-acestream://0f37704028fa52087a1de108aa7362440b282289
-#EXTINF:0 group-title="SOC", [SOC] 16:00 TV13 MANCHESTERCITY-BURNLEY
-acestream://f3f4dbc1963a4cf2264940029e9dcd43030facf5
-#EXTINF:0 group-title="SOC", [SOC] 16:15 TV01 VALENCIA-LEGANES
-acestream://b0ab000e277b6465107f353df09b4ac75af8d38d
-#EXTINF:0 group-title="SOC", [SOC] 17:00 TV25 O´HIGGINS-COLOCOLO
-acestream://52dbc74a6dd3a535b640d015e3bfbfb58adafdf5
-#EXTINF:0 group-title="SOC", [SOC] 18:00 TV12 ALCORCON-GRANADA
-acestream://5d82fcdaf461a0dfe55dab7d21a3a388cd01f29f
-#EXTINF:0 group-title="SOC", [SOC] 18:00 TV10 LASPALMAS-NUMANCIA
-acestream://811f814c977abb492565e6e1aa0fe3174134c315
-#EXTINF:0 group-title="SOC", [SOC] 18:15 TV29 GODOYCRUZ-ALDOSIVI
-acestream://b24170a4d91825bdf1fd4ba62d4df8a0a5f87b3a
-#EXTINF:0 group-title="SOC", [SOC] 18:30 TV01 VILLARREAL-ATLETICOMADRID
-acestream://b0ab000e277b6465107f353df09b4ac75af8d38d
-#EXTINF:0 group-title="SOC", [SOC] 18:30 TV03 HUDDERSFIELD-LIVERPOOL
-acestream://e2a432c457cf513591901afb5603ce1f7b7c05ad
-#EXTINF:0 group-title="SOC", [SOC] 20:00 TV09 CORDOBA-DEPORTIVO
-acestream://0f37704028fa52087a1de108aa7362440b282289
-#EXTINF:0 group-title="SOC", [SOC] 20:00 TV25 CURICOUNIDO-PALESTINO
-acestream://52dbc74a6dd3a535b640d015e3bfbfb58adafdf5
-#EXTINF:0 group-title="SOC", [SOC] 20:30 TV29 LANUS-PATRONATO
-acestream://b24170a4d91825bdf1fd4ba62d4df8a0a5f87b3a
-#EXTINF:0 group-title="SOC", [SOC] 20:45 TV01 FCBARCELONA-SEVILLAFC
-acestream://b0ab000e277b6465107f353df09b4ac75af8d38d
-#EXTINF:0 group-title="SOC", [SOC] 22:30 TV25 UNIONLACALERA-HUACHIPATO
-acestream://52dbc74a6dd3a535b640d015e3bfbfb58adafdf5
-#EXTINF:0 group-title="SOC", [SOC] 23:00 TV23 JAGUARESFC-MEDELLIN
-acestream://a3dbeb31f10a3cfb641c26971179a5eb71254bd0
+#EXTINF:0, Solo estan algunos activos
+http://
+#EXTINF:-1 group-title="amateur",deportes grupo telegram acestream_spanish
+acestream://f3694c072e862ff471ca56a1229aca0e4a8adeaa
+#EXTINF:-1 group-title="amateur",live 2 grupo telegram acestream_spanish
+acestream://ec272a57f28eaa8cfc7f9bd72a9d1b730127c999
+#EXTINF:-1 group-title="amateur",live grupo telegram acestream_spanish
+acestream://7871e61cd7fa04ee9b8de6ef03707473cc908106
+#EXTINF:-1 group-title="amateur",deportes 1 telegram acestream_spanish
+acestream://aeb4ff1ac985313c0f65d3d09ddc3b97234d0ff1
+#EXTINF:-1 group-title="amateur",Formula 1 telegram acestream_spanish
+acestream://2a11f7b5a57da2e4aa3d3568ca22046b12611dd6
+#EXTINF:0,CAnales ajenos al grupo
+xxx
+#EXTINF:0,Bein laLiga
+#EXTINF:0,AXN WHITE
+acestream://046caaa6f00ccc61e4cc3d092d4e8cd1123bb318
+#EXTINF:0,Bein laLiga
+acestream://d0ca776f278511ca37bea33a1b3e035dc64820f4
+#EXTINF:0,COMEDY CENTRAL
+acestream://a0076587bac14aecd3b0372a47f456e9136dc99b
+#EXTINF:0,cosmopolitan
+acestream://f5e49dcacc316cfc305d0684de4786a6b2d3323f
+#EXTINF:0,FOX
+acestream://559a08d580c1c586677f4a483a895c8e5cd6ba62
+#EXTINF:0,FOX LIFE
+acestream://639ba7367fab9fb843b8817d7698989e20e1a55e
+#EXTINF:0,Hollywood
+acestream://dcfa809578f9366cbd5d7998cc981531a6c73ade
+#EXTINF:0,LaLiga TV Bar
+acestream://97faaef2069e3869601667ee816101e9042e0296
+#EXTINF:0,Movistar AcciÃ³n
+acestream://a859dbbc749d4a3529d3ece665a5e7b38ca1563f
+#EXTINF:0,Movistar AcciÃ³n 2
+acestream://7776f9c5831e5558484f7c0a40b3a0b023db4a5b
+#EXTINF:0,Movistar comedia
+acestream://423a590e2f5bf308643f73a76253605978c65722
+#EXTINF:0,Movistar comedia 2
+acestream://a223e31e283535cfbe8c41cd3010242be722a278
+#EXTINF:0,Movistar dcine
+acestream://156ef8a21e8959259d47763e004587eae6dcf4ca
+#EXTINF:0,Movistar F1
+acestream://044370cb075b21f14b8cfbf184e7329e3f290a1f
+#EXTINF:0,Movistar FÃºtbol
+acestream://ff94da6a01f82981da0a19a7e33b901bcd419b47
+#EXTINF:0,Movistar Golf
+acestream://6d282daad1a3e88a6ddf8eed4d91a43d16fd993e
+#EXTINF:0,Movistar Moto GP
+acestream://d496faec5234ca3b3ed55d4c24e78004688813ca
+#EXTINF:0,Movistar Series xtra
+acestream://db5e74e5d04bc10997cff9dda13353765d6cbf10
+#EXTINF:0,#0
+acestream://b7778e31f916c3411e1bb993da847d5c4b191232
+#EXTINF:0,Telecinco
+acestream://37868ba5516d7be3132ed3b8e6936b208618bd0e
+#EXTINF:0,Cuatro
+acestream://f327935dd4da7edae22291918ed826c7880d8e7c
+#EXTINF:0,CAZAVISION
+acestream://a1c04e3932320fa347688ff59bd64327489ad564
+#EXTINF:0,REAL MADRID HD
+acestream://46592719583391b46e1b343de464d432ddb8a6fa
