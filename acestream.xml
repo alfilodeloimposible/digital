@@ -3,6 +3,20 @@
 
 <!-- Simplemente insertar la url del Acestream en url -->
 <item>
+<title>[COLOR green]Movistar AcciÃ³n[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://a859dbbc749d4a3529d3ece665a5e7b38ca1563f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Movistar AcciÃ³n 2[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://7776f9c5831e5558484f7c0a40b3a0b023db4a5b&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
 <title>[COLOR green]LaLiga TV Bar[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://97faaef2069e3869601667ee816101e9042e0296&amp;name=1</link>
 <thumbnail></thumbnail>
