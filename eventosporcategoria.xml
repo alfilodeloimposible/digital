@@ -120,7 +120,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">FOOTBALL<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">SOCCER<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
 <page>http://arenavision.us/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision.us/iguide</referer>
@@ -136,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]MMA[/B][/COLOR][COLOR mintcream][/COLOR] </title>
+<title>[COLOR mintcream]*[/COLOR][COLOR seashell]  [B]BASKETBALL[/B][/COLOR][COLOR mintcream][/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -162,7 +162,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info></info>
 </item>
 ]]></listrepeat>
-<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">MMA<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">BASKETBALL<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
 <page>http://arenavision.us/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision.us/iguide</referer>
