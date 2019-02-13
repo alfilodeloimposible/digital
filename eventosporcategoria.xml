@@ -12,8 +12,8 @@
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/$doregex[canal]</page>
-			<referer>http://arenavision2017.tk/</referer>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -28,9 +28,9 @@
 </item>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">$doregex[select][\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.tk/iguide</page>
+<page>http://arenavision.us/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk/iguide</referer>
+<referer>http://arenavision.us/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 
@@ -66,8 +66,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/$doregex[canal]</page>
-			<referer>http://arenavision2017.tk/</referer>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -82,9 +82,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">SOCCER<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.tk/iguide</page>
+<page>http://arenavision.us/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk/iguide</referer>
+<referer>http://arenavision.us/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
@@ -105,8 +105,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/$doregex[canal]</page>
-			<referer>http://arenavision2017.tk/</referer>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -121,9 +121,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">FOOTBALL<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.tk/iguide</page>
+<page>http://arenavision.us/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk/iguide</referer>
+<referer>http://arenavision.us/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
@@ -147,8 +147,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/$doregex[canal]</page>
-			<referer>http://arenavision2017.tk/</referer>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<regex>
@@ -163,9 +163,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">MMA<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision2017.tk/iguide</page>
+<page>http://arenavision.us/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk/iguide</referer>
+<referer>http://arenavision.us/iguide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
