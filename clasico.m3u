@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,TELEKOM SPORT 1
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://ee12685ce1cc1e52e054fb2b5453c320b1cf1998/
+#EXTINF:0,Digi1 hd
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://87172b4fbd677670539397673ad779df5ae3c0d2/
