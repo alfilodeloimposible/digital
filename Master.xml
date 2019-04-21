@@ -8,6 +8,26 @@
 </item>
 
 
+<item>
+<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Los vengadores[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/rDLmMzkaFMFWF1UnnlboMfifVXM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w185/rDLmMzkaFMFWF1UnnlboMfifVXM.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/bladerunner.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR RED][B]ESTRENOS[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/rDLmMzkaFMFWF1UnnlboMfifVXM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w185/rDLmMzkaFMFWF1UnnlboMfifVXM.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/regioflix.m3u</externallink>
+</item>
+
+
+
+<!--
+
 
  <tem>
             <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 7[/COLOR]</title>
@@ -68,13 +88,7 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv2.m3u</externallink>
 </item>
 
-<item>
-<title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B]Los vengadores[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/rDLmMzkaFMFWF1UnnlboMfifVXM.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w185/rDLmMzkaFMFWF1UnnlboMfifVXM.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/bladerunner.m3u</externallink>
-</item>
+
 <tem>
 <title>[COLOR yellow][B][  ][/B][/COLOR]  [COLOR lightgreen][B] LISTA movistar + (Opción 5)[/B][COLOR lime] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignorame</link>
@@ -82,6 +96,7 @@
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/iptv4.m3u</externallink>
 </item>
+
 <iem>
 <title>[COLOR lightgreen][B]listas acestream[/B][/COLOR] </title>
 <link>http://ignorame</link>
@@ -89,7 +104,7 @@
 <fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/peliculasiptv.m3u</externallink>
 </item>
-<!--
+
 <item>
 <title> [COLOR lightgreen][B]BEING SPORT FR[/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
