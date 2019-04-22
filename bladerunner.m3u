@@ -1,9 +1,14 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR tomato] * CINE[/COLOR] VIDOZA[COLOR cyan][/COLOR] [COLOR cyan] Los vengadores(2018)[/COLOR]
-https://1fizp0e.oloadcdn.net/dl/l/YxDlJBB2ym4diAIS/b1-O8n028EU/ESP-BRRIP720+4.V.3.N.G.3.R.S_1.N.F.1.N.1.T.Y_W.4.R.mp4?mime=true
-
-#EXTINF:1,[COLOR tomato]Movistar Canal Accion[/COLOR] 
+#EXTINF:0,[COLOR blue]Movistar Canal #0[/COLOR] 
 
 http://painel.ebanonet.com.br:25461/nene03/nene03/27136
+
+#EXTINF:0,[COLOR blue]Movistar Canal #Vamos[/COLOR] 
+
+http://painel.ebanonet.com.br:25461/nene03/nene03/27139
+
+#EXTINF:0,[COLOR blue]Movistar Canal #Amc[/COLOR] 
+
+http://painel.ebanonet.com.br:25461/nene03/nene03/27130
 
