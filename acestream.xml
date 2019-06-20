@@ -3,16 +3,146 @@
 
 <!-- Simplemente insertar la url del Acestream en url -->
 <item>
-<title>[COLOR red]inter - barcsa[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://cbce1eedbcea9bcd20779ad7f5a3d1b3418fdfe2&amp;name=1</link>
+<title>[COLOR red]AV 1[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://c85bd7ee39f1ddb8ccce0356e97d21966ae5282a&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]AV 2[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://c85bd7ee39f1ddb8ccce0356e97d21966ae5282a&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
 <item>
-<title>[COLOR green]Liga de Campeones[/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://4bc59d13698aa53146275b801b9e0e95d55f5e79;name=1</link>
+<title>[COLOR red]AV 3[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://302e1ec8227fd1be673bf480fcc8e0752752d1f7&amp;name=1</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
 </item>
 
+
+<item>
+<title>[COLOR red]AV 4[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://302e1ec8227fd1be673bf480fcc8e0752752d1f7&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 5[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://302e1ec8227fd1be673bf480fcc8e0752752d1f7&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]AV 6[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://302e1ec8227fd1be673bf480fcc8e0752752d1f7&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 7[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://e4b7906edf117e0263e0247932c6c3bcc5a4e9a0&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]AV 8[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://e4b7906edf117e0263e0247932c6c3bcc5a4e9a0&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 9[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://e4b7906edf117e0263e0247932c6c3bcc5a4e9a0&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]AV 10[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://edb3f24372991dbe2c9f543e8554a41491b0416f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 11[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://edb3f24372991dbe2c9f543e8554a41491b0416f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 12[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://edb3f24372991dbe2c9f543e8554a41491b0416f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 13[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=  acestream://dbf1a485904f08fc63bc9e93a964e8fa554d3cdc&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 14[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=  acestream://dbf1a485904f08fc63bc9e93a964e8fa554d3cdc&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 15[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://edb3f24372991dbe2c9f543e8554a41491b0416f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 16[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://edb3f24372991dbe2c9f543e8554a41491b0416f&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 17[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://73ee5c7fa1cbcf694ccbe39a8dfe8e390b4a91ed&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 18[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://73ee5c7fa1cbcf694ccbe39a8dfe8e390b4a91ed&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 19[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://73ee5c7fa1cbcf694ccbe39a8dfe8e390b4a91ed&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AV 20[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url= acestream://73ee5c7fa1cbcf694ccbe39a8dfe8e390b4a91ed&amp;name=1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
